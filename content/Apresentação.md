@@ -57,6 +57,7 @@ um modelo de multilocação, com diferentes
 recursos físicos e virtuais atribuídos
 dinamicamente de acordo com a demanda
 do consumidor;
+<!--A Pool de recursos é o agrupamento de recursos que funcionam em conjunto de modo dinamico de acordo com a necessidade vem a aparecer  -->
 
 - **Elasticidade rápida -** Os recursos podem
 ser provisionados e liberados elasticamente,
@@ -67,6 +68,7 @@ consumidor, os recursos disponíveis para
 utilização muitas vezes parecem ilimitados e
 podem ser apropriados em qualquer
 quantidade e a qualquer momento;
+<!--a Elesticidade fala sobre a dinamica que você tem a entrada e saida de arquivos de um serviço nuvem para um destino físico -->
 
 - **Serviço medido -** Os sistemas em nuvem
 controlam e otimizam automaticamente o
@@ -79,3 +81,4 @@ de recursos pode ser monitorado,
 controlado e relatado, fornecendo
 transparência tanto para o provedor quanto
 para o consumidor do serviço utilizado.
+<!-- -->
