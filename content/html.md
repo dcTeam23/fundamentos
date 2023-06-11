@@ -1,7 +1,6 @@
 ![Definicao](https://www.homehost.com.br/blog/wp-content/uploads/2019/07/oque-%C3%A9-html.jpg) <br>
 
 # HTML (Hypertext Markup Language) 💻🌐 <br>
-
 O HTML é uma linguagem de marcação utilizada para estruturar e organizar o conteúdo das páginas da web. Ela é a base fundamental da World Wide Web (WWW) e permite a criação de documentos web interativos.
 
 O HTML é composto por uma série de elementos de marcação que são utilizados para definir a estrutura e a semântica do conteúdo de uma página. Esses elementos são representados por tags HTML, que são colocadas dentro de um documento HTML para delimitar e identificar diferentes partes do conteúdo.
