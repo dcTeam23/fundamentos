@@ -1,1 +1,3 @@
 # Métodos de requisição HTTP
+
+<p>O protocolo HTTP define um conjunto de métodos de requisição responsáveis por indicar a ação a ser executada para um dado recurso. Embora esses métodos possam ser descritos como substantivos, eles também são comumente referenciados como HTTP Verbs (Verbos HTTP). Cada um deles implementa uma semântica diferente, mas alguns recursos são compartilhados por um grupo deles, como por exemplo, qualquer método de requisição pode ser do tipo <a href="safepag.md" rel="next">safe</a>, idempotent ou cacheable (en-US).</p>
