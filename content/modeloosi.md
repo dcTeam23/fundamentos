@@ -13,9 +13,9 @@ sistemas de computadores possam se
 comunicar.
 O **modelo OSI** pode ser visto como uma
 linguagem universal para Redes de
-computadores. É baseado no conceito de dividir
-um sistema de comunicação em sete camadas
-abstratas, empilhadas umas sobre as outras.
+computadores. 
+
+>  Esse modelo trabalha a partir de sete camadas responsáveis por partes distintas da comunicação entre sistemas de computadores e redes.
 
 
 
