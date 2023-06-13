@@ -17,6 +17,14 @@ computadores.
 
 >  Esse modelo trabalha a partir de sete camadas responsáveis por partes distintas da comunicação entre sistemas de computadores e redes.
 
-
+## As 7 camadas do Modelo OSI.
+---
+ * 7 Aplicação
+ * 6 Apresentação
+ * 5 Sessão
+ * 4 Transporte
+ * 3 Redes
+ * 2 Enlance ou Ligação 
+ * 1 Física
 
 
