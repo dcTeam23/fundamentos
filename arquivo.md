@@ -16,4 +16,5 @@ a ARPANET (Advanced Research Projects
 Agency Network).
 <br>
 <br>
-<img src="https://s3.amazonaws.com/s3.timetoast.com/public/uploads/photos/11718879/arpanet-5.jpg" alt="Arpanet"><!--Sua criação teve origem no contexto da Guerra Fria, quando havia uma grande tensão geopolítica entre os Estados Unidos e a União Soviética. Nesse período, o uso de computadores era predominantemente voltado para fins militares, projetos bélicos, espionagem e contraespionagem. A ARPANET foi desenvolvida como uma solução para a necessidade de transmitir informações altamente secretas e estratégicas entre diferentes pontos geográficos.-->
+<img src="https://img.ibxk.com.br/2014/07/04/04095227734127.gif">
+<!--Parte do livro de logs da universidade em 1969 sobre a ARPANET-->
