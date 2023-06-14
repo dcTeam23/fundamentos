@@ -10,3 +10,5 @@ A nuvem pública é um modelo em que os recursos de computação são fornecidos
 - **Escalabilidade sob demanda:** Os recursos podem ser facilmente escalados para cima ou para baixo conforme as necessidades de processamento e armazenamento.
 - **Redução de custos:** Os clientes pagam apenas pelos recursos que utilizam, evitando gastos com infraestrutura física e manutenção.
 - **Facilidade de uso:** A infraestrutura é gerenciada pelo provedor de serviços em nuvem, permitindo que os clientes se concentrem em seus aplicativos e dados.
+
+<img src="https://www.scurra.com.br/blog/wp-content/uploads/2017/08/cloud-hibryd.png" alt="Texto alternativo" width="600" height="auto">
