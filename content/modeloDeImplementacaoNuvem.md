@@ -11,4 +11,11 @@ A nuvem pública é um modelo em que os recursos de computação são fornecidos
 - **Redução de custos:** Os clientes pagam apenas pelos recursos que utilizam, evitando gastos com infraestrutura física e manutenção.
 - **Facilidade de uso:** A infraestrutura é gerenciada pelo provedor de serviços em nuvem, permitindo que os clientes se concentrem em seus aplicativos e dados.
 
+### 2. Nuvem Privada
+A nuvem privada é um modelo em que a infraestrutura de nuvem é exclusivamente dedicada a uma única organização. Pode ser implantada localmente ou hospedada por um provedor de serviços gerenciados. Algumas características da nuvem privada incluem:
+
+- Controle total: A organização tem controle completo sobre a infraestrutura e configurações da nuvem, proporcionando maior segurança e conformidade com regulamentações.
+- Personalização: A nuvem privada pode ser personalizada para atender às necessidades específicas da organização, incluindo integração com sistemas existentes.
+- Maior flexibilidade: A nuvem privada permite uma maior personalização de recursos e oferece mais controle sobre o desempenho e a segurança.
+
 <img src="https://www.scurra.com.br/blog/wp-content/uploads/2017/08/cloud-hibryd.png" alt="Texto alternativo" width="600" height="auto">
