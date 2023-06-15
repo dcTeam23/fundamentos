@@ -22,16 +22,16 @@ _class: invert
 ---
 
 <!-- 2º slide -->
-![w:140](https://marp.app/assets/marp-logo.svg)
+![w:140](https://marp.app/assets/marp-logo.svg)<!--fit-->
 
-#Bem vindos!
+# Bem vindos
 
 - curso: _Fullstack_, turma: _23_
 - aluna: _Janaína Tannus_
 - aula 4:
-        - **Introdução ao TCP/IP**
-            - O que é IP
-            - 
+                 - **Introdução ao TCP/IP**
+                - O que é IP
+                - 
 
 ---
 <!-- 3º slide pag.29 -->
