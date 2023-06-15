@@ -55,3 +55,17 @@ A responsabilidade dessa camada é a de transmitir dados entre um host a outro e
 ---
 Essa camada é uma das mais importantes do modelo OSI. Isso porque ela é responsável pela ligação de cabos físicos ou sem fio entre toda a rede. Outra característica é que a transmissão dos dados brutos é feita a partir daqui.
 
+>Por que o modelo OSI é importante?
+Embora a internet moderna não siga
+estritamente o modelo OSI (segue mais de
+perto um conjunto mais simples de protocolos
+da internet), o modelo continua sendo muito útil
+para solucionar problemas de Rede. Seja uma
+pessoa que não consegue colocar seu notebook
+na internet ou um site que esteja inativo para
+milhares de usuários, o modelo OSI pode ajudar
+a resolver e isolar a fonte do problema. Se o
+problema puder ser reduzido a uma camada
+específica do modelo, muito trabalho
+desnecessário poderá ser evitado.
+
