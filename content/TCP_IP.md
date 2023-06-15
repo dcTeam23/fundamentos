@@ -66,3 +66,8 @@ maneira confiável, ou seja, sem que os dados sejam corrompidos ou alterados.<!-
 ![w:500](https://www.datarain.com.br/wp-content/uploads/2020/08/modelo-TCP-IP.png)
 
 ---
+
+---
+<!--9º slide pag.29 -->
+
+---
