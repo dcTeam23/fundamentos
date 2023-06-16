@@ -26,4 +26,4 @@ Agency Network)**.
 <br>
 <br>
 <img src="https://img.ibxk.com.br/2014/07/04/04095227734127.gif">
-<figcaption><em>Parte do livro de **logs** da universidade em 1969 sobre a ARPANET</em></figcaption>
+<figcaption><em>Parte do livro de logs da universidade em 1969 sobre a ARPANET</em></figcaption>
