@@ -11,6 +11,8 @@ Em 29 de outubro de 1969, como parte do experimento **ARPANET**, a primeira mens
 <br><br>
 <img src="https://tse2.mm.bing.net/th?id=OIP.7Yr041W87GmwLi95DlH7YwHaC9&pid=Api&P=0&h=180" ><figcaption><em>A primeira mensagem enviada pela internet foi um **"LO"**</em></figcaption>
 <br>
+## **Destinos Bélicos**
+<br>
 Como vimos que o mundo vivia em grande
 tensão, o uso dessas máquinas era destinado
 principalmente para projetos bélicos,
