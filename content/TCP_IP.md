@@ -68,12 +68,13 @@ _class: lead -->
 # **dos protocolos de comunicação**
 
 ---
-<!--Bem-vindos a uma jornada fascinante pelo passado, onde vamos explorar a história do surgimento dos protocolos de comunicação.-->
+<!--Agora vamos explorar a história do surgimento dos protocolos de comunicação.-->
 <!-- _class: lead -->
-### Antes da era da Internet, quando as redes de computadores estavam em sua infância, diferentes protocolos competiam pelo domínio, cada um com sua própria forma de estabelecer comunicação.
+### Antes da era da Internet, quando as redes de computadores estavam iniciando, diferentes protocolos competiam pelo domínio, cada um com sua própria forma de estabelecer comunicação.
 
 <!-- Um dos protagonistas dessa história é o TCP/IP, o protocolo que acabou se tornando o padrão mundial para a comunicação em redes. Mas antes de alcançar esse status, outros protocolos também desempenharam papéis importantes. Vamos mencionar alguns deles, como o NETBEUI, o IPX/SPX e o Apple Talk.
 Esses protocolos eram utilizados nas redes das empresas e, em seu auge, cada um deles tinha sua própria capacidade de estabelecer comunicação. Era como se diferentes línguas estivessem sendo faladas em cada rede, dificultando a interoperabilidade e a troca de informações.-->
+
 ---
 <!-- imagem -->
 <!-- No entanto, à medida que a necessidade de interconexão e compartilhamento de recursos crescia, tornou-se evidente a necessidade de um protocolo comum que unificasse as redes. E assim, o TCP/IP emergiu como um vencedor claro-->
@@ -83,11 +84,44 @@ Esses protocolos eram utilizados nas redes das empresas e, em seu auge, cada um 
 # **TCP/IP:**
 ### (Transmission Control Protocol/Internet Protocol)
 
-### O TCP é um protocolo de transporte e executa importantes funções para garantir que os dados sejam entregues de uma maneira confiável, ou seja, sem que os dados sejam corrompidos ou alterados.
+### O TCP é um protocolo de comunicação utilizado em redes de computadores para garantir a entrega confiável e ordenada de dados entre dispositivos. 
+
+---
+<!-- imagem -->
+<!-- _class: lead -->
+#### Ele é responsável por estabelecer uma conexão virtual entre remetentes e destinatários, dividir os dados em pacotes e controlar o fluxo de transmissão, sem que os dados sejam corrompidos ou alterados.
+
 <!-- O TCP/IP ganhou destaque devido à sua capacidade de conectar redes heterogêneas, permitindo a comunicação entre diferentes sistemas operacionais e dispositivos. Ele foi desenvolvido ao longo de décadas, como resultado de pesquisas e colaborações entre cientistas, engenheiros e acadêmicos.-->
+
+---
+<!-- imagem -->
+<!-- _class: lead -->
+#### O TCP oferece várias funcionalidades essenciais para a comunicação eficiente e confiável na internet e em outras redes. Algumas das principais finalidades do TCP são:
+
+Confiabilidade
+<!-- O TCP garante a entrega confiável dos dados, verificando se os pacotes são recebidos corretamente e retransmitindo-os, se necessário. Ele também controla a detecção e a recuperação de erros durante a transmissão.-->
+Ordenação
+<!-- O TCP mantém a ordem correta dos pacotes de dados durante a transmissão, reorganizando-os, se necessário. Isso garante que os dados sejam recebidos na mesma sequência em que foram enviados.-->
+Controle de Fluxo
+<!-- O TCP controla o fluxo de transmissão, ajustando a taxa de envio dos pacotes de acordo com a capacidade da rede e a capacidade de processamento do destinatário. Isso evita a sobrecarga da rede e a perda de pacotes devido a congestionamento.-->
+Segmentação
+<!-- O TCP divide os dados em segmentos de tamanho apropriado para a transmissão pela rede. Isso permite que grandes quantidades de dados sejam transmitidas de forma eficiente e evita problemas de congestionamento.-->
+Estabelecimento e encerramento de conexão
+<!-- O TCP estabelece uma conexão virtual entre remetentes e destinatários, permitindo a troca de dados. Ele também gerencia o encerramento dessa conexão de forma adequada e segura.-->
+
+---
+
+### O IP tem a função de fornecer endereçamento e identificação para cada dispositivo conectado à rede, permitindo que os pacotes de dados sejam corretamente encaminhados entre remetentes e destinatários.
+<!--O IP é responsável por atribuir um endereço IP único a cada dispositivo na rede, seja ele um computador, smartphone, servidor ou qualquer outro dispositivo conectado à internet. Esse endereço IP funciona como uma identificação exclusiva do dispositivo, permitindo que os pacotes de dados sejam roteados corretamente através da rede.
+
+Além disso, o IP define como os pacotes de dados devem ser fragmentados, encapsulados e transmitidos entre os dispositivos. Ele estabelece regras para o envio, roteamento e recebimento dos pacotes, garantindo a integridade e a confiabilidade da comunicação.
+
+Em resumo, o Internet Protocol (IP) serve para fornecer identificação e endereçamento único aos dispositivos na rede, permitindo a transmissão correta dos pacotes de dados e garantindo a comunicação eficiente entre eles. Sem o IP, não seria possível estabelecer a conectividade e a troca de informações que caracterizam a internet e as redes de computadores.-->
+
 ---
 <!-- imagem -->
 <!-- À medida que a popularização da Internet crescia, o TCP/IP se consolidou como o protocolo padrão, impulsionando a expansão da rede mundial de computadores. Ele foi adotado por organizações, empresas e governos ao redor do mundo, criando um ambiente de conectividade sem precedentes. -->
+
 ---
 <!-- _class: lead -->
 ![w:700](https://www.datarain.com.br/wp-content/uploads/2020/08/modelo-TCP-IP.png)
@@ -97,6 +131,7 @@ Esses protocolos eram utilizados nas redes das empresas e, em seu auge, cada um 
 A história dos protocolos de comunicação é uma prova do poder da inovação e da busca por uma linguagem comum que transcende fronteiras e diferenças. A evolução desses protocolos nos conduziu a um futuro interconectado, onde a comunicação é instantânea e o compartilhamento de conhecimento é ilimitado.
 
 Nesta jornada pelo passado, podemos apreciar o impacto transformador dos protocolos de comunicação e a maneira como eles moldaram o mundo em que vivemos hoje. E enquanto continuamos avançando em direção ao desconhecido, podemos olhar para trás e agradecer aos pioneiros que nos trouxeram até aqui, conectando pessoas, ideias e possibilidades.-->
+
 ---
 <!-- _class: lead -->
 # **Conectividade de Rede** 
@@ -104,6 +139,7 @@ Nesta jornada pelo passado, podemos apreciar o impacto transformador dos protoco
 # **nos Principais Sistemas Operacionais**
 
 <!-- Os principais sistemas operacionais do mercado que utilizam o TCP/IP como base para a conectividade de rede são: -->
+
 ---
 <!-- imagem -->
 <!-- Windows: O sistema operacional Windows, desenvolvido pela Microsoft, suporta nativamente o protocolo TCP/IP. Ele é amplamente utilizado em computadores pessoais e em muitos ambientes corporativos.-->
@@ -116,6 +152,7 @@ Nesta jornada pelo passado, podemos apreciar o impacto transformador dos protoco
 
 <!-- imagem -->
 <!--Além desses três principais sistemas operacionais, muitos outros sistemas, como Unix, Android e iOS, também utilizam o TCP/IP como base para a conectividade de rede. Isso demonstra a importância e a onipresença desse protocolo no mundo da tecnologia, permitindo a comunicação eficiente entre diferentes dispositivos e sistemas operacionais. -->
+
 ---
 # Conclusão:
 
