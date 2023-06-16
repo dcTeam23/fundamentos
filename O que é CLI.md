@@ -45,6 +45,21 @@ Abaixo estão alguns exemplos de prompts de comando para diferentes interfaces d
 <br>
 <font size=4>Uma Interface de Linha de Comando pode ter vários benefícios dependendo do profissional que a utiliza. Para começar vamos avaliar os usos e vantagens da CLI para administradores de sistemas e desenvolvedores de software.
 </font>
+<br><br>
+<font size=6>
+**Do ponto de vista dos administradores de sistemas**
+</font><br>
+<font size=4>
+A maioria das pessoas prefere uma interface de usuário gráfica a uma de linha de comando. No entanto, algumas operações podem ser concluídas mais rapidamente usando um teclado em vez de um mouse. Portanto, as CLIs são frequentemente usadas por administradores de sistemas para tarefas comuns.
+
+Esses administradores de sistema usam a CLI, por exemplo, para verificar as configurações do sistema operacional do computador e realizam algumas tarefas diretamente no nível do sistema operacional que, de outra forma, exigiriam o download de software adicional para usar uma GUI.
+
+Eles também precisam monitorar todos os softwares ou atualizações do sistema operacional e executar algumas tarefas periodicamente em cada sistema por automação. O bom disso é que eliminam assim a necessidade de executar essas tarefas manualmente no dia a dia.
+
+Outro uso importante é que uma configuração pode ser alterada remotamente apenas executando alguns comandos no computador. Em outras palavras, sem a necessidade de estar fisicamente presente no mesmo local desse computador e fazer essa tarefa manualmente.
+
+O uso da CLI reduz muito tempo e esforços dos administradores de sistema. Além disso, também garante que o risco de segurança possa ser rastreado e evitado mesmo em grandes estruturas organizacionais (e com o mínimo de trabalho humano!).
+</font>
 
 
 
