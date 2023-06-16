@@ -77,5 +77,20 @@ transferência de hipertexto (HTTP).
 
 ---
 
+<!-- modernos conseguem, além de traduzirem os
+documentos HTML, visualizar arquivos no
+formato .pdf, visualizar imagens -->
+Firefox, Google Chrome, Microsoft Edge,
+Apple Safari, Opera, Brave, Vivaldi, DuckDuckGo,
+Chromium e Epic. 
 
-![w:800](https://geek360.com.br/wp-content/uploads/2019/03/melhores-navegadores-.png)
+Atualmente, os navegadores conseguem traduzirem 
+documentos HTML, visualizar arquivos no formato .pdf e visualizar imagens
+
+
+![w:500](https://geek360.com.br/wp-content/uploads/2019/03/melhores-navegadores-.png)
+
+---
+<!--_color: #11599E-->
+<!--_backgroundColor: #81c1fe-->
+![w:600](https://media4.giphy.com/media/8buM8ZQ9naxQptpCmM/giphy.gif)
