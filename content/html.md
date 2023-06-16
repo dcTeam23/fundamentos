@@ -1,6 +1,6 @@
 
 <p align="middle">
-<img src="https://www.homehost.com.br/blog/wp-content/uploads/2019/07/oque-%C3%A9-html.jpg">
+<img src="https://www.homehost.com.br/blog/wp-content/uploads/2019/07/oque-%C3%A9-html.jpg" height="310px" width="830px">
 </p>
 # HTML (Hypertext Markup Language) 💻🌐 <br>
 O HTML é uma linguagem de marcação utilizada para estruturar e organizar o conteúdo das páginas da web. Ela é a base fundamental da World Wide Web (WWW) e permite a criação de documentos web interativos.
@@ -27,8 +27,11 @@ A necessidade de uma linguagem de marcação surgiu devido ao aumento da quantid
 A primeira especificação oficial do HTML, conhecida como HTML 2.0, foi lançada em 1995. Desde então, o HTML passou por várias revisões e evoluiu para se adaptar às demandas e avanços tecnológicos da web. As principais organizações envolvidas no desenvolvimento e padronização do HTML são a W3C (World Wide Web Consortium) e a WHATWG (Web Hypertext Application Technology Working Group). <br><br>
 
 # Exemplo de Codigo Html <br>
-![Exemplo-html](https://jera.com.br/blog/wp-content/uploads/2020/11/Introdu%C3%A7%C3%A3o_HTML_CSS_1.png) <br>
-![Pagina-gerada](https://jera.com.br/blog/wp-content/uploads/2020/11/Introdu%C3%A7%C3%A3o_HTML_CSS_2.png)
+<p align="middle">
+<img src="https://jera.com.br/blog/wp-content/uploads/2020/11/Introdu%C3%A7%C3%A3o_HTML_CSS_1.png" height="310px" width="830px"> <br> <br>
+
+<img src="https://jera.com.br/blog/wp-content/uploads/2020/11/Introdu%C3%A7%C3%A3o_HTML_CSS_2.png"  height="310px" width="830px">
+</p>
 
 
 
