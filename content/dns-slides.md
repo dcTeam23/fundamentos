@@ -2,11 +2,14 @@
 marp: true
 author: rodolfobertini
 theme: default
-paginate: true  
+paginate: true
+header: 'Apresentação: O que é DNS?'
+footer: 'Exercício Markdown - Digital College - Turma FS23-Aldeota'  
 ---
 
 ## Introdução ao DNS
 
+<!-- DNS é a sigla para Domain Name System, que significa Sistema de Nomes de Domínios. É um serviço que permite associar nomes aos endereços IP dos computadores na internet. Por exemplo, quando você digita www.bing.com no seu navegador, o DNS é responsável por encontrar o endereço IP correspondente a esse nome e direcionar a sua conexão para o servidor certo. Assim, você não precisa memorizar números complicados para acessar os sites que deseja. -->
 - O que é DNS?
 - Significado: Sistema de Nomes de Domínio (Domain Name System)
 - Função principal: Traduzir nomes de domínio em endereços IP
