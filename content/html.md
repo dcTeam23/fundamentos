@@ -13,7 +13,7 @@ Além disso, o HTML trabalha em conjunto com outras tecnologias web, como o CSS 
 
 Em resumo, o HTML é a linguagem base para construir páginas da web, permitindo a estruturação e organização do conteúdo, tornando-o acessível e interativo para os usuários. <br> <br> <br>
 
-![Origem](https://www.htmlecsspro.com/uploads/images/2018/04/breve-historia-do-html-1523364253.png) <br>
+<img src="https://www.htmlecsspro.com/uploads/images/2018/04/breve-historia-do-html-1523364253.png" height="330px" width="830px">
 
 # Origem 🚀 <br>
 O Html foi criado por Tim Berners-Lee e sua equipe no CERN (Organização Europeia para a Pesquisa Nuclear) no início da década de 1990. O HTML foi projetado como parte do projeto World Wide Web (WWW) para facilitar o compartilhamento de informações entre pesquisadores.
