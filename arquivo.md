@@ -1,6 +1,9 @@
 ---
 marp:true
+theme:gaia
 author:Rodrigo Neto
+_class:lead
+paginate:true
 ---
 # **A primeira mensagem de rede** 
 <br><br>
