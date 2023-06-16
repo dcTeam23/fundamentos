@@ -41,3 +41,5 @@ massa fez com que os americanos pensassem
 em uma forma de trafegar seus dados entre as
 bases militares de maneira segura, confiável e
 rápida.
+
+![Tráfego de Dados Anos 60](https://netnature.files.wordpress.com/2019/08/eniac-ediva-e-neuman.png?w=551&h=219)
