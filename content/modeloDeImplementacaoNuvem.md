@@ -45,4 +45,7 @@ Escolher o melhor modelo de implantação de nuvem depende das necessidades e re
 > Em resumo, escolher o melhor modelo de implantação de nuvem envolve considerar fatores como ***segurança, escalabilidade, controle, custo, continuidade dos negócios e recursos disponíveis***. É importante analisar as necessidades e prioridades da sua organização para fazer uma escolha informada. Em muitos casos, uma abordagem híbrida que combina nuvem pública e privada pode ser uma solução eficaz.
 
 <br>
-<img src="https://www.scurra.com.br/blog/wp-content/uploads/2017/08/cloud-hibryd.png" alt="Tipos de implementacao de nuvem" width="700" height="auto">
+
+<p align="center">
+  <img src="https://www.scurra.com.br/blog/wp-content/uploads/2017/08/cloud-hibryd.png" alt="Tipos de implementacao de nuvem" width="700" height="auto" >
+</p>
