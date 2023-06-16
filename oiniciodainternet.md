@@ -43,3 +43,45 @@ bases militares de maneira segura, confiável e
 rápida.
 
 ![Tráfego de Dados Anos 60](https://netnature.files.wordpress.com/2019/08/eniac-ediva-e-neuman.png?w=551&h=219)
+
+### **A Primeira Mensagem na Rede**
+---
+#### No início dos anos 50 os computadores
+existiam apenas em grandes laboratórios, eram
+enormes (em um deles cabia até uma pessoa
+dentro, no caso para fazer a manutenção, já
+imaginou?) e tinha o objetivo principal de fazer
+cálculos em larga escala.
+Não haviam grandes fabricantes, empresas não
+possuíam e tão pouco nas casas das pessoas.
+Era algo inimaginável. Apenas as grandes
+potências da época possuíam alguma máquina
+dessas como Estados Unidos, Inglaterra e
+França, as nações pioneiras na criação da
+internet.
+Como vimos que o mundo vivia em grande
+tensão, o uso dessas máquinas era destinado
+principalmente para projetos bélicos,
+espionagem, contra espionagem. Assim, houve
+uma necessidade de trafegar informações de
+grande segredo entre locais distantes e foi em
+um laboratório do Departamento de Defesa dos
+Estados Unidos que começaram a desenvolver
+a ARPANET (Advanced Research Projects
+Agency Network).
+04
+Fundamentos da programação Web
+Conceitos e fundamentos da Web
+Unidade 1 • Módulo 1 • Aula 1
+Quando a primeira rede de comutação de
+pacotes foi desenvolvida, Leonard Kleinrock foi
+a primeira pessoa a usá-la para enviar uma
+mensagem. Ele usou um computador na UCLA
+para enviar uma mensagem a um computador
+em Stanford. Kleinrock tentou digitar 'login', mas
+o sistema travou depois que as letras 'L' e 'O'
+apareceram no monitor de Stanford.
+Uma segunda tentativa foi bem-sucedida e mais
+mensagens foram trocadas entre os dois sites.
+A ARPANET nasceu.
+
