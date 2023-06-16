@@ -5,6 +5,7 @@ theme: gaia
 _class: lead
 paginate: true
 backgroundColor: #101010
+size: 4:3
 ---
 <!-- 1º slide -->
 <!-- _paginate: false -->
