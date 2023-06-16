@@ -39,7 +39,12 @@ Abaixo estão alguns exemplos de prompts de comando para diferentes interfaces d
 - Windows (DOS): **C: >**
 - OS X (bash shell): : my-mac: / me $
 - Linux (bash shell): [root @ myserver /] #
-<font>
+
+<br><br>
+<font size=6>**Para que serve uma CLI?**</font>
+<br>
+<font size=4>Uma Interface de Linha de Comando pode ter vários benefícios dependendo do profissional que a utiliza. Para começar vamos avaliar os usos e vantagens da CLI para administradores de sistemas e desenvolvedores de software.
+</font>
 
 
 
