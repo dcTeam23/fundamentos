@@ -1,9 +1,10 @@
 # CACHE E COOKIES
-vamos falar de cookies,
+## introdução
 <br>
-cookies e um mecanismo que todos os sites exige
-<BR>
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/2ChocolateChipCookies.jpg/800px-2ChocolateChipCookies.jpg" width="100" height="100">
+cookies são pequenos pacotes de arquivos de texto que informam ao navegador que você já acessou determinado link.
+<br>
+significa guardar informações de sua navegação em um site
+
 
 
 
