@@ -1,5 +1,8 @@
 # Modelo OSI
 
+
+### O que é o Modelo Osi?
+
 ### O que é o Modelo OSI?
 ---
 O modelo Interconexão de Sistemas Abertos
@@ -15,7 +18,11 @@ O **modelo OSI** pode ser visto como uma
 linguagem universal para Redes de
 computadores. 
 
+
 >  Esse modelo trabalha a partir de sete camadas responsáveis por partes distintas da comunicação entre sistemas de computadores e redes.
+
+
+
 
 ## As 7 camadas do Modelo OSI.
 ---
@@ -55,6 +62,7 @@ A responsabilidade dessa camada é a de transmitir dados entre um host a outro e
 ---
 Essa camada é uma das mais importantes do modelo OSI. Isso porque ela é responsável pela ligação de cabos físicos ou sem fio entre toda a rede. Outra característica é que a transmissão dos dados brutos é feita a partir daqui.
 
+
 > Por que o modelo OSI é importante?
 Embora a internet moderna não siga
 estritamente o modelo OSI (segue mais de
@@ -68,4 +76,5 @@ a resolver e isolar a fonte do problema. Se o
 problema puder ser reduzido a uma camada
 específica do modelo, muito trabalho
 desnecessário poderá ser evitado.
+
 
