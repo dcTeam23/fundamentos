@@ -1,8 +1,6 @@
 # Modelo OSI
 
 
-### O que é o Modelo Osi?
-
 ### O que é o Modelo OSI?
 ---
 O modelo Interconexão de Sistemas Abertos
@@ -20,8 +18,6 @@ computadores.
 
 
 >  Esse modelo trabalha a partir de sete camadas responsáveis por partes distintas da comunicação entre sistemas de computadores e redes.
-
-
 
 
 ## As 7 camadas do Modelo OSI.
