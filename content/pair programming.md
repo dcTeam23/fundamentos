@@ -19,6 +19,7 @@ Pair Programming é uma técnica de programação em que duas pessoas trabalham 
 3. **Definir metas claras:** Estabelecer objetivos e tarefas específicas para cada sessão de pair programming ajuda a manter o foco e a produtividade.
 4. **Dar e receber feedback:** Oferecer feedback construtivo e aceitar críticas de maneira positiva contribui para o crescimento individual e melhoria contínua.
 
+
 ## Conclusão
 
 Pair Programming é uma abordagem colaborativa que traz benefícios significativos para o desenvolvimento de software. Ao trabalhar em equipe, programadores podem melhorar a qualidade do código, acelerar a resolução de problemas e promover o aprendizado mútuo. Experimente o Pair Programming em seus projetos e aproveite suas vantagens!
