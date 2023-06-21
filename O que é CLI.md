@@ -72,6 +72,20 @@ Outro uso importante para programadores é ao **escrever o código do aplicativo
 Agora o desenvolvedor tem a opção de adicionar essas referências / bibliotecas usando uma GUI ou uma CLI.
 
 A vantagem da CLI aqui é que ela permite instalar essa biblioteca específica em um único comando. Enquanto ao pesquisar uma biblioteca na GUI, você terá várias opções com base no comportamento do mecanismo de pesquisa, o que às vezes, pode fazer com que o desenvolvedor instale uma referência incorreta.
+<br><br>
+<font size=6>**Vantagens de usar uma CLI**</font><br><br>
+Há diversas vantagens de usar uma Interface de Linha de Comando, por exemplo:
+
+- Se um usuário conhece ou pode lembrar os comandos, uma tarefa pode ser executada mais rapidamente em uma CLI em comparação com uma GUI.
+
+- O histórico dos últimos comandos executados pode ser mantido para monitoramento.
+
+- Os comandos podem ser combinados para criar um script que pode ser executado para realizar uma série de operações. Além disso, ele pode ser agendado para que possa ser executado periodicamente sem nenhum esforço humano adicional.
+
+- Um comando executado via CLI utiliza muito menos memória RAM e ciclo de CPU para a conclusão.
+
+- Um comando via CLI pode ser executado em um sistema remotamente e ser executado sem o conhecimento de um usuário também.
+
 
 
 
