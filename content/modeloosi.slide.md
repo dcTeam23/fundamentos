@@ -3,7 +3,7 @@ marp: true
 theme: gaia
 _class: lead
 paginate: true
-color: #fff
+color: #000
 BackgroundColor: #fff
 BackgroundImage: url('https://media.licdn.com/dms/image/C4E0DAQEG5kUbG3kzQw/learning-public-crop_288_512/0/1567117705208?e=2147483647&v=beta&t=aj4p8bK0oDlZwEqvaS5Xc2y4mA8vdzJLY95OSCwYzJs')
 ---
