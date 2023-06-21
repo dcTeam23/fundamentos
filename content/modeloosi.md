@@ -27,7 +27,7 @@ computadores.
  * 5 Sessão
  * 4 Transporte
  * 3 Redes
- * 2 Enlance ou Ligação 
+ * 2 Enlace ou Ligação 
  * 1 Física
 
 #### Aplicação
@@ -50,7 +50,7 @@ A camada de transporte pega os dados e os quebra em segmentos. Em seguida, na pa
 ---
 A responsabilidade dessa camada é a de transmitir dados entre um host a outro em diferentes redes. Do mesmo modo, é válido apontar que outra importante função é a de cuidar dos pacotes de roteamento, selecionando o caminho mais curto para isso.
 
-#### Enlance ou Ligação
+#### Enlace ou Ligação
 ---
 É nesta parte que ocorre a conexão entre dois nós conectados fisicamente em uma rede. Essa camada do **modelo OSI** é composta por duas partes: o controle de enlace lógico (LLC), que identifica e checa erros; e o media access control (MAC), que usa endereços MAC para conectar e definir permissões nos dispositivos.
 

@@ -36,7 +36,7 @@ BackgroundImage: url('https://media.licdn.com/dms/image/C4E0DAQEG5kUbG3kzQw/lear
 
 ---
 
-# Enlance
+# Enlace
 
 **É nesta parte que ocorre a conexão entre dois nós conectados fisicamente em uma rede. Essa camada do modelo OSI é composta por duas partes: o controle de enlace lógico (LLC), que identifica e checa erros; e o media access control (MAC), que usa endereços MAC para conectar e definir permissões nos dispositivos.**
 
