@@ -86,7 +86,14 @@ Há diversas vantagens de usar uma Interface de Linha de Comando, por exemplo:
 
 - Um comando via CLI pode ser executado em um sistema remotamente e ser executado sem o conhecimento de um usuário também.
 
+<font size=6>**Conclusão**</font><br><br>
+Embora a interface do usuário em sistemas operacionais tenha percorrido um longo caminho de CLI para GUI, é necessário ver que a CLI ainda encontra muito uso e aplicações, principalmente na área de TI.
 
+**Uma CLI pode economizar parte do seu tempo** se você estiver fazendo alguma tarefa repetida com a GUI.
+
+No geral, uma CLI exige que você se lembre de alguns comandos e pode ser um pouco confusa no início.
+
+Mas se você for paciente e interessado o suficiente, este tipo de ferramenta ainda pode fazer maravilhas e ajudá-lo a economizar um tempo precioso. Além de fornecer alta confiabilidade para executar algumas tarefas críticas.
 
 
 
