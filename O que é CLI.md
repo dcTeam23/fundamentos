@@ -1,7 +1,7 @@
 # <font size=7><font color=#ff9b44> **O que é CLI?**</font></font>
 <font size=6> **CLI** ou **Command Line Interface**</font> 
 
-<font size=4> De uma forma simples, a sigla significa Interface de Linha de Comando. Ele é um programa que permite que os usuários digitem comandos de texto dando instruções a um computador para fazer funções específicas.</font>
+<font size=4> De uma forma simples, a sigla significa Interface de Linha de Comando. Ele é um programa que permite que os usuários digitem comandos de texto dando instruções a um computador para fazer funções específicas.</font> 
 <br>
 <img src="https://www.shutterstock.com/image-vector/cli-command-line-interface-acronym-260nw-1899898480.jpg" alt="Command Line Interface" width="650px">
 <br>
@@ -11,7 +11,7 @@
 <br>
 <font size=4>A sigla em inglês <i>**command-line interface**</i> **(CLI)**, significa **Interface de Linha de Comando (ILC)**. Geralmente, ela representa um programa funcionando através de linhas de comando, que aceita entrada de texto para executar funções do sistema operacional.
 
-Além disso, CLI também pode ser usada para se referir a outros termos como **Intérprete de linha de comando** *(Command Line Interpreter)* ou **Entrada de linha de comando** *(Command Line Input)*.
+<right> Além disso, CLI também pode ser usada para se referir a outros termos como **Intérprete de linha de comando** *(Command Line Interpreter)* ou **Entrada de linha de comando** *(Command Line Input)*.</right> 
 
 Na década de 1960, a CLI era a única maneira de interagir com computadores, ou seja, usando apenas terminais de computador. 
 
@@ -60,6 +60,18 @@ Outro uso importante é que uma configuração pode ser alterada remotamente ape
 
 O uso da CLI reduz muito tempo e esforços dos administradores de sistema. Além disso, também garante que o risco de segurança possa ser rastreado e evitado mesmo em grandes estruturas organizacionais (e com o mínimo de trabalho humano!).
 </font>
+<br><br>
+<font size=6>**Do ponto de vista dos desenvolvedores**</font><br>
+
+Os desenvolvedores também usam ferramentas CLI para seu trabalho diário de forma frequente.
+
+Sabemos que um programador trabalha com muitos aplicativos ao mesmo tempo. Por isso, a  maneira ideal para **ele abrir um aplicativo ou caminho em seu(s) computador(es)** é por meio de linhas de comando na CLI.
+
+Outro uso importante para programadores é ao **escrever o código do aplicativo que estão desenvolvendo.** Na maioria das vezes, os programadores são obrigados a **adicionar referências a certas bibliotecas de terceiros** ao seu aplicativo para interagir com o mundo externo, que pode incluir uma impressora conectada ao mesmo computador, um banco de dados onde os dados do aplicativo são armazenados ou até mesmo um servidor de arquivos que está localizado em qualquer lugar do mundo e possui alguns arquivos que são usados ​​pelo aplicativo.
+
+Agora o desenvolvedor tem a opção de adicionar essas referências / bibliotecas usando uma GUI ou uma CLI.
+
+A vantagem da CLI aqui é que ela permite instalar essa biblioteca específica em um único comando. Enquanto ao pesquisar uma biblioteca na GUI, você terá várias opções com base no comportamento do mecanismo de pesquisa, o que às vezes, pode fazer com que o desenvolvedor instale uma referência incorreta.
 
 
 
