@@ -47,6 +47,8 @@ style: |
 
 ## Nuvem Híbrida
 
+![w:600 h:400 bg left](https://www.scurra.com.br/blog/wp-content/uploads/2017/08/cloud-hibryd-768x467.png)
+
 - Combinação de nuvem privada e pública.
 - Permite a flexibilidade de executar cargas de trabalho em ambientes diferentes.
 - Integração entre nuvens públicas e privadas.
@@ -64,8 +66,15 @@ style: |
 | Nuvem Híbrida     | Variável | Variável  | Variável        | Variável       |
 
 ---
+## Qual é a melhor?
 
-## Conclusão
+Depende....
+
+![w:600 h:400 bg right](https://ss3tecnologia.com.br/wp-content/uploads/2023/05/nuvem-publica-privada-ou-hibrida-1024x536.png)
+
+---
+
+## Fatores de decisão
 
 - A escolha do modelo de implementação de nuvem depende dos requisitos e necessidades de cada organização.
 - A nuvem privada oferece maior controle e segurança, mas requer maiores investimentos.
