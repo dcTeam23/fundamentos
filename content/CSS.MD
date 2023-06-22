@@ -1,20 +1,31 @@
 ---
 marp:  true
 ---
+<!--
+theme: default
+paginate: true
+-->
 
-# O que é o CSS e como ele funciona.
+<!-- _backgroundColor: orange -->
+<!-- _color: black -->
+# Fundamentos CSS
+![bg left](css.jpg)
 
-O CSS "Cascading Style Sheets" (Folhas de Estilo em Cascata) é uma linguagem de estilo ou uma linguagem de marcação utilizada para definir a aparência e o layout de documentos HTML (ou outros tipos de documentos XML). Ele separa a apresentação visual do conteúdo estrutural de um documento, permitindo que você controle a forma como os elementos HTML são exibidos em um navegador.
-O CSS permite separar o conteúdo de um documento HTML de sua apresentação visual. Em vez de incluir diretamente estilos no código HTML, você pode usar o CSS para especificar como os elementos HTML devem ser exibidos em um navegador. Isso proporciona uma maior flexibilidade e facilidade na criação de designs consistentes em várias páginas e sites.
+---
+
+### O que é o CSS e como ele funciona.
+
+###### O CSS "Cascading Style Sheets" (Folhas de Estilo em Cascata) é uma linguagem de estilo ou uma linguagem de marcação utilizada para definir a aparência e o layout de documentos HTML (ou outros tipos de documentos XML). Ele separa a apresentação visual do conteúdo estrutural de um documento, permitindo que você controle a forma como os elementos HTML são exibidos em um navegador.
+###### O CSS permite separar o conteúdo de um documento HTML de sua apresentação visual. Em vez de incluir diretamente estilos no código HTML, você pode usar o CSS para especificar como os elementos HTML devem ser exibidos em um navegador. Isso proporciona uma maior flexibilidade e facilidade na criação de designs consistentes em várias páginas e sites.
 
 
 ---
 
 # Existem três maneiras principais de aplicar CSS a uma página HTML:
 
-1. Estilos embutidos: Você pode definir estilos diretamente no código HTML usando a tag `<style>`. Os estilos são especificados dentro dessa tag, geralmente na seção `<head>` do documento HTML. Isso permite que você defina estilos específicos para um documento individual.
-2. Estilos internos: Você também pode incluir um arquivo CSS separado usando a tag `<link>`. Essa tag é colocada na seção `<head>` do documento HTML e faz referência ao arquivo CSS externo, permitindo que você defina estilos que se aplicam a várias páginas.
-3. Estilos externos: É possível escrever todo o código CSS em um arquivo separado com extensão `.css` e referenciá-lo usando a tag `<link>`. Essa abordagem é útil para manter o código CSS organizado e reutilizável em diferentes páginas.
+* Estilos embutidos: Você pode definir estilos diretamente no código HTML usando a tag `<style>`. Os estilos são especificados dentro dessa tag, geralmente na seção `<head>` do documento HTML. Isso permite que você defina estilos específicos para um documento individual.
+* Estilos internos: Você também pode incluir um arquivo CSS separado usando a tag `<link>`. Essa tag é colocada na seção `<head>` do documento HTML e faz referência ao arquivo CSS externo, permitindo que você defina estilos que se aplicam a várias páginas.
+* Estilos externos: É possível escrever todo o código CSS em um arquivo separado com extensão `.css` e referenciá-lo usando a tag `<link>`. Essa abordagem é útil para manter o código CSS organizado e reutilizável em diferentes páginas.
 
 
 ---
@@ -105,3 +116,5 @@ Neste exemplo, definimos as seguintes propriedades CSS:
 - Para o parágrafo (`<p>`), definimos a cor do texto como cinza e o tamanho da fonte como 16 pixels.
 - Para o botão (`<button>`), definimos a cor de fundo como verde, a cor do texto como branco, o tamanho da fonte como 18 pixels, o preenchimento interno de 10 pixels no topo e na base e 20 pixels nas laterais, removemos a borda padrão e definimos o cursor do mouse como ponteiro ao passar sobre o botão.
 ---
+
+
