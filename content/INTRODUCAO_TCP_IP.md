@@ -82,9 +82,26 @@ _color: black -->
 
 # Porque o protocolo de comunicação é essencial para a transmissão de dados em redes?
 
-Porque permite que dispositivos e sistemas **diferentes** se comuniquem de forma **harmoniosa**. Eles são fundamentais para a conectividade e para o funcionamento da internet e de muitas outras redes.
+</br>
+
+Porque permite que dispositivos e sistemas **diferentes** se comuniquem
+de forma **harmoniosa**. Eles são fundamentais para a **conectividade** e
+ para o **funcionamento da internet** e de muitas outras redes.
 
 </center>
+
+---
+
+<!-- --------------- Slide 10: Base Invisível --------------- -->
+<!-- backgroundImage: "linear-gradient(to bottom,#c5cdd9, #FFF )"-->
+
+ ![bg left:33% h:330](rededados.png)
+
+#  Podemos dizer que o protocolo de comunicação
+
+## <!--fit-->  é a base invisível
+
+### que permite a comunicação entre sistemas, tornando possível a interconexão do mundo moderno.
 
 ---
 <!-- ------------------------ Slide 7: como padronizaram o protocolo ------------------------ -->
@@ -130,18 +147,7 @@ _class: lead -->
 </div>
 
 ---
-<!-- --------------- Slide 10: Base Invisível --------------- -->
-<!-- backgroundImage: "linear-gradient(to bottom,#c5cdd9, #FFF )"-->
 
- ![bg left:33% h:330](rededados.png)
-
-#  Podemos dizer que o protocolo de comunicação
-
-## <!--fit-->  é a base invisível
-
-### que permite a comunicação entre sistemas, tornando possível a interconexão do mundo moderno.
-
----
 <!-- --------------- Slide 11: PROTOCOLOS competindo pelo domínio --------------- -->
 <!-- _class: lead -->
 
