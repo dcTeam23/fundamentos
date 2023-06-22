@@ -15,7 +15,16 @@ theme: uncover
 
 #### O que é e pra que serve?
 
-
 <!---Bom, antes de avançarmos para as camadas do Datacenter é importante resumir o que é DataCenter e pra que serve.
 Datacenter é um ambiente de armazenamento, processamento e gerenciamento de grande volume de dados e informações projetado para fornecer alguns recursos necessários para garantir alguns serviços essenciais. Ex: CRM
 --->
+
+---
+# A implementação de um DataCenter segue a norma ANSI/TIA-942 (Classificada em 4 camadas)
+# Definição das 4 camadas:
+# Camada 1
+ - Infraestrutura básica do local.
+
+ <!---É o nível mais básico, com uma infraestrutura mínima. Um data center de camada 1 oferece proteção limitada contra eventos físicos. Possui componentes de capacidade única e
+um caminho de distribuição único e não
+redundante.--->
