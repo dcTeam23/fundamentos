@@ -17,6 +17,7 @@ style: |
 # <!--fit--> Intro sobre TCP/IP :rocket:
 
 # <center><span style="color: grey"> By: </span> Jana Tannus </center>
+<center><span style="color:#1d2c3d"> https://github.com/jmtannus </span> </center>
 
 ---
 <!-- -------------- Slide 2: Introdução ao TCP/IP - comunicando-se em redes -------------- -->
@@ -174,7 +175,7 @@ Esses protocolos eram utilizados nas redes das empresas e, em seu auge, cada um 
 <!-- ---------------------------- Slide 10 - Tópico: Criadores ---------------------------- -->
 ![bg h:900 w:1280](backgrounds/image-3.png)
 
-<!-- à direita, Vinton Cerf . Matemático e informático dos EUA. Referenciado como um dos fundadores da Internet, foi em 2005 vice-presidente e "Chefe Internet-Evangelista" da Google. Na época de sua contratação, o executivo-chefe da empresa, Eric Schmidt, chegou a dizer que Vinton Cerf era uma das pessoas mais importantes da história ainda vivas. Junto a Robert Kahn, é um dos criadores da Internet, tendo participado da criação dos protocolos TCP/IP, que são o alicerce da conexão à rede. Foi Kahn quem desenvolveu o TCP e Vinton Cerf iniciou o desenvolvimento do IP para transmissão de informações pela Internet, o que foi reconhecido com a publicação do artigo A Protocol for Packet Network Intercommunication.-->
+<!-- à direita, Vinton Cerf . Matemático e Mestre em Tecnologia americano. Foi em 2005 vice-presidente da Google. Na época de sua contratação, o executivo-chefe da empresa, Eric Schmidt, chegou a dizer que Vinton Cerf era uma das pessoas mais importantes da história ainda vivas. Junto a Robert Kahn, é um dos criadores da Internet, tendo participado da criação dos protocolos TCP/IP, que são os alicerces da conexão à rede. Foi esse de óculos, Robert, quem desenvolveu o TCP e Vinton, o barbudo, que iniciou o desenvolvimento do IP para transmissão de informações pela Internet, que foi reconhecido com a publicação do artigo A Protocol for Packet Network Intercommunication.-->
 
 ---
 <!-- -------------------------- Slide 11 - Tópico: Curiosidade -------------------------- -->
@@ -208,14 +209,17 @@ MAS Vint Cerf criou a MANEIRA pela qual Tim Lee poderia mais tarde criar O 'W W 
 <!-- _class: leader -->
 <!-- _color: #c5cdd9 -->
 
-<!-- O TCP/IP é um conjunto de protocolos para a comunicação em redes de computadores. Ele abrange a estrutura dos dados, os formatos de mensagem, os procedimentos de envio e recebimento, bem como os mecanismos de detecção e correção de erros. 
-2 e 3- Com sua abordagem robusta, o TCP/IP assegura que a informação seja transmitida de maneira confiável, segura e padronizada, garantindo uma comunicação eficiente entre dispositivos e redes.-->
+<!-- Com sua abordagem robusta, o TCP/IP assegura que a informação seja transmitida de maneira confiável, segura e padronizada, garantindo uma comunicação eficiente entre dispositivos e redes.-->
 
 ![bg right:45% w:400](internet1.jpg)
 
-# TCP
+<center><span style="color: #011121">
 
-## Transmission Control Protocol
+# TCP:: Transmission Control Protocol
+
+</span> 
+
+</center>
 
 <!--Garante a Transmissão Confiável e Padronizada dos Dados: Ele é responsável por estabelecer uma conexão virtual entre remetentes e destinatários, dividir os dados em pacotes e controlar o fluxo de transmissão, sem que os dados sejam corrompidos ou alterados.-->
 
@@ -230,15 +234,25 @@ MAS Vint Cerf criou a MANEIRA pela qual Tim Lee poderia mais tarde criar O 'W W 
 <!-- backgroundImage: "linear-gradient(to bottom,#c5cdd9, #35495e, #1a2938  )" 
 _class: invert-->
 <!-- _color: #FFF -->
+
 ![bg left:50% h:600](network_cabling1.webp)
 
-## O IP - **Internet Protocol** - tem a função de fornecer **endereçamento e identificação** para cada dispositivo conectado à rede, permitindo que os pacotes de dados sejam corretamente encaminhados entre remetentes e destinatários.
+<center>
+<span style="color: #011121">
+
+# IP :: Internet Protocol
+
+</span> 
+
+</center>
+
+Fornece **endereçamento e identificação** para cada dispositivo conectado à rede, permitindo que os pacotes de dados sejam corretamente encaminhados entre remetentes e destinatários garantindo a comunicação eficiente entre eles.
 
 <!--O IP é responsável por atribuir um endereço IP único a cada dispositivo na rede, seja ele um computador, smartphone, servidor ou qualquer outro dispositivo conectado à internet. Esse endereço IP funciona como uma identificação exclusiva do dispositivo, permitindo que os pacotes de dados sejam roteados corretamente através da rede.
 
 Além disso, o IP define como os pacotes de dados devem ser fragmentados, encapsulados e transmitidos entre os dispositivos. Ele estabelece regras para o envio, roteamento e recebimento dos pacotes, garantindo a integridade e a confiabilidade da comunicação.
 
-Em resumo, o Internet Protocol (IP) serve para fornecer identificação e endereçamento único aos dispositivos na rede, permitindo a transmissão correta dos pacotes de dados e garantindo a comunicação eficiente entre eles. Sem o IP, não seria possível estabelecer a conectividade e a troca de informações que caracterizam a internet e as redes de computadores.-->
+Sem o IP, não seria possível estabelecer a conectividade e a troca de informações que caracterizam a internet e as redes de computadores.-->
 
 ---
 <!-- ---------------------------- Slide 14 - Tópico: Finalidades do TCP ---------------------------- -->
@@ -247,15 +261,15 @@ Em resumo, o Internet Protocol (IP) serve para fornecer identificação e endere
 </br>
 
 * Confiabilidade
-<!-- O TCP garante a entrega confiável dos dados, verificando se os pacotes são recebidos corretamente e retransmitindo-os, se necessário. Ele também controla a detecção e a recuperação de erros durante a transmissão.-->
+<!-- Garante a entrega confiável dos dados, verificando se os pacotes são recebidos corretamente e retransmitindo-os, se necessário. Ele também controla a detecção e a recuperação de erros durante a transmissão.-->
 * Ordenação
-<!-- O TCP mantém a ordem correta dos pacotes de dados durante a transmissão, reorganizando-os, se necessário. Isso garante que os dados sejam recebidos na mesma sequência em que foram enviados.-->
+<!-- Mantém a ordem correta dos pacotes de dados durante a transmissão, reorganizando-os, se necessário. Isso garante que os dados sejam recebidos na mesma sequência em que foram enviados.-->
 * Controle de Fluxo
-<!-- O TCP controla o fluxo de transmissão, ajustando a taxa de envio dos pacotes de acordo com a capacidade da rede e a capacidade de processamento do destinatário. Isso evita a sobrecarga da rede e a perda de pacotes devido a congestionamento.-->
+<!-- Controla o fluxo de transmissão, ajustando a taxa de envio dos pacotes de acordo com a capacidade da rede e a capacidade de processamento do destinatário. Isso evita a sobrecarga da rede e a perda de pacotes devido a congestionamento.-->
 * Segmentação
-<!-- O TCP divide os dados em segmentos de tamanho apropriado para a transmissão pela rede. Isso permite que grandes quantidades de dados sejam transmitidas de forma eficiente e evita problemas de congestionamento.-->
+<!-- Divide os dados em segmentos de tamanho apropriado para a transmissão pela rede. Isso permite que grandes quantidades de dados sejam transmitidas de forma eficiente e evita problemas de congestionamento.-->
 * Estabelecimento e encerramento de conexão
-<!-- O TCP estabelece uma conexão virtual entre remetentes e destinatários, permitindo a troca de dados. Ele também gerencia o encerramento dessa conexão de forma adequada e segura.-->
+<!-- Estabelece uma conexão virtual entre remetentes e destinatários, permitindo a troca de dados. Ele também gerencia o encerramento dessa conexão de forma adequada e segura.-->
 
 ---
 <!-- -------------------------- Slide 15 - Tópico: Frase de Vint Cerf -------------------------- -->
@@ -273,8 +287,6 @@ _color: gray  -->
 <!-- -------------------- Slide 16: Sistemas operacionais que utilizam o TCP/IP -------------------- -->
 <!--_color: #c5cdd9-->
 backgroundImage: ![bg ](backgrounds/space.webp) -->
-
-<!--Comparado com o modelo OSI, você pode ver como as 4 camadas TCP/IP e suas funções estão relacionadas:-->
 </br></br></br>
 
 ## <!--fit---> *Conectividade de Rede*
@@ -288,7 +300,7 @@ backgroundImage: ![bg ](backgrounds/space.webp) -->
 <div>
 
 * ## Linux **(sistema operacional de código aberto)**
-<!-- utilizado em servidores, dispositivos embarcados e muitos outros dispositivos-->
+<!-- Linux, utilizado em servidores, dispositivos embarcados e muitos outros dispositivos-->
 
 * # Outros Sistemas **(Unix, Android e iOS)**
 <!--A maioria dos sistemas operacionais modernos, como Windows, macOS, Linux e Unix, suporta nativamente o protocolo TCP/IP. Além disso, outros sistemas como iOS, Android e várias distribuições de Unix-like também o suportam. O TCP/IP é amplamente utilizado como o principal protocolo de rede, permitindo a comunicação eficiente entre diferentes dispositivos e sistemas operacionais.-->
@@ -302,7 +314,7 @@ backgroundImage: ![bg ](backgrounds/space.webp) -->
 <!-- backgroundImage: #c5cdd9 -->
 <!-- _color: #35495e -->
 
-<!--Comparado com o modelo OSI, você pode ver como as 4 camadas TCP/IP e suas funções estão relacionadas:-->
+<!--Comparado com o modelo OSI já sitado anteriormente, você pode ver como as 4 camadas TCP/IP e suas funções estão relacionadas:-->
 
 ![bg left:35% w:450](https://www.datarain.com.br/wp-content/uploads/2020/08/modelo-TCP-IP.png)
 
@@ -327,7 +339,6 @@ backgroundImage: ![bg ](backgrounds/space.webp) -->
 
 </div>
 </div>
-<!-- Destaque para a interação entre essas camadas na troca de informações.-->
 
 ---
 
@@ -335,9 +346,6 @@ backgroundImage: ![bg ](backgrounds/space.webp) -->
 backgroundImage: #101010
 _color: dark
 _class: invert -->
-
-<!--Para padronizar a criação de protocolos, o modelo OSI (Open Systems Interconnection) foi criado em 1971 e formalizado em 1983. Esse modelo define uma arquitetura de protocolo para redes. Com ele, diferentes fabricantes podem fabricar seus equipamentos para se comunicar, interpretar as informações contidas na comunicação e realizar a tarefa solicitada.O modelo OSI prevê que uma rede deve ter 7 camadas -->
-
 </br>
 
 # <!-- fit-->Mas... Como são utilizados para 
@@ -352,16 +360,18 @@ _class: invert -->
 <!-- backgroundImage: #c5cdd9 -->
 <!-- _color: #35495e -->
 
-![bg right:45% w:580](images/enderecoIP.webp)
+![bg right:40% w:480](images/enderecoIP.webp)
+
+# Endereçamento IP
 
 ## Conceitos:
 
 * Endereço IP: Representados no formato decimal, ex: 192.168.1.0. O endereço IP **identifica uma conexão à Internet** e não a máquina em si.
 <!--O endereço IP versão 4, é uma sequência de números com 32 bits de tamanho, escrito com quatro octetos, quatro sequências de 8 bits, a cada sequência dá-se o nome de byte. Os endereços IP são representados no formato decimal, ex 192.168.1.0. O endereço IP identifica uma conexão à Internet e não a máquina em si.-->
-* máscara de sub-rede: Número de 32-bit que mascara um endereço IP e divide o endereço IP em: **endereço de rede** e **endereço de host**.
+* Máscara de sub-rede: Número de 32-bit que mascara um endereço IP e divide o endereço IP em: **endereço de rede** e **endereço de host**.
 <!--Um endereço IP tem dois componentes, o endereço de rede e o endereço do host. Uma máscara de sub-rede separa o endereço IP nos endereços de rede e de host (<network><host>).-->
 
-* gateway (portal): Estabelece a comunicação entre múltiplos ambientes.
+* Gateway (portal): Estabelece a comunicação entre múltiplos ambientes.
 <!--Gateway é um termo em inglês que significa portão ou portal, um sistema ou equipamento cuja função básica é estabelecer a comunicação entre múltiplos ambientes. Com ele, é possível fazer a conexão entre equipamentos localizados em redes diferentes e que comuniquem através de padrões distintos.-->
 
 ---
