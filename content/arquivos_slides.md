@@ -5,7 +5,7 @@ theme: uncover
 
 # Camadas de infraestrutura de DataCenter #7
 
-###### Gabriel Braga
+###### Gabriel Braga 👋
 
 ---
 
@@ -40,3 +40,7 @@ Datacenter é um ambiente de armazenamento, processamento e gerenciamento de gra
 # Camada 4
 
 -  É o nível mais alto de classificação e oferece o mais alto grau de disponibilidade e redundância. Possui sistemas completamente redundantes, com capacidade de manutenção contínua sem afetar os serviços. Também possui proteção contra falhas em todos os componentes críticos.
+
+---
+
+# Obrigado 👋
