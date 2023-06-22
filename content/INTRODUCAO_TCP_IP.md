@@ -235,8 +235,9 @@ MAS Vint Cerf criou a MANEIRA pela qual Tim Lee poderia mais tarde criar O 'W W 
 
 ![bg right:45% w:400](internet1.jpg)
 
-# TCP/IP 
-### Transmission Control Protocol / Internet Protocol
+# TCP
+
+## Transmission Control Protocol
 
 <!--Garante a Transmissão Confiável e Padronizada dos Dados: Ele é responsável por estabelecer uma conexão virtual entre remetentes e destinatários, dividir os dados em pacotes e controlar o fluxo de transmissão, sem que os dados sejam corrompidos ou alterados.-->
 
@@ -247,12 +248,13 @@ MAS Vint Cerf criou a MANEIRA pela qual Tim Lee poderia mais tarde criar O 'W W 
 * ### **Comunicação eficiente** entre dispositivos e redes
 
 ---
+<!-- ---------------------------- Slide 16 - Tópico: O que é o IP? ---------------------------- -->
 <!-- backgroundImage: "linear-gradient(to bottom,#c5cdd9, #35495e, #1a2938  )" 
 _class: invert-->
 <!-- _color: #FFF -->
 ![bg left:50% h:600](network_cabling1.webp)
 
-## O IP tem a função de fornecer **endereçamento e identificação** para cada dispositivo conectado à rede, permitindo que os pacotes de dados sejam corretamente encaminhados entre remetentes e destinatários.
+## O IP - **Internet Protocol** - tem a função de fornecer **endereçamento e identificação** para cada dispositivo conectado à rede, permitindo que os pacotes de dados sejam corretamente encaminhados entre remetentes e destinatários.
 
 <!--O IP é responsável por atribuir um endereço IP único a cada dispositivo na rede, seja ele um computador, smartphone, servidor ou qualquer outro dispositivo conectado à internet. Esse endereço IP funciona como uma identificação exclusiva do dispositivo, permitindo que os pacotes de dados sejam roteados corretamente através da rede.
 
@@ -261,23 +263,24 @@ Além disso, o IP define como os pacotes de dados devem ser fragmentados, encaps
 Em resumo, o Internet Protocol (IP) serve para fornecer identificação e endereçamento único aos dispositivos na rede, permitindo a transmissão correta dos pacotes de dados e garantindo a comunicação eficiente entre eles. Sem o IP, não seria possível estabelecer a conectividade e a troca de informações que caracterizam a internet e as redes de computadores.-->
 
 ---
-<!-- imagem -->
+<!-- ---------------------------- Slide 17 - Tópico: Finalidades do TCP ---------------------------- -->
 <!-- _class: invert -->
 #### O TCP oferece várias funcionalidades essenciais para a comunicação eficiente e confiável na internet e em outras redes. Algumas das principais finalidades do TCP são:
+</br>
 
-Confiabilidade
+* Confiabilidade
 <!-- O TCP garante a entrega confiável dos dados, verificando se os pacotes são recebidos corretamente e retransmitindo-os, se necessário. Ele também controla a detecção e a recuperação de erros durante a transmissão.-->
-Ordenação
+* Ordenação
 <!-- O TCP mantém a ordem correta dos pacotes de dados durante a transmissão, reorganizando-os, se necessário. Isso garante que os dados sejam recebidos na mesma sequência em que foram enviados.-->
-Controle de Fluxo
+* Controle de Fluxo
 <!-- O TCP controla o fluxo de transmissão, ajustando a taxa de envio dos pacotes de acordo com a capacidade da rede e a capacidade de processamento do destinatário. Isso evita a sobrecarga da rede e a perda de pacotes devido a congestionamento.-->
-Segmentação
+* Segmentação
 <!-- O TCP divide os dados em segmentos de tamanho apropriado para a transmissão pela rede. Isso permite que grandes quantidades de dados sejam transmitidas de forma eficiente e evita problemas de congestionamento.-->
-Estabelecimento e encerramento de conexão
+* Estabelecimento e encerramento de conexão
 <!-- O TCP estabelece uma conexão virtual entre remetentes e destinatários, permitindo a troca de dados. Ele também gerencia o encerramento dessa conexão de forma adequada e segura.-->
 
 ---
-<!-- -------------------------- Slide 12 - Tópico: Frase de Vint Cerf -------------------------- -->
+<!-- -------------------------- Slide 18 - Tópico: Frase de Vint Cerf -------------------------- -->
 <!-- _class: invert
 _color: gray  -->
 <!-- backgroundImage:  black -->
@@ -289,44 +292,7 @@ _color: gray  -->
 
 ---
 
-<!-- -------------------------- Slide 12 - Tópico: Arquitetura do TCP/IP -------------------------- -->
-<!-- backgroundColor: #c5cdd9 -->
-<!-- _color: #35495e -->
-</br>
-<!-- Destaque para a interação entre essas camadas na troca de informações.-->
-
-## <!--fit--> Arquitetura do TCP/IP
-
-### Camadas do TCP/IP
-
-* camada de aplicação
-* camada de transporte
-* camada de internet
-* camada de interface de rede
----
-<!-- ----------------------------- Slide 13 - Tópico: Endereçamento IP ----------------------------- -->
-# <!--fit--> Explicação dos endereços IP
-
-</br>
-
-### Como são utilizados para identificar e localizar dispositivos na rede?
-
-Conceitos:
-
-* endereço IP
-* máscara de sub-rede
-* gateway.
-
----
-Slide 8:
-
-Tópico: Desafios e Evolução do TCP/IP
-Breve abordagem dos desafios enfrentados pelo TCP/IP, como a escalabilidade e a segurança.
-Mencionar as evoluções do protocolo, como o IPv6, para atender às demandas crescentes de conectividade.
-
----
-
-<!-- -------------------- Slide 8: Sistemas operacionais que utilizam o TCP/IP -------------------- -->
+<!-- -------------------- Slide 19: Sistemas operacionais que utilizam o TCP/IP -------------------- -->
 <!--_color: #c5cdd9-->
 backgroundImage: ![bg ](backgrounds/space.webp) -->
 
@@ -353,30 +319,84 @@ backgroundImage: ![bg ](backgrounds/space.webp) -->
 </div>
 
 ---
-<!-- --------------------------------- Slide 1 - Tópico: Conclusão --------------------------------- -->
+<!-- -------------------------- Slide 20 - Tópico: Arquitetura do TCP/IP -------------------------- -->
 <!-- _class: +invert -->
 <!-- backgroundImage: #c5cdd9 -->
 <!-- _color: #35495e -->
 
 ![bg left:43% w:520](https://www.datarain.com.br/wp-content/uploads/2020/08/modelo-TCP-IP.png)
 
-## Hoje, o TCP/IP é o alicerce da comunicação na Internet e em muitas outras redes. É ele que permite que nossos dispositivos se conectem, troquem mensagens, acessem informações, realizem transações e nos ajudem a explorar o vasto mundo online.
+<!-- Destaque para a interação entre essas camadas na troca de informações.-->
+
+## <!--fit--> Arquitetura do TCP/IP
+
+### Camadas do TCP/IP
+
+* camada de aplicação
+* camada de transporte
+* camada de internet
+* camada de interface de rede
+
+---
+<!-- 
+backgroundImage: #101010
+_color: dark
+_class: invert -->
+
+<!--Para padronizar a criação de protocolos, o modelo OSI (Open Systems Interconnection) foi criado em 1971 e formalizado em 1983. Esse modelo define uma arquitetura de protocolo para redes. Com ele, diferentes fabricantes podem fabricar seus equipamentos para se comunicar, interpretar as informações contidas na comunicação e realizar a tarefa solicitada.O modelo OSI prevê que uma rede deve ter 7 camadas -->
+
+</br>
+
+# <!-- fit-->Mas... Como são utilizados para 
+# <!-- fit-->*identificar* e *localizar*
+# <!-- fit--> dispositivos na rede? :thinking:
+
+</br>
+
+---
+<!-- ----------------------------- Slide 21 - Tópico: Endereçamento IP ----------------------------- -->
+<!-- _class: +invert -->
+<!-- backgroundImage: #c5cdd9 -->
+<!-- _color: #35495e -->
+
+![bg right:45% w:580](images/enderecoIP.webp)
+
+## Conceitos:
+
+* Endereço IP: Representados no formato decimal, ex: 192.168.1.0. O endereço IP **identifica uma conexão à Internet** e não a máquina em si.
+<!--O endereço IP versão 4, é uma sequência de números com 32 bits de tamanho, escrito com quatro octetos, quatro sequências de 8 bits, a cada sequência dá-se o nome de byte. Os endereços IP são representados no formato decimal, ex 192.168.1.0. O endereço IP identifica uma conexão à Internet e não a máquina em si.-->
+* máscara de sub-rede: Número de 32-bit que mascara um endereço IP e divide o endereço IP em: **endereço de rede** e **endereço de host**.
+<!--Um endereço IP tem dois componentes, o endereço de rede e o endereço do host. Uma máscara de sub-rede separa o endereço IP nos endereços de rede e de host (<network><host>).-->
+
+* gateway (portal): Estabelece a comunicação entre múltiplos ambientes.
+<!--Gateway é um termo em inglês que significa portão ou portal, um sistema ou equipamento cuja função básica é estabelecer a comunicação entre múltiplos ambientes. Com ele, é possível fazer a conexão entre equipamentos localizados em redes diferentes e que comuniquem através de padrões distintos.-->
+
+---
+<!-- --------------------------------- Slide 20 - Tópico: Conclusão --------------------------------- -->
+<!-- backgroundImage: #c5cdd9 -->
+<!-- _color: #35495e -->
+
+![bg left:38% w:850](images/78029121434_crop.webp)
+
+# Hoje, o TCP/IP é o alicerce da comunicação na Internet e em muitas outras redes. 
+## É ele que permite que nossos dispositivos se conectem, troquem mensagens, acessem informações, realizem transações e nos ajudem a explorar o vasto mundo online.
 
 <!-- A história dos protocolos de comunicação é uma prova do poder da inovação e da busca por uma linguagem comum que transcende fronteiras e diferenças. A evolução desses protocolos nos conduziu a um futuro interconectado, onde a comunicação é instantânea e o compartilhamento de conhecimento é ilimitado.
 
 Nesta jornada pelo passado, podemos apreciar o impacto transformador dos protocolos de comunicação e a maneira como eles moldaram o mundo em que vivemos hoje. E enquanto continuamos avançando em direção ao desconhecido, podemos olhar para trás e agradecer aos pioneiros que nos trouxeram até aqui, conectando pessoas, ideias e possibilidades.-->
+
 ---
 
 <!-- -------------------------- Slide 10 - Tópico: Perguntas e discussões ------------------------- -->
-## <!--fit--> Perguntas e discussões
+<!-- _class: invert -->
+<center>
+
+## <!--fit--> :woman_shrugging: <span style="color: #FFF">  Perguntas?  </span> :man_shrugging:
 
 # Obrigada pela atenção!
 
-## tenham um ótimo dia!
-🌻
+## Um ótimo dia pra todos!
 
-<!-- Espaço para perguntas, comentários e interação com o público.
+# 🌻
 
-Estímulo à participação ativa e ao diálogo sobre o TCP/IP.
-
-Fim da apresentação.-->
+</center>
