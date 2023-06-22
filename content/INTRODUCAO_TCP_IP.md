@@ -51,7 +51,7 @@ _color: #c5cdd9  -->
 
 ---
 
-<!-- ----------------------------------- Slide 5: aspectos do protocolo ----------------------------------- -->
+<!-- ----------------------------------- Slide 4: aspectos do protocolo ----------------------------------- -->
 <!-- backgroundImage: "linear-gradient(to bottom, #c5cdd9, #35495e)" 
 _color: black -->
 
@@ -72,7 +72,7 @@ _color: black -->
 </span>
 
 ---
-<!-- --------------------------------- Slide 6: aspectos do protocolo --------------------------------- -->
+<!-- --------------------------------- Slide 5: aspectos do protocolo --------------------------------- -->
 <!-- _color: dark -->
 
 <!--Ele é como um mediador que facilita a troca de informações, tornando possível a interconexão de computadores, servidores, dispositivos móveis e muito mais.Com ele podemos enviar e receber e-mails, acessar sites, fazer chamadas de vídeo, compartilhar arquivos e desfrutar de uma infinidade de serviços online. -->
@@ -92,7 +92,7 @@ de forma **harmoniosa**. Eles são fundamentais para a **conectividade** e
 
 ---
 
-<!-- --------------- Slide 10: Base Invisível --------------- -->
+<!-- --------------- Slide 6: Base Invisível --------------- -->
 <!-- backgroundImage: "linear-gradient(to bottom,#c5cdd9, #FFF )"-->
 
  ![bg left:33% h:330](rededados.png)
@@ -148,7 +148,7 @@ _class: lead -->
 
 ---
 
-<!-- --------------- Slide 11: PROTOCOLOS competindo pelo domínio --------------- -->
+<!-- --------------- Slide 9: PROTOCOLOS competindo pelo domínio --------------- -->
 <!-- _class: lead -->
 
 # <!--fit--> PROTOCOLOS
@@ -171,13 +171,13 @@ Esses protocolos eram utilizados nas redes das empresas e, em seu auge, cada um 
 ![w:100%](protocolos.png)
 
 ---
-<!-- ---------------------------- Slide 13 - Tópico: Criadores ---------------------------- -->
+<!-- ---------------------------- Slide 10 - Tópico: Criadores ---------------------------- -->
 ![bg h:900 w:1280](backgrounds/image-3.png)
 
 <!-- à direita, Vinton Cerf . Matemático e informático dos EUA. Referenciado como um dos fundadores da Internet, foi em 2005 vice-presidente e "Chefe Internet-Evangelista" da Google. Na época de sua contratação, o executivo-chefe da empresa, Eric Schmidt, chegou a dizer que Vinton Cerf era uma das pessoas mais importantes da história ainda vivas. Junto a Robert Kahn, é um dos criadores da Internet, tendo participado da criação dos protocolos TCP/IP, que são o alicerce da conexão à rede. Foi Kahn quem desenvolveu o TCP e Vinton Cerf iniciou o desenvolvimento do IP para transmissão de informações pela Internet, o que foi reconhecido com a publicação do artigo A Protocol for Packet Network Intercommunication.-->
 
 ---
-<!-- -------------------------- Slide 14 - Tópico: Curiosidade -------------------------- -->
+<!-- -------------------------- Slide 11 - Tópico: Curiosidade -------------------------- -->
 <!-- _class: invert
 _color: gray  -->
 <!-- backgroundImage:  black -->
@@ -203,7 +203,7 @@ MAS Vint Cerf criou a MANEIRA pela qual Tim Lee poderia mais tarde criar O 'W W 
 </div>
 
 ---
-<!-- ---------------------------- Slide 15 - Tópico: O que é o TCP/IP? ---------------------------- -->
+<!-- ---------------------------- Slide 12 - Tópico: O que é o TCP/IP? ---------------------------- -->
 <!-- backgroundImage: "linear-gradient(to bottom, #1a2938, #35495e ,#c5cdd9 )" 
 <!-- _class: leader -->
 <!-- _color: #c5cdd9 -->
@@ -226,7 +226,7 @@ MAS Vint Cerf criou a MANEIRA pela qual Tim Lee poderia mais tarde criar O 'W W 
 * ### **Comunicação eficiente** entre dispositivos e redes
 
 ---
-<!-- ---------------------------- Slide 16 - Tópico: O que é o IP? ---------------------------- -->
+<!-- ---------------------------- Slide 13 - Tópico: O que é o IP? ---------------------------- -->
 <!-- backgroundImage: "linear-gradient(to bottom,#c5cdd9, #35495e, #1a2938  )" 
 _class: invert-->
 <!-- _color: #FFF -->
@@ -241,7 +241,7 @@ Além disso, o IP define como os pacotes de dados devem ser fragmentados, encaps
 Em resumo, o Internet Protocol (IP) serve para fornecer identificação e endereçamento único aos dispositivos na rede, permitindo a transmissão correta dos pacotes de dados e garantindo a comunicação eficiente entre eles. Sem o IP, não seria possível estabelecer a conectividade e a troca de informações que caracterizam a internet e as redes de computadores.-->
 
 ---
-<!-- ---------------------------- Slide 17 - Tópico: Finalidades do TCP ---------------------------- -->
+<!-- ---------------------------- Slide 14 - Tópico: Finalidades do TCP ---------------------------- -->
 <!-- _class: invert -->
 #### O TCP oferece várias funcionalidades essenciais para a comunicação eficiente e confiável na internet e em outras redes. Algumas das principais finalidades do TCP são:
 </br>
@@ -258,7 +258,7 @@ Em resumo, o Internet Protocol (IP) serve para fornecer identificação e endere
 <!-- O TCP estabelece uma conexão virtual entre remetentes e destinatários, permitindo a troca de dados. Ele também gerencia o encerramento dessa conexão de forma adequada e segura.-->
 
 ---
-<!-- -------------------------- Slide 18 - Tópico: Frase de Vint Cerf -------------------------- -->
+<!-- -------------------------- Slide 15 - Tópico: Frase de Vint Cerf -------------------------- -->
 <!-- _class: invert
 _color: gray  -->
 <!-- backgroundImage:  black -->
@@ -270,7 +270,7 @@ _color: gray  -->
 
 ---
 
-<!-- -------------------- Slide 19: Sistemas operacionais que utilizam o TCP/IP -------------------- -->
+<!-- -------------------- Slide 16: Sistemas operacionais que utilizam o TCP/IP -------------------- -->
 <!--_color: #c5cdd9-->
 backgroundImage: ![bg ](backgrounds/space.webp) -->
 
@@ -297,7 +297,7 @@ backgroundImage: ![bg ](backgrounds/space.webp) -->
 </div>
 
 ---
-<!-- -------------------------- Slide 18 - Tópico: Arquitetura do TCP/IP -------------------------- -->
+<!-- -------------------------- Slide 17 - Tópico: Arquitetura do TCP/IP -------------------------- -->
 <!-- _class: +invert -->
 <!-- backgroundImage: #c5cdd9 -->
 <!-- _color: #35495e -->
@@ -347,7 +347,7 @@ _class: invert -->
 </br>
 
 ---
-<!-- ----------------------------- Slide 21 - Tópico: Endereçamento IP ----------------------------- -->
+<!-- ----------------------------- Slide 18 - Tópico: Endereçamento IP ----------------------------- -->
 <!-- _class: +invert -->
 <!-- backgroundImage: #c5cdd9 -->
 <!-- _color: #35495e -->
@@ -365,7 +365,7 @@ _class: invert -->
 <!--Gateway é um termo em inglês que significa portão ou portal, um sistema ou equipamento cuja função básica é estabelecer a comunicação entre múltiplos ambientes. Com ele, é possível fazer a conexão entre equipamentos localizados em redes diferentes e que comuniquem através de padrões distintos.-->
 
 ---
-<!-- --------------------------------- Slide 22 - Tópico: Conclusão --------------------------------- -->
+<!-- --------------------------------- Slide 19 - Tópico: Conclusão --------------------------------- -->
 <!-- backgroundImage: #c5cdd9 -->
 <!-- _color: #35495e -->
 
@@ -380,7 +380,7 @@ Nesta jornada pelo passado, podemos apreciar o impacto transformador dos protoco
 
 ---
 
-<!-- -------------------------- Slide 23 - Tópico: Perguntas e discussões ------------------------- -->
+<!-- -------------------------- Slide 20- Tópico: Perguntas e discussões ------------------------- -->
 <!-- _class: invert -->
 <center>
 
