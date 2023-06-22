@@ -14,39 +14,44 @@ style: |
 <!-- -------------- Slide 1: Minha apresentação -------------- -->
 <!-- _paginate: false -->
 
-# <!--fit--> An intro to TCP / IP :rocket:
+# <!--fit--> Intro sobre TCP/IP :rocket:
 
 # <center><span style="color: grey"> By: </span> Jana Tannus </center>
 
 ---
 <!-- -------------- Slide 2: Introdução ao TCP/IP - comunicando-se em redes -------------- -->
 <!-- _paginate: false
-backgroundImage:  Url(https://ip-check.info/wp-content/uploads/2022/04/tcpip-696x453.jpg.webp) -->
+backgroundImage: Url(https://ip-check.info/wp-content/uploads/2022/04/tcpip-696x453.jpg.webp) -->
 
-<!--  Fala: Olá pessoal, me chamo Janaína e vou apresentar uma introdução aos famosos Protocolo de Controle de Transmissão e Protocolo de Internet: TCP e IP.
+ -- -- -- -- - ![h:550](images/conversa.jpg)
+
+<!--Olá pessoal, pra quem não me conhece,eu me chamo Janaína e vou apresentar uma introdução aos famosos Protocolo de Controle de Transmissão e Protocolo de Internet: TCP e IP.
 
 Imagine uma sala cheia de pessoas conversando, cada uma com sua própria linguagem e forma de se comunicar. Agora, pense em como seria difícil para elas se entenderem e trocarem informações de maneira eficiente. É nesse momento que entra em cena o protocolo de comunicação.-->
 
 ---
+
 <!-- --------------------------------- Slide 3: protocolo de comunicação -------------------------------- -->
-<!-- backgroundImage: "linear-gradient(to bottom, #c5cdd9, #35495e)"-->
+<!-- _class: invert
+_color: #c5cdd9  -->
+<!-- backgroundImage: black -->
 
-# <!--fit-->O que é protocolo de comunicação?
+<!--O que é protocolo de comunicação?
 
-<!--É como se fosse uma linguagem comum que todas as pessoas dessa sala deveriam falar para garantir que a informação seja transmitida corretamente. -->
+É como se fosse uma linguagem comum que todas as pessoas dessa sala deveriam falar para garantir que a informação seja transmitida corretamente.-->
+# <!--fit--> Protocolo de Comunicação
 
-## <!--fit--> Conjunto de *regras* e *convenções*
+</br>
 
-# <!--fit--> estabelecidas para permitir a *troca de dados entre:*
+# Conjunto de **regras** e **convenções**
 
-## <!--fit--> sistemas, dispositivos ou componentes de uma rede.
+# estabelecidas para permitir a **troca de dados entre:**
+
+# *sistemas, dispositivos ou componentes de uma rede.*
 
 ---
-<!-- -------------------- Slide 4: imagem sobre rede de comunicação -------------------- -->
-<!-- backgroundImage:  Url(Banner_site.webp) -->
 
----
-<!-- ----------------------------------- Slide 5: aspectos do protocolo ----------------------------------- -->
+<!-- ----------------------------------- Slide 4: aspectos do protocolo ----------------------------------- -->
 <!-- backgroundImage: "linear-gradient(to bottom, #c5cdd9, #35495e)" 
 _color: black -->
 
@@ -67,7 +72,7 @@ _color: black -->
 </span>
 
 ---
-<!-- --------------------------------- Slide 6: aspectos do protocolo --------------------------------- -->
+<!-- --------------------------------- Slide 5: aspectos do protocolo --------------------------------- -->
 <!-- _color: dark -->
 
 <!--Ele é como um mediador que facilita a troca de informações, tornando possível a interconexão de computadores, servidores, dispositivos móveis e muito mais.Com ele podemos enviar e receber e-mails, acessar sites, fazer chamadas de vídeo, compartilhar arquivos e desfrutar de uma infinidade de serviços online. -->
@@ -77,9 +82,26 @@ _color: black -->
 
 # Porque o protocolo de comunicação é essencial para a transmissão de dados em redes?
 
-Porque permite que dispositivos e sistemas **diferentes** se comuniquem de forma **harmoniosa**. Eles são fundamentais para a conectividade e para o funcionamento da internet e de muitas outras redes.
+</br>
+
+Porque permite que dispositivos e sistemas **diferentes** se comuniquem
+de forma **harmoniosa**. Eles são fundamentais para a **conectividade** e
+ para o **funcionamento da internet** e de muitas outras redes.
 
 </center>
+
+---
+
+<!-- --------------- Slide 6: Base Invisível --------------- -->
+<!-- backgroundImage: "linear-gradient(to bottom,#c5cdd9, #FFF )"-->
+
+ ![bg left:33% h:330](rededados.png)
+
+#  Podemos dizer que o protocolo de comunicação
+
+## <!--fit-->  é a base invisível
+
+### que permite a comunicação entre sistemas, tornando possível a interconexão do mundo moderno.
 
 ---
 <!-- ------------------------ Slide 7: como padronizaram o protocolo ------------------------ -->
@@ -125,52 +147,8 @@ _class: lead -->
 </div>
 
 ---
-<!-- -------------------- Slide 9: Comparação com o modelo OSI -------------------- -->
-<!-- _class: invert
-_color: gray  -->
-<!-- backgroundImage:  black -->
 
-<!--Comparado com o modelo OSI, você pode ver como as 4 camadas TCP/IP e suas funções estão relacionadas:-->
-
-# <!--fit--> Camadas do TCP/IP e suas funções
-</br>
-
-<div class="columns">
-
-<div>
-
-* ### Aplicação **(Camada 4)**
-
-</br>
-
-* ## Transporte **(Camada 3)**
-
-</div>
-<div>
-
-* ### Internet ou Rede **(Camada 2)**
-
-</br>
-
-* ## Link ou Físico **(Camada 1)**
-
-</div>
-</div>
-
----
-<!-- --------------- Slide 10: Base Invisível --------------- -->
-<!-- backgroundImage: "linear-gradient(to bottom,#c5cdd9, #FFF )"-->
-
- ![bg left:33% h:330](rededados.png)
-
-#  Podemos dizer que o protocolo de comunicação
-
-## <!--fit-->  é a base invisível
-
-### que permite a comunicação entre sistemas, tornando possível a interconexão do mundo moderno.
-
----
-<!-- --------------- Slide 11: PROTOCOLOS competindo pelo domínio --------------- -->
+<!-- --------------- Slide 9: PROTOCOLOS competindo pelo domínio --------------- -->
 <!-- _class: lead -->
 
 # <!--fit--> PROTOCOLOS
@@ -193,13 +171,13 @@ Esses protocolos eram utilizados nas redes das empresas e, em seu auge, cada um 
 ![w:100%](protocolos.png)
 
 ---
-<!-- ---------------------------- Slide 13 - Tópico: Criadores ---------------------------- -->
+<!-- ---------------------------- Slide 10 - Tópico: Criadores ---------------------------- -->
 ![bg h:900 w:1280](backgrounds/image-3.png)
 
 <!-- à direita, Vinton Cerf . Matemático e informático dos EUA. Referenciado como um dos fundadores da Internet, foi em 2005 vice-presidente e "Chefe Internet-Evangelista" da Google. Na época de sua contratação, o executivo-chefe da empresa, Eric Schmidt, chegou a dizer que Vinton Cerf era uma das pessoas mais importantes da história ainda vivas. Junto a Robert Kahn, é um dos criadores da Internet, tendo participado da criação dos protocolos TCP/IP, que são o alicerce da conexão à rede. Foi Kahn quem desenvolveu o TCP e Vinton Cerf iniciou o desenvolvimento do IP para transmissão de informações pela Internet, o que foi reconhecido com a publicação do artigo A Protocol for Packet Network Intercommunication.-->
 
 ---
-<!-- -------------------------- Slide 14 - Tópico: Curiosidade -------------------------- -->
+<!-- -------------------------- Slide 11 - Tópico: Curiosidade -------------------------- -->
 <!-- _class: invert
 _color: gray  -->
 <!-- backgroundImage:  black -->
@@ -225,7 +203,7 @@ MAS Vint Cerf criou a MANEIRA pela qual Tim Lee poderia mais tarde criar O 'W W 
 </div>
 
 ---
-<!-- ---------------------------- Slide 15 - Tópico: O que é o TCP/IP? ---------------------------- -->
+<!-- ---------------------------- Slide 12 - Tópico: O que é o TCP/IP? ---------------------------- -->
 <!-- backgroundImage: "linear-gradient(to bottom, #1a2938, #35495e ,#c5cdd9 )" 
 <!-- _class: leader -->
 <!-- _color: #c5cdd9 -->
@@ -248,7 +226,7 @@ MAS Vint Cerf criou a MANEIRA pela qual Tim Lee poderia mais tarde criar O 'W W 
 * ### **Comunicação eficiente** entre dispositivos e redes
 
 ---
-<!-- ---------------------------- Slide 16 - Tópico: O que é o IP? ---------------------------- -->
+<!-- ---------------------------- Slide 13 - Tópico: O que é o IP? ---------------------------- -->
 <!-- backgroundImage: "linear-gradient(to bottom,#c5cdd9, #35495e, #1a2938  )" 
 _class: invert-->
 <!-- _color: #FFF -->
@@ -263,7 +241,7 @@ Além disso, o IP define como os pacotes de dados devem ser fragmentados, encaps
 Em resumo, o Internet Protocol (IP) serve para fornecer identificação e endereçamento único aos dispositivos na rede, permitindo a transmissão correta dos pacotes de dados e garantindo a comunicação eficiente entre eles. Sem o IP, não seria possível estabelecer a conectividade e a troca de informações que caracterizam a internet e as redes de computadores.-->
 
 ---
-<!-- ---------------------------- Slide 17 - Tópico: Finalidades do TCP ---------------------------- -->
+<!-- ---------------------------- Slide 14 - Tópico: Finalidades do TCP ---------------------------- -->
 <!-- _class: invert -->
 #### O TCP oferece várias funcionalidades essenciais para a comunicação eficiente e confiável na internet e em outras redes. Algumas das principais finalidades do TCP são:
 </br>
@@ -280,7 +258,7 @@ Em resumo, o Internet Protocol (IP) serve para fornecer identificação e endere
 <!-- O TCP estabelece uma conexão virtual entre remetentes e destinatários, permitindo a troca de dados. Ele também gerencia o encerramento dessa conexão de forma adequada e segura.-->
 
 ---
-<!-- -------------------------- Slide 18 - Tópico: Frase de Vint Cerf -------------------------- -->
+<!-- -------------------------- Slide 15 - Tópico: Frase de Vint Cerf -------------------------- -->
 <!-- _class: invert
 _color: gray  -->
 <!-- backgroundImage:  black -->
@@ -292,7 +270,7 @@ _color: gray  -->
 
 ---
 
-<!-- -------------------- Slide 19: Sistemas operacionais que utilizam o TCP/IP -------------------- -->
+<!-- -------------------- Slide 16: Sistemas operacionais que utilizam o TCP/IP -------------------- -->
 <!--_color: #c5cdd9-->
 backgroundImage: ![bg ](backgrounds/space.webp) -->
 
@@ -319,25 +297,40 @@ backgroundImage: ![bg ](backgrounds/space.webp) -->
 </div>
 
 ---
-<!-- -------------------------- Slide 20 - Tópico: Arquitetura do TCP/IP -------------------------- -->
+<!-- -------------------------- Slide 17 - Tópico: Arquitetura do TCP/IP -------------------------- -->
 <!-- _class: +invert -->
 <!-- backgroundImage: #c5cdd9 -->
 <!-- _color: #35495e -->
 
-![bg left:43% w:520](https://www.datarain.com.br/wp-content/uploads/2020/08/modelo-TCP-IP.png)
+<!--Comparado com o modelo OSI, você pode ver como as 4 camadas TCP/IP e suas funções estão relacionadas:-->
 
+![bg left:35% w:450](https://www.datarain.com.br/wp-content/uploads/2020/08/modelo-TCP-IP.png)
+
+### <!--fit--> Arquitetura do TCP/IP
+
+# <!--fit--> Camadas do TCP/IP e suas funções
+
+<div class="columns">
+
+<div>
+
+* ### Aplicação **(Camada 4)**
+
+* ### Transporte **(Camada 3)**
+
+</div>
+<div>
+
+* ### Internet ou Rede **(Camada 2)**
+
+* ### Link ou Físico **(Camada 1)**
+
+</div>
+</div>
 <!-- Destaque para a interação entre essas camadas na troca de informações.-->
 
-## <!--fit--> Arquitetura do TCP/IP
-
-### Camadas do TCP/IP
-
-* camada de aplicação
-* camada de transporte
-* camada de internet
-* camada de interface de rede
-
 ---
+
 <!-- 
 backgroundImage: #101010
 _color: dark
@@ -354,7 +347,7 @@ _class: invert -->
 </br>
 
 ---
-<!-- ----------------------------- Slide 21 - Tópico: Endereçamento IP ----------------------------- -->
+<!-- ----------------------------- Slide 18 - Tópico: Endereçamento IP ----------------------------- -->
 <!-- _class: +invert -->
 <!-- backgroundImage: #c5cdd9 -->
 <!-- _color: #35495e -->
@@ -372,7 +365,7 @@ _class: invert -->
 <!--Gateway é um termo em inglês que significa portão ou portal, um sistema ou equipamento cuja função básica é estabelecer a comunicação entre múltiplos ambientes. Com ele, é possível fazer a conexão entre equipamentos localizados em redes diferentes e que comuniquem através de padrões distintos.-->
 
 ---
-<!-- --------------------------------- Slide 22 - Tópico: Conclusão --------------------------------- -->
+<!-- --------------------------------- Slide 19 - Tópico: Conclusão --------------------------------- -->
 <!-- backgroundImage: #c5cdd9 -->
 <!-- _color: #35495e -->
 
@@ -387,7 +380,7 @@ Nesta jornada pelo passado, podemos apreciar o impacto transformador dos protoco
 
 ---
 
-<!-- -------------------------- Slide 23 - Tópico: Perguntas e discussões ------------------------- -->
+<!-- -------------------------- Slide 20- Tópico: Perguntas e discussões ------------------------- -->
 <!-- _class: invert -->
 <center>
 
