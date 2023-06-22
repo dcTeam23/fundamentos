@@ -18,6 +18,9 @@ Datacenter é um ambiente de armazenamento, processamento e gerenciamento de gra
 # A implementação de um DataCenter segue a norma ANSI/TIA-942 (Classificada em 4 camadas)
 # Definição das 4 camadas:
 
+<!---Um dos padrões mais adotados para o 
+design e a infraestrutura é o ANSI/TIA-942. Ele inclui os padrões da certificação, que garante a conformidade com uma das quatro categorias de camadas de data center classificadas para níveis de redundância e tolerância a falhas
+--->
 ---
 
 # Camada 1
