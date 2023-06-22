@@ -372,7 +372,7 @@ _class: invert -->
 <!--Gateway é um termo em inglês que significa portão ou portal, um sistema ou equipamento cuja função básica é estabelecer a comunicação entre múltiplos ambientes. Com ele, é possível fazer a conexão entre equipamentos localizados em redes diferentes e que comuniquem através de padrões distintos.-->
 
 ---
-<!-- --------------------------------- Slide 20 - Tópico: Conclusão --------------------------------- -->
+<!-- --------------------------------- Slide 22 - Tópico: Conclusão --------------------------------- -->
 <!-- backgroundImage: #c5cdd9 -->
 <!-- _color: #35495e -->
 
@@ -387,7 +387,7 @@ Nesta jornada pelo passado, podemos apreciar o impacto transformador dos protoco
 
 ---
 
-<!-- -------------------------- Slide 10 - Tópico: Perguntas e discussões ------------------------- -->
+<!-- -------------------------- Slide 23 - Tópico: Perguntas e discussões ------------------------- -->
 <!-- _class: invert -->
 <center>
 
