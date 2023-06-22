@@ -72,14 +72,15 @@ transferência de hipertexto (HTTP).
 
 ---
 <!--_color: #FF336D-->
-# Quais os principais browsers ? 
+# Quais os principais browsers - Ranking ? 
 ![w:150](https://images.emojiterra.com/google/noto-emoji/unicode-15/animated/1f914.gif)
 
 ---
 
-<!-- modernos conseguem, além de traduzirem os
+<!-- Browsers modernos conseguem, além de traduzirem os
 documentos HTML, visualizar arquivos no
 formato .pdf, visualizar imagens -->
+
 Firefox, Google Chrome, Microsoft Edge,
 Apple Safari, Opera, Brave, Vivaldi, DuckDuckGo,
 Chromium e Epic. 
@@ -89,6 +90,57 @@ documentos HTML, visualizar arquivos no formato .pdf e visualizar imagens
 
 
 ![w:500](https://geek360.com.br/wp-content/uploads/2019/03/melhores-navegadores-.png)
+
+---
+<!-- 
+Sempre foi considerado um dos navegadores mais relevantes do planeta,
+Base de fãs cativos, mas sem cair no gosto popular.
+-->
+# 5°) Opera 
+![w:750](https://cdn-production-opera-website.operacdn.com/staticfiles/assets/images/og/og-img--gx.d816d5f39b45.jpg)
+
+---
+<!-- 
+Chegando a ser o top 2 durante muitos anos.
+O programa é muito usado no Linux, por ser software aberto, e por uma fatia dos amantes da tecnologia
+Bem distante dos números expressivos do passado.
+-->
+
+# 4°) Firefox
+![w:750](https://www.mozilla.org/media/protocol/img/logos/firefox/browser/og.4ad05d4125a5.png)
+
+---
+<!-- 
+Crescimento mais expressivo dos últimos anos
+O Edge como vantagem a integração com o Windows, sistema no qual já vem instalado de fábrica
+-->
+
+# 3°) Microsoft Edge 
+![w:750](https://edgestatic.azureedge.net/shared/cms/lrs1c69a1j/section-images/e2258d06158940118ce733c03dbf26cf.jpg)
+
+---
+<!-- 
+Ascensão da Apple no mercado de celulares
+O Safari é um típico exemplo dessa expansão, já que o navegador exclusivo da Maçã roda no iPhone, iPad e iMacs
+Navegação eficiente e rápida
+-->
+
+# 2°) Safari
+![w:700](https://help.apple.com/assets/63B879E421AB1015D2090556/63B879E421AB1015D209055D/en_US/c801f7ad80580024b7c4c85645f351dc.png)
+
+---
+
+<!-- 
+Chrome é o navegador mais usado do mundo com bastante folga
+Defeito o elevado consumo de memória RAM, mas oferece uma série de vantagens que praticamente nenhum outro concorrente tem.
+-->
+
+# 1°) Google
+![w:750](https://www.google.com/chrome/static/images/intl/pt_BR/home-experiment/hero-img_desktop.webp)
+
+---
+# Ponto Negativo 😕 
+![w:600](https://i.gifer.com/OxAE.gif)
 
 ---
 <!--_color: #11599E-->
