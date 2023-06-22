@@ -3,7 +3,7 @@ marp: true
 theme: default
 paginate: skip
 background-color: #f2f5f7
-# backgroundImage: url('https://example.com/background.jpg')
+
 
 style: |
   section {
