@@ -22,9 +22,21 @@ Datacenter é um ambiente de armazenamento, processamento e gerenciamento de gra
 ---
 # A implementação de um DataCenter segue a norma ANSI/TIA-942 (Classificada em 4 camadas)
 # Definição das 4 camadas:
-# Camada 1
- - Infraestrutura básica do local.
 
- <!---É o nível mais básico, com uma infraestrutura mínima. Um data center de camada 1 oferece proteção limitada contra eventos físicos. Possui componentes de capacidade única e
-um caminho de distribuição único e não
-redundante.--->
+---
+
+# Camada 1
+ - É o nível mais básico, com uma infraestrutura mínima. Um data center de camada 1 oferece proteção limitada contra eventos físicos. Possui componentes de capacidade única e um caminho de distribuição único e não redundante.
+
+# Camada 2
+
+- Este nível inclui algum grau de redundância para componentes críticos, como fontes de energia e sistemas de resfriamento. Também pode oferecer maior proteção contra interrupções não planejadas.
+
+---
+
+# Camada 3
+- É um nível intermediário que fornece redundância em todos os principais sistemas, permitindo manutenção planejada sem afetar a disponibilidade dos serviços. Possui múltiplos caminhos de distribuição de energia e sistemas de resfriamento com capacidade de manutenção simultânea.
+
+# Camada 4
+
+-  É o nível mais alto de classificação e oferece o mais alto grau de disponibilidade e redundância. Possui sistemas completamente redundantes, com capacidade de manutenção contínua sem afetar os serviços. Também possui proteção contra falhas em todos os componentes críticos.
