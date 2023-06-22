@@ -1,8 +1,5 @@
 ---
 marp: true
-title: Marp 
-paginate: true
-theme: uncover
 ---
 # **URL**
 ---
