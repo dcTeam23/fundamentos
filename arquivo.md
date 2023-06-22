@@ -1,11 +1,13 @@
 
-
 # **A primeira mensagem de rede** 
-<br><br>
+<br>
+
 Em 29 de outubro de 1969, como parte do experimento **ARPANET**, a primeira mensagem de rede foi enviada. O estudante Charley Kline, da UCLA, digitou a palavra "**LOGIN**" e enviou-a para um computador no Instituto de Pesquisa de Stanford. Embora apenas as letras "L" e "O" tenham sido recebidas com sucesso antes de uma falha no sistema, esse evento histórico marcou o início da comunicação digital através de redes de computadores. A partir desse marco, as redes evoluíram para se tornarem a Internet, conectando bilhões de dispositivos e pessoas em todo o mundo.
 <br><br>
+
 <img src="https://media.npr.org/assets/news/2009/10/29/duvallkline-a08bac602a6e2fd5a57e690ffad2dfe28c4b36c8.jpg" ><figcaption><em>A primeira mensagem enviada pela internet foi um **"LO"**</em></figcaption>
 <br>
+
 ## **GUERRA FRIA**
 <br>
 Como vimos que o mundo vivia em grande
