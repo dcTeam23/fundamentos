@@ -21,31 +21,36 @@ style: |
 ---
 <!-- -------------- Slide 2: Introdução ao TCP/IP - comunicando-se em redes -------------- -->
 <!-- _paginate: false
-backgroundImage:  Url(https://ip-check.info/wp-content/uploads/2022/04/tcpip-696x453.jpg.webp) -->
+backgroundImage: Url(https://ip-check.info/wp-content/uploads/2022/04/tcpip-696x453.jpg.webp) -->
+
+ -- -- -- -- - ![h:550](images/conversa.jpg)
 
 <!--Olá pessoal, pra quem não me conhece, me chamo Janaína e vou apresentar uma introdução aos famosos Protocolo de Controle de Transmissão e Protocolo de Internet: TCP e IP.
 
 Imagine uma sala cheia de pessoas conversando, cada uma com sua própria linguagem e forma de se comunicar. Agora, pense em como seria difícil para elas se entenderem e trocarem informações de maneira eficiente. É nesse momento que entra em cena o protocolo de comunicação.-->
 
 ---
+
 <!-- --------------------------------- Slide 3: protocolo de comunicação -------------------------------- -->
-<!-- backgroundImage: "linear-gradient(to bottom, #c5cdd9, #35495e)"-->
+<!-- _class: invert
+_color: #c5cdd9  -->
+<!-- backgroundImage: black -->
 
-# <!--fit-->O que é protocolo de comunicação?
+<!--O que é protocolo de comunicação?
 
-<!--É como se fosse uma linguagem comum que todas as pessoas dessa sala deveriam falar para garantir que a informação seja transmitida corretamente. -->
+É como se fosse uma linguagem comum que todas as pessoas dessa sala deveriam falar para garantir que a informação seja transmitida corretamente.-->
+# <!--fit--> Protocolo de Comunicação
 
-## <!--fit--> Conjunto de *regras* e *convenções*
+</br>
 
-# <!--fit--> estabelecidas para permitir a *troca de dados entre:*
+# Conjunto de **regras** e **convenções**
 
-## <!--fit--> sistemas, dispositivos ou componentes de uma rede.
+# estabelecidas para permitir a **troca de dados entre:**
+
+# *sistemas, dispositivos ou componentes de uma rede.*
 
 ---
-<!-- -------------------- Slide 4: imagem sobre rede de comunicação -------------------- -->
-<!-- backgroundImage:  Url(Banner_site.webp) -->
 
----
 <!-- ----------------------------------- Slide 5: aspectos do protocolo ----------------------------------- -->
 <!-- backgroundImage: "linear-gradient(to bottom, #c5cdd9, #35495e)" 
 _color: black -->
@@ -120,39 +125,6 @@ _class: lead -->
 * **Link**  – Detecção e correção de erros introduzidos pelo meio de transmissão
 
 * **Físico** – Transmissão de bits através do meio de transmissão.
-
-</div>
-</div>
-
----
-<!-- -------------------- Slide 9: Comparação com o modelo OSI -------------------- -->
-<!-- _class: invert
-_color: gray  -->
-<!-- backgroundImage:  black -->
-
-<!--Comparado com o modelo OSI, você pode ver como as 4 camadas TCP/IP e suas funções estão relacionadas:-->
-
-# <!--fit--> Camadas do TCP/IP e suas funções
-</br>
-
-<div class="columns">
-
-<div>
-
-* ### Aplicação **(Camada 4)**
-
-</br>
-
-* ## Transporte **(Camada 3)**
-
-</div>
-<div>
-
-* ### Internet ou Rede **(Camada 2)**
-
-</br>
-
-* ## Link ou Físico **(Camada 1)**
 
 </div>
 </div>
@@ -319,25 +291,40 @@ backgroundImage: ![bg ](backgrounds/space.webp) -->
 </div>
 
 ---
-<!-- -------------------------- Slide 20 - Tópico: Arquitetura do TCP/IP -------------------------- -->
+<!-- -------------------------- Slide 18 - Tópico: Arquitetura do TCP/IP -------------------------- -->
 <!-- _class: +invert -->
 <!-- backgroundImage: #c5cdd9 -->
 <!-- _color: #35495e -->
 
-![bg left:43% w:520](https://www.datarain.com.br/wp-content/uploads/2020/08/modelo-TCP-IP.png)
+<!--Comparado com o modelo OSI, você pode ver como as 4 camadas TCP/IP e suas funções estão relacionadas:-->
 
+![bg left:35% w:450](https://www.datarain.com.br/wp-content/uploads/2020/08/modelo-TCP-IP.png)
+
+### <!--fit--> Arquitetura do TCP/IP
+
+# <!--fit--> Camadas do TCP/IP e suas funções
+
+<div class="columns">
+
+<div>
+
+* ### Aplicação **(Camada 4)**
+
+* ### Transporte **(Camada 3)**
+
+</div>
+<div>
+
+* ### Internet ou Rede **(Camada 2)**
+
+* ### Link ou Físico **(Camada 1)**
+
+</div>
+</div>
 <!-- Destaque para a interação entre essas camadas na troca de informações.-->
 
-## <!--fit--> Arquitetura do TCP/IP
-
-### Camadas do TCP/IP
-
-* camada de aplicação
-* camada de transporte
-* camada de internet
-* camada de interface de rede
-
 ---
+
 <!-- 
 backgroundImage: #101010
 _color: dark
