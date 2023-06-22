@@ -11,8 +11,8 @@ display: block;
 
 <style>
     :root {
-        --color-background: #005C53;
-        --color-foreground: #F2C12E;
+        --color-background: #10403B;
+        --color-foreground: #ADD9D1;
     }
     h1 {
         font-family: Helvetica;
@@ -50,8 +50,7 @@ TELEFONE: A mudança, agora idealizamos o outro.--->
 equipamento de bolso
 
 **`TESLA, Nikola. 1926`**
-<!--- O homem como conhecemos hoje sempre teve a necessidade de comunicar-se, a interação é inerente do próprio sujeito. A evolução até chegarmos no acesso em rede que temos hoje, foi um processo árduo. 
---->
+<!---O homem como conhecemos hoje sempre teve a necessidade de comunicar-se, a interação é inerente do próprio sujeito. A evolução até chegarmos no acesso em rede que temos hoje, foi um processo árduo.--->
 
 ---
 ![image bg opacity sepia](https://github.com/dcTeam23/fundamentos/assets/134711542/cae4ae79-a0e6-4084-a919-d0558a6fc641)
