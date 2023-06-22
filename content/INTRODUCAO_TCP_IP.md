@@ -23,7 +23,7 @@ style: |
 <!-- _paginate: false
 backgroundImage:  Url(https://ip-check.info/wp-content/uploads/2022/04/tcpip-696x453.jpg.webp) -->
 
-<!--  Fala: Olá pessoal, me chamo Janaína e vou apresentar uma introdução aos famosos Protocolo de Controle de Transmissão e Protocolo de Internet: TCP e IP.
+<!--Olá pessoal, pra quem não me conhece, me chamo Janaína e vou apresentar uma introdução aos famosos Protocolo de Controle de Transmissão e Protocolo de Internet: TCP e IP.
 
 Imagine uma sala cheia de pessoas conversando, cada uma com sua própria linguagem e forma de se comunicar. Agora, pense em como seria difícil para elas se entenderem e trocarem informações de maneira eficiente. É nesse momento que entra em cena o protocolo de comunicação.-->
 
