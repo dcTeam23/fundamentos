@@ -1,5 +1,9 @@
 ---
 marp: true
+theme: gaia
+_class: lead
+paginate: true
+backgroundColor: #fff
 ---
 <p align="middle">
 <img src="https://s2.glbimg.com/j3GOH_5tUrbd1l-1vz0P0Y2O9k0=/e.glbimg.com/og/ed/f/original/2019/10/29/arpanet.jpg" height="310px" width="830px">
@@ -8,7 +12,7 @@ marp: true
 
 ---
 <br>
-Em 29 de outubro de 1969, como parte do experimento ARPANET, a primeira mensagem de rede foi enviada. O estudante Charley Kline, da UCLA, digitou a palavra "**LOGIN**" e enviou-a para um computador no Instituto de Pesquisa de Stanford. Embora apenas as letras "L" e "O" tenham sido recebidas com sucesso antes de uma falha no sistema, esse evento histórico marcou o início da comunicação digital através de redes de computadores. A partir desse marco, as redes evoluíram para se tornarem a Internet, conectando bilhões de dispositivos e pessoas em todo o mundo.
+Em 29 de outubro de 1969, como parte do experimento ARPANET, a primeira mensagem de rede foi enviada. O estudante Charley Kline, da UCLA, digitou a palavra "LOGIN" e enviou-a para um computador no Instituto de Pesquisa de Stanford. Embora apenas as letras "L" e "O" tenham sido recebidas com sucesso antes de uma falha no sistema, esse evento histórico marcou o início da comunicação digital através de redes de computadores. A partir desse marco, as redes evoluíram para se tornarem a Internet, conectando bilhões de dispositivos e pessoas em todo o mundo.
 
 ---
 <br>
