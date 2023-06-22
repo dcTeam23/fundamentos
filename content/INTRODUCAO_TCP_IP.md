@@ -14,7 +14,7 @@ style: |
 <!-- -------------- Slide 1: Minha apresentação -------------- -->
 <!-- _paginate: false -->
 
-# <!--fit--> An intro to TCP / IP :rocket:
+# <!--fit--> Intro sobre TCP/IP :rocket:
 
 # <center><span style="color: grey"> By: </span> Jana Tannus </center>
 
@@ -25,7 +25,7 @@ backgroundImage: Url(https://ip-check.info/wp-content/uploads/2022/04/tcpip-696x
 
  -- -- -- -- - ![h:550](images/conversa.jpg)
 
-<!--Olá pessoal, pra quem não me conhece, me chamo Janaína e vou apresentar uma introdução aos famosos Protocolo de Controle de Transmissão e Protocolo de Internet: TCP e IP.
+<!--Olá pessoal, pra quem não me conhece,eu me chamo Janaína e vou apresentar uma introdução aos famosos Protocolo de Controle de Transmissão e Protocolo de Internet: TCP e IP.
 
 Imagine uma sala cheia de pessoas conversando, cada uma com sua própria linguagem e forma de se comunicar. Agora, pense em como seria difícil para elas se entenderem e trocarem informações de maneira eficiente. É nesse momento que entra em cena o protocolo de comunicação.-->
 
