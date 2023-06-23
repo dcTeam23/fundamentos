@@ -68,6 +68,15 @@ style: |
 | Nuvem Híbrida     | Variável | Variável  | Variável        | Variável       |
 
 ---
+## Nuvem Multicloud
+
+![w:600 h:400 bg left](https://t9z6z8s3.rocketcdn.me/wp-content/uploads/2021/01/Multicloud.png)
+
+-  Uso simultâneo de serviços e recursos de vários provedores de nuvem.
+- Permite uso de diferentes recursos de cada provedor para atender a diferentes necessidades.
+- Maior liberdade e flexibilidade para migrar entre provedores.
+
+---
 ## Qual é a melhor?
 
 Depende....
