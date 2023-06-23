@@ -7,7 +7,8 @@ paginate: true
 backgroundColor: #fff
 ---
 
-<p align="center">  A PRIMEIRA MENSAGEM DE REDE 
+# A PRIMEIRA MENSAGEM DE REDE
+<br>
 <p align="middle">
 <img src="https://tm.ibxk.com.br/2014/07/04/04095735695137.jpg?ims=1120x420" height="400px" width="830"
 
