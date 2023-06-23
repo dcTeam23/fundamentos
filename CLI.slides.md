@@ -8,9 +8,8 @@ _class: lead
 
 ---
 
-<!-- _backgroundColor: white -->
 
-<center><img src="fotos/teste.png" alt="Command Line Interface" width="650px"></center>
+<center><img src="fotos/CLI3.png" alt="Command Line Interface" width="650px"></center>
 
 ---
 
