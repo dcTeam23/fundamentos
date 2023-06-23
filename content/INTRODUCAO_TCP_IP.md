@@ -2,7 +2,7 @@
 marp: true
 author: JanainaTeixeira
 header: 'Apresentação: Introdução ao TCP/IP'
-footer: 'Exercício Markdown - Janaina Tannus - Digital College - Turma FS23-Aldeota'
+footer: 'Exercício Markdown - Janaina Tannus - Digital College - Turma FS23 Aldeota'
 _class: invert
 paginate: true
 size: 16:9
