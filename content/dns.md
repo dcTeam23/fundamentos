@@ -4,7 +4,7 @@
 ## Diagrama
 
 ### Explicação da Hierarquia DNS
-
+```mermaid
 stateDiagram-v2
 state "Raiz" as ServidorRaiz1
 state "br" as Altonivel1
@@ -52,7 +52,7 @@ state "Wifi da recepcao" as ServidorSala2
 state "Nome do PC do Professor" as MaquinaDesktop1
 state "Nome do PC de Aluno 01"as MaquinaDesktop2
 state "Nome do PC da Recepçao" as MaquinaDesktop3
-
+```
 
 ### Site da Internet
 
