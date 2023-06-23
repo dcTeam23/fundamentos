@@ -12,7 +12,8 @@ color: #120783
 
 ## Introdução ao DNS
 
-![bg fit opacity:10%](https://digitalcollege.com.br/wp-content/webp-express/webp-images/uploads/2022/05/logo-digital.png.webp)  
+![bg fit opacity:10%][DIGITAL]
+
 <!-- 
 Um servidor DNS é como uma enorme lista telefonica, que guarda o nome dos sites e informa para os computadores os números IP pertecentes aqueles nomes. 
 Por exemplo, quando você digita  www.digitalcollege.com.br no seu navegador, o DNS é responsável por encontrar o endereço IP correspondente a esse nome e direcionar a sua conexão para o servidor certo. Assim, você não precisa memorizar números complicados para acessar os sites que deseja.
@@ -25,9 +26,9 @@ Por exemplo, quando você digita  www.digitalcollege.com.br no seu navegador, o 
 
 ---
 
-![bg fit opacity:10% ](https://digitalcollege.com.br/wp-content/webp-express/webp-images/uploads/2022/05/logo-digital.png.webp)
-
 ## Funcionamento do DNS
+
+![bg fit opacity:10% ][DIGITAL]
 
 - Hierarquia de DNS
 - Raiz: "." <!-- No topo da hierarquia estão os 13 servidores raiz. Um servidor-raiz (root name server) é um servidor de nome para a zona raiz do DNS (Domain Name System).  -->
@@ -36,30 +37,31 @@ Por exemplo, quando você digita  www.digitalcollege.com.br no seu navegador, o 
 
 ---
 
+## Diagrama Funcionamento do DNS
 
-![bg fit opacity:10% ](https://digitalcollege.com.br/wp-content/webp-express/webp-images/uploads/2022/05/logo-digital.png.webp)
-
-## Funcionamento do DNS
+![bg fit opacity:10% ][DIGITAL]
 
 ![bg w:580](https://github.com/dcTeam23/fundamentos/assets/132242813/f84fef8a-dcf3-4aaf-9de4-7ee56b4957b0)
 
-
 ---
 
-![bg fit opacity:10% ](https://digitalcollege.com.br/wp-content/webp-express/webp-images/uploads/2022/05/logo-digital.png.webp)
-
 ## DNS para segurança de navegação
+
+![bg fit opacity:10% ][DIGITAL]
 
 - Filtragem de conteúdo: Bloqueio de sites indesejados <!--  DNS 1.1.1.1 precisou de pouco tempo para se tornar popular. Mas a Cloudflare quer mais. Exatamente dois anos depois, a companhia decidiu lançar mais serviços do tipo, só que focados em segurança e no bloqueio de conteúdo adulto: os servidores de DNS 1.1.1.2 e 1.1.1.3, ambos gratuitos. -->
 - Bloqueio de sites adultos: Restrição de acesso a conteúdo inadequado
 - Prevenção contra sites maliciosos: Identificação de domínios perigosos
 
 ---
-![bg fit opacity:10% ](https://digitalcollege.com.br/wp-content/webp-express/webp-images/uploads/2022/05/logo-digital.png.webp)
 
 ## Conclusão
+
+![bg fit opacity:10% ][DIGITAL]
 
 - O DNS é essencial para a navegação na Internet
 - Permite tradução de nomes de domínio em endereços IP
 - DNS pode ser usado para melhorar a segurança da navegação
 - Filtragem de conteúdo, bloqueio de sites adultos e detecção de sites maliciosos são algumas das aplicações do DNS na segurança
+
+[DIGITAL]: https://digitalcollege.com.br/wp-content/webp-express/webp-images/uploads/2022/05/logo-digital.png.webp
