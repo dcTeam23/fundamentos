@@ -18,3 +18,15 @@ As funções mais importantes das DevTools consistem em :
 * Emular como seu site se comporta em diferentes dispositivos e simular um ambiente móvel, completo com diferentes condições de rede.
 * Encontrar problemas de acessibilidade, desempenho, compatibilidade e segurança e utilizar o DevTools para corrigir os problemas encontrados.
 * Inspecionar, ajustar e alterar os estilos de elementos na página da Web 
+
+# Onde Encontrar as DevTools?
+
+O local mais facil de encontrar essas ferramentas se encontra na propria web, cada navegador possui sua propria implementação das DevTools, mas as principais caracteristicas são semelhantes
+
+No proprio Google Chrome é possivel encontrar as ferramentas de desenvolvedor clicando com o botao direito e selecionando a opção de inspecionar ou inspecionar elemento
+
+![Opção de Inspecionar](https://cdn.discordapp.com/attachments/1114280840843767848/1121731204220190730/dsadsad1.JPG)
+
+Ao selecionar a opção de inspecionar, será aberta uma aba lateral a sua pagina selecionada mostrando as DevTools ao lado do site, sendo possivel examinar a estrutura, verificar a performance, e ser informado dos problemas de segurança e conexão do site.
+
+![Site com Aba Lateral As DevTools](https://cdn.discordapp.com/attachments/1114280840843767848/1121731814801801278/image.png)
