@@ -21,9 +21,9 @@ As funções mais importantes das DevTools consistem em :
 
 # Onde Encontrar as DevTools?
 
-O local mais facil de encontrar essas ferramentas se encontra na propria web, cada navegador possui sua propria implementação das DevTools, mas as principais caracteristicas são semelhantes
+O local mais facil de encontrar essas ferramentas se encontra na propria web, cada navegador possui sua propria implementação das DevTools, mas as principais caracteristicas são semelhantes.
 
-No proprio Google Chrome é possivel encontrar as ferramentas de desenvolvedor clicando com o botao direito e selecionando a opção de inspecionar ou inspecionar elemento
+No proprio Google Chrome é possivel encontrar as ferramentas de desenvolvedor clicando com o botão direito e selecionando a opção de inspecionar ou inspecionar elemento
 
 ![Opção de Inspecionar](https://cdn.discordapp.com/attachments/1114280840843767848/1121731204220190730/dsadsad1.JPG)
 
