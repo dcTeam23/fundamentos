@@ -169,11 +169,11 @@ Esses protocolos eram utilizados nas redes das empresas e, em seu auge, cada um 
 
 <!-- No entanto, à medida que a necessidade de interconexão e compartilhamento de recursos crescia, tornou-se evidente a necessidade de um protocolo comum que unificasse as redes. E assim, o TCP/IP emergiu como um vencedor claro-->
 
-![w:100% protocolos](https://github.com/dcTeam23/fundamentos/assets/61756665/ad546c70-4f69-4e4f-bbd0-46f8b9ae0ae6)
+![w:100% protocolos](https://user-images.githubusercontent.com/61756665/248303222-ad546c70-4f69-4e4f-bbd0-46f8b9ae0ae6.png)
 
 ---
 <!-- ---------------------------- Slide 10 - Tópico: Criadores ---------------------------- -->
-![bg h:900 w:1280](backgrounds/image-3.png)
+![bg h:900 w:1280 image-3](https://github.com/dcTeam23/fundamentos/assets/61756665/9428ca3b-7600-4c70-99b8-a9937a1fa050)
 
 <!-- à direita, Vinton Cerf . Matemático e Mestre em Tecnologia americano. Foi em 2005 vice-presidente da Google. Na época de sua contratação, o executivo-chefe da empresa, Eric Schmidt, chegou a dizer que Vinton Cerf era uma das pessoas mais importantes da história ainda vivas. Junto a Robert Kahn, é um dos criadores da Internet, tendo participado da criação dos protocolos TCP/IP, que são os alicerces da conexão à rede. Foi esse de óculos, Robert, quem desenvolveu o TCP e Vinton, o barbudo, que iniciou o desenvolvimento do IP para transmissão de informações pela Internet, que foi reconhecido com a publicação do artigo A Protocol for Packet Network Intercommunication.-->
 
@@ -194,7 +194,7 @@ MAS Vint Cerf criou a MANEIRA pela qual Tim Lee poderia mais tarde criar O 'W W 
 
 # Tim Berners Lee x Vint Cerf
 
-# <!--fit --> ![w:800](tim%26vint.png)
+# <!--fit --> ![w:800 tim vint](https://github.com/dcTeam23/fundamentos/assets/61756665/d2dba3bb-68f0-4ddc-aff7-4dcf972fa15d)
 
 # <!--fit--> pai da internet moderna  |  pai da internet
 
@@ -211,7 +211,7 @@ MAS Vint Cerf criou a MANEIRA pela qual Tim Lee poderia mais tarde criar O 'W W 
 
 <!-- Com sua abordagem robusta, o TCP/IP assegura que a informação seja transmitida de maneira confiável, segura e padronizada, garantindo uma comunicação eficiente entre dispositivos e redes.-->
 
-![bg right:45% w:400](internet1.jpg)
+![bg right:45% w:400 internet1](https://github.com/dcTeam23/fundamentos/assets/61756665/c702733c-9648-4596-96bd-a808513551fa)
 
 <center><span style="color: #011121">
 
