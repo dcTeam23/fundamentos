@@ -28,7 +28,7 @@ Por exemplo, quando você digita  www.digitalcollege.com.br no seu navegador, o 
 
 ## Funcionamento do DNS
 
-![bg fit opacity:10% ][DIGITAL]
+![bg fit opacity:10% ][digital]
 
 - Hierarquia de DNS
 - Raiz: "." <!-- No topo da hierarquia estão os 13 servidores raiz. Um servidor-raiz (root name server) é um servidor de nome para a zona raiz do DNS (Domain Name System).  -->
@@ -39,15 +39,15 @@ Por exemplo, quando você digita  www.digitalcollege.com.br no seu navegador, o 
 
 ## Diagrama Funcionamento do DNS
 
-![bg fit opacity:10% ][DIGITAL]
+![bg fit opacity:10%][digital]
 
-![bg w:580](https://github.com/dcTeam23/fundamentos/assets/132242813/f84fef8a-dcf3-4aaf-9de4-7ee56b4957b0)
+![Grafico][grafico1]
 
 ---
 
 ## DNS para segurança de navegação
 
-![bg fit opacity:10% ][DIGITAL]
+![bg fit opacity:10% ][digital]
 
 - Filtragem de conteúdo: Bloqueio de sites indesejados <!--  DNS 1.1.1.1 precisou de pouco tempo para se tornar popular. Mas a Cloudflare quer mais. Exatamente dois anos depois, a companhia decidiu lançar mais serviços do tipo, só que focados em segurança e no bloqueio de conteúdo adulto: os servidores de DNS 1.1.1.2 e 1.1.1.3, ambos gratuitos. -->
 - Bloqueio de sites adultos: Restrição de acesso a conteúdo inadequado
@@ -57,11 +57,13 @@ Por exemplo, quando você digita  www.digitalcollege.com.br no seu navegador, o 
 
 ## Conclusão
 
-![bg fit opacity:10% ][DIGITAL]
+![bg fit opacity:10% ][digital]
 
 - O DNS é essencial para a navegação na Internet
 - Permite tradução de nomes de domínio em endereços IP
 - DNS pode ser usado para melhorar a segurança da navegação
 - Filtragem de conteúdo, bloqueio de sites adultos e detecção de sites maliciosos são algumas das aplicações do DNS na segurança
 
-[DIGITAL]: https://digitalcollege.com.br/wp-content/webp-express/webp-images/uploads/2022/05/logo-digital.png.webp
+[DIGITAL]: https://github.com/rodolfobertini/rodolfobertini/assets/132242813/6e603083-2be7-4ebc-a70a-cdf84e102e71
+
+[GRAFICO1]: https://github.com/rodolfobertini/rodolfobertini/assets/132242813/c9fbe749-59b5-4c4e-8fdb-7e6dcac21609

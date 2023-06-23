@@ -6,6 +6,11 @@
 ### Explicação da Hierarquia DNS
 
 ```mermaid
+
+---
+title: Explicação da Hierarquia DNS
+---
+
 stateDiagram-v2
 state "Raiz" as ServidorRaiz1
 state "br" as Altonivel1
