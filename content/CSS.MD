@@ -1,3 +1,12 @@
+<<<<<<< HEAD
+---
+marp: true
+---
+
+# Fundamentos
+---
+![bg left](https://picsum.photos/720?image=29)
+=======
 ---
 marp:  true
 ---
@@ -5,7 +14,28 @@ marp:  true
 theme: default
 paginate: true
 -->
+>>>>>>> 80252b2c4570272316d3952f67437eadd8a8d8d1
 
+<<<<<<< HEAD
+# Split backgrounds
+
+The space of a slide content will shrink to the right side.
+---
+---
+# Teoria
+---
+![bg right](https://picsum.photos/720?image=3)
+![bg](https://picsum.photos/720?image=20)
+
+# Split + Multiple BGs
+
+The space of a slide content will shrink to the left side.
+---
+---
+
+content/Imagens/yolo-default.png
+---
+=======
 <!-- _backgroundColor: orange -->
 <!-- _color: black -->
 # Fundamentos CSS
@@ -140,3 +170,5 @@ Neste exemplo, definimos as seguintes propriedades CSS:
 ![bg ](https://fakeimg.pl)
 
 
+
+>>>>>>> 80252b2c4570272316d3952f67437eadd8a8d8d1
