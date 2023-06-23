@@ -96,7 +96,7 @@ de forma **harmoniosa**. Eles são fundamentais para a **conectividade** e
 <!-- --------------- Slide 6: Base Invisível --------------- -->
 <!-- backgroundImage: "linear-gradient(to bottom,#c5cdd9, #FFF )"-->
 
- ![bg left:33% h:330](rededados.png)
+ ![bg left:33% h:330 rededados](https://github.com/dcTeam23/fundamentos/assets/61756665/511ca44a-1d18-4dc2-982a-22a0288c91de)
 
 #  Podemos dizer que o protocolo de comunicação
 
