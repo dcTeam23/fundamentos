@@ -277,7 +277,7 @@ Sem o IP, não seria possível estabelecer a conectividade e a troca de informa�
 _color: gray  -->
 <!-- backgroundImage:  black -->
 
-![bg 80%](images/image-5.png)
+![bg 80% image-5](https://github.com/dcTeam23/fundamentos/assets/61756665/75515c71-819f-4f0c-94b7-467d2d2ac5b2)
 
 <!-- "The internet we experience today has exceeded all my initial estimations." : "A internet que experimentamos hoje superou todas as minhas estimativas iniciais"
 À medida que a popularização da Internet crescia, o TCP/IP se consolidou como o protocolo padrão, impulsionando a expansão da rede mundial de computadores. Ele foi adotado por organizações, empresas e governos ao redor do mundo, criando um ambiente de conectividade sem precedentes. -->
@@ -286,7 +286,7 @@ _color: gray  -->
 
 <!-- -------------------- Slide 16: Sistemas operacionais que utilizam o TCP/IP -------------------- -->
 <!--_color: #c5cdd9-->
-backgroundImage: ![bg ](backgrounds/space.webp) -->
+backgroundImage: ![bg space](https://github.com/dcTeam23/fundamentos/assets/61756665/ac6b2249-3264-4291-a258-9c6cb8a4a74e) -->
 </br></br></br>
 
 ## <!--fit---> *Conectividade de Rede*
@@ -360,7 +360,7 @@ _class: invert -->
 <!-- backgroundImage: #c5cdd9 -->
 <!-- _color: #35495e -->
 
-![bg right:40% w:480](images/enderecoIP.webp)
+![bg right:40% w:480 enderecoIP](https://github.com/dcTeam23/fundamentos/assets/61756665/795a83fb-6de7-43af-bfb3-a129883b8b8d)
 
 # Endereçamento IP
 
@@ -379,7 +379,7 @@ _class: invert -->
 <!-- backgroundImage: #c5cdd9 -->
 <!-- _color: #35495e -->
 
-![bg left:38% w:850](images/78029121434_crop.webp)
+![bg left:38% w:850 78029121434_crop](https://github.com/dcTeam23/fundamentos/assets/61756665/b0c19f6a-9859-41af-a1cd-9ddf4b052fba)
 
 # Hoje, o TCP/IP é o alicerce da comunicação na Internet e em muitas outras redes. 
 ## É ele que permite que nossos dispositivos se conectem, troquem mensagens, acessem informações, realizem transações e nos ajudem a explorar o vasto mundo online.
@@ -390,7 +390,7 @@ Nesta jornada pelo passado, podemos apreciar o impacto transformador dos protoco
 
 ---
 
-<!-- -------------------------- Slide 20- Tópico: Perguntas e discussões ------------------------- -->
+<!-- -------------------------- Slide 22- Tópico: Perguntas e discussões ------------------------- -->
 <!-- _class: invert -->
 <center>
 
