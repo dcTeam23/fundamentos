@@ -37,8 +37,8 @@ Turma Full Stack 23 - Digital College
 
 
 ---
-<!-- -Desde que a conexão com a internet esteja estabelecida.
-     -Um dos programas mais importantes de qualquer máquina do mundo.
+<!-- - Desde que a conexão com a internet esteja estabelecida.
+     - Um dos programas mais importantes de qualquer máquina do mundo.
 -->
 - Os Browsers são programas que, intermediados pelo SO, permitem ao usuário inserir os endereços das páginas de algum site e “navegar” através dos
 hiperlinks.
@@ -54,13 +54,12 @@ hiperlinks.
 ![w:150](https://images.emojiterra.com/google/noto-emoji/unicode-15/animated/1f914.gif)
 
 ---
-<!-- -  A sigla vem do inglês Hypertext Transfer Protocol.
-    - Esse sistema é a base da comunicação que existe em toda a Internet em que os sites e conteúdos que tragam hiperlinks possam ser encontrados mais facilmente pelo público por meio de um clique do mouse ou um toque na tela.
-    - Qualquer servidor que você escolha para hospedar o site da sua empresa tem um programa projetado para receber solicitações HTTP. Portanto, o navegador que você usa é um cliente HTTP que envia solicitações constantemente ao seu servidor.
+<!-- 
+    -  A sigla vem do inglês Hypertext Transfer Protocol.
 
-     - Assim, quando um usuário acessa ou digita a URL do seu site, o navegador cria uma solicitação HTTP na web e a envia ao endereço de IP indicado pela URL.
+    - Esse sistema é a base da comunicação que existe em toda a Internet 
 
-     - Dessa forma, o servidor recebe essa solicitação e envia os arquivos associados que, nada mais são, do que os sites que acessamos na Internet.
+    - Qualquer servidor que você escolha para hospedar o site da sua empresa tem um programa projetado para receber solicitações HTTP. 
 
 -->
 - Os navegadores utilizam o protocolo de
