@@ -26,9 +26,7 @@ backgroundImage: Url(https://ip-check.info/wp-content/uploads/2022/04/tcpip-696x
 
  -- -- -- -- - ![h:550](images/conversa.jpg)
 
-<!--Olá pessoal, pra quem não me conhece,eu me chamo Janaína e vou apresentar uma introdução aos famosos Protocolo de Controle de Transmissão e Protocolo de Internet: TCP e IP.
-
-Imagine uma sala cheia de pessoas conversando, cada uma com sua própria linguagem e forma de se comunicar. Agora, pense em como seria difícil para elas se entenderem e trocarem informações de maneira eficiente. É nesse momento que entra em cena o protocolo de comunicação.-->
+<!--Imagine uma sala cheia de pessoas conversando, cada uma com sua própria linguagem e forma de se comunicar. Agora, pense em como seria difícil para elas se entenderem e trocarem informações de maneira eficiente. É nesse momento que entra em cena o protocolo de comunicação.-->
 
 ---
 
@@ -77,7 +75,6 @@ _color: black -->
 <!-- _color: dark -->
 
 <!--Ele é como um mediador que facilita a troca de informações, tornando possível a interconexão de computadores, servidores, dispositivos móveis e muito mais.Com ele podemos enviar e receber e-mails, acessar sites, fazer chamadas de vídeo, compartilhar arquivos e desfrutar de uma infinidade de serviços online. -->
-<!--Sem protocolos de comunicação padronizados, seria difícil, por exemplo, existir uma rede global como a Internet.-->
 
 <center>
 
@@ -155,11 +152,9 @@ _class: lead -->
 # <!--fit--> PROTOCOLOS
 ## <!--fit--> competindo pelo domínio
 
-<!--surgimento dos protocolos de comunicação-->
-
 <!--Como surgiu os protocolos de comunicação? Antes da era da Internet, quando as redes de computadores estavam iniciando, diferentes protocolos competiam pelo domínio, cada um com sua própria forma de estabelecer comunicação. Era como se diferentes línguas estivessem sendo faladas em cada rede, dificultando a interoperabilidade e a troca de informações.
 
-Um dos protagonistas dessa história é o TCP/IP, o protocolo que acabou se tornando o padrão mundial para a comunicação em redes. Mas antes de alcançar esse status, outros protocolos também desempenharam papéis importantes. Por exemplo:  NETBEUI, o IPX/SPX e o Apple Talk.
+Um dos protagonistas dessa história é o TCP/IP, que acabou se tornando o padrão mundial para a comunicação em redes. Mas antes de alcançar esse status, outros protocolos também desempenharam papéis importantes, como o NETBEUI, o IPX/SPX e o Apple Talk.
 Esses protocolos eram utilizados nas redes das empresas e, em seu auge, cada um deles tinha sua própria capacidade de estabelecer comunicação.-->
 
 ---
@@ -175,7 +170,7 @@ Esses protocolos eram utilizados nas redes das empresas e, em seu auge, cada um 
 <!-- ---------------------------- Slide 10 - Tópico: Criadores ---------------------------- -->
 ![bg h:900 w:1280](backgrounds/image-3.png)
 
-<!-- à direita, Vinton Cerf . Matemático e Mestre em Tecnologia americano. Foi em 2005 vice-presidente da Google. Na época de sua contratação, o executivo-chefe da empresa, Eric Schmidt, chegou a dizer que Vinton Cerf era uma das pessoas mais importantes da história ainda vivas. Junto a Robert Kahn, é um dos criadores da Internet, tendo participado da criação dos protocolos TCP/IP, que são os alicerces da conexão à rede. Foi esse de óculos, Robert, quem desenvolveu o TCP e Vinton, o barbudo, que iniciou o desenvolvimento do IP para transmissão de informações pela Internet, que foi reconhecido com a publicação do artigo A Protocol for Packet Network Intercommunication.-->
+<!-- à direita, Vinton Cerf . Matemático e Mestre em Tecnologia americano. Foi em 2005 vice-presidente da Google. Uma das pessoas mais importantes da história ainda vivas. Junto a Robert Kahn, é um dos criadores da Internet, tendo participado da criação dos protocolos TCP/IP. Foi esse de óculos, Robert, quem desenvolveu o TCP e Vinton, o barbudo, que iniciou o desenvolvimento do IP para transmissão de informações pela Internet, que foi reconhecido com a publicação do artigo A Protocol for Packet Network Intercommunication.-->
 
 ---
 <!-- -------------------------- Slide 11 - Tópico: Curiosidade -------------------------- -->
@@ -185,9 +180,7 @@ _color: gray  -->
 
 <!-- Hoje, quando pensamos no pai da internet, a maioria das pessoas pensa em Tim Berners Lee, o homem que criou a World Wide Web. ele é realmente o pai da internet moderna. 
 
-MAS Vint Cerf criou a MANEIRA pela qual Tim Lee poderia mais tarde criar O 'W W W' como a conhecemos hoje. 
-
-<!--Os protocolos TCP/IP foram importante para o funcionamento da Internet devido à sua capacidade de conectar redes heterogêneas, permitindo a comunicação entre diferentes sistemas operacionais e dispositivos, compartilhando dados entre eles de forma eficiente em todo o mundo. Ele foi desenvolvido ao longo de décadas, como resultado de pesquisas e colaborações entre cientistas, engenheiros e acadêmicos.-->
+MAS Vint Cerf criou a MANEIRA pela qual Tim Lee poderia mais tarde criar O 'W W W' como a conhecemos hoje.-->
 
 <div>
 <center>
@@ -209,8 +202,6 @@ MAS Vint Cerf criou a MANEIRA pela qual Tim Lee poderia mais tarde criar O 'W W 
 <!-- _class: leader -->
 <!-- _color: #c5cdd9 -->
 
-<!-- Com sua abordagem robusta, o TCP/IP assegura que a informação seja transmitida de maneira confiável, segura e padronizada, garantindo uma comunicação eficiente entre dispositivos e redes.-->
-
 ![bg right:45% w:400](internet1.jpg)
 
 <center><span style="color: #011121">
@@ -221,7 +212,7 @@ MAS Vint Cerf criou a MANEIRA pela qual Tim Lee poderia mais tarde criar O 'W W 
 
 </center>
 
-<!--Garante a Transmissão Confiável e Padronizada dos Dados: Ele é responsável por estabelecer uma conexão virtual entre remetentes e destinatários, dividir os dados em pacotes e controlar o fluxo de transmissão, sem que os dados sejam corrompidos ou alterados.-->
+<!--Os protocolos TCP/IP foram importante para o funcionamento da Internet devido à sua capacidade de conectar redes heterogêneas, permitindo a comunicação entre diferentes sistemas operacionais e dispositivos, compartilhando dados entre eles de forma eficiente em todo o mundo, garantindo a Transmissão Confiável e Padronizada dos Dados. Ele foi desenvolvido ao longo de décadas, como resultado de pesquisas e colaborações entre cientistas, engenheiros e acadêmicos.-->
 
 * ### Conjunto de protocolos para a **comunicação em redes**
 
@@ -262,12 +253,16 @@ Sem o IP, não seria possível estabelecer a conectividade e a troca de informa�
 
 * Confiabilidade
 <!-- Garante a entrega confiável dos dados, verificando se os pacotes são recebidos corretamente e retransmitindo-os, se necessário. Ele também controla a detecção e a recuperação de erros durante a transmissão.-->
+
 * Ordenação
 <!-- Mantém a ordem correta dos pacotes de dados durante a transmissão, reorganizando-os, se necessário. Isso garante que os dados sejam recebidos na mesma sequência em que foram enviados.-->
+
 * Controle de Fluxo
 <!-- Controla o fluxo de transmissão, ajustando a taxa de envio dos pacotes de acordo com a capacidade da rede e a capacidade de processamento do destinatário. Isso evita a sobrecarga da rede e a perda de pacotes devido a congestionamento.-->
+
 * Segmentação
-<!-- Divide os dados em segmentos de tamanho apropriado para a transmissão pela rede. Isso permite que grandes quantidades de dados sejam transmitidas de forma eficiente e evita problemas de congestionamento.-->
+<!-- Divide os dados em segmentos de tamanho apropriado para a transmissão pela rede sem que os dados sejam corrompidos ou alterados. Isso permite que grandes quantidades de dados sejam transmitidas de forma eficiente e evita problemas de congestionamento.-->
+
 * Estabelecimento e encerramento de conexão
 <!-- Estabelece uma conexão virtual entre remetentes e destinatários, permitindo a troca de dados. Ele também gerencia o encerramento dessa conexão de forma adequada e segura.-->
 
@@ -280,7 +275,7 @@ _color: gray  -->
 ![bg 80%](images/image-5.png)
 
 <!-- "The internet we experience today has exceeded all my initial estimations." : "A internet que experimentamos hoje superou todas as minhas estimativas iniciais"
-À medida que a popularização da Internet crescia, o TCP/IP se consolidou como o protocolo padrão, impulsionando a expansão da rede mundial de computadores. Ele foi adotado por organizações, empresas e governos ao redor do mundo, criando um ambiente de conectividade sem precedentes. -->
+À medida que a popularização da Internet crescia, o TCP/IP se consolidava como o protocolo padrão, impulsionando a expansão da rede mundial de computadores. Ele foi adotado por organizações, empresas e governos ao redor do mundo, criando um ambiente de conectividade sem precedentes. -->
 
 ---
 
@@ -314,7 +309,7 @@ backgroundImage: ![bg ](backgrounds/space.webp) -->
 <!-- backgroundImage: #c5cdd9 -->
 <!-- _color: #35495e -->
 
-<!--Comparado com o modelo OSI já sitado anteriormente, você pode ver como as 4 camadas TCP/IP e suas funções estão relacionadas:-->
+<!--Aqui uma apresentação breve da arquitetura do TCP/IP e suas 4 camadas-->
 
 ![bg left:35% w:450](https://www.datarain.com.br/wp-content/uploads/2020/08/modelo-TCP-IP.png)
 
@@ -367,7 +362,7 @@ _class: invert -->
 ## Conceitos:
 
 * Endereço IP: Representados no formato decimal, ex: 192.168.1.0. O endereço IP **identifica uma conexão à Internet** e não a máquina em si.
-<!--O endereço IP versão 4, é uma sequência de números com 32 bits de tamanho, escrito com quatro octetos, quatro sequências de 8 bits, a cada sequência dá-se o nome de byte. Os endereços IP são representados no formato decimal, ex 192.168.1.0. O endereço IP identifica uma conexão à Internet e não a máquina em si.-->
+<!--O endereço IP versão 4, é uma sequência de números com 32 bits de tamanho, escrito com quatro octetos, quatro sequências de 8 bits, a cada sequência dá-se o nome de byte.-->
 * Máscara de sub-rede: Número de 32-bit que mascara um endereço IP e divide o endereço IP em: **endereço de rede** e **endereço de host**.
 <!--Um endereço IP tem dois componentes, o endereço de rede e o endereço do host. Uma máscara de sub-rede separa o endereço IP nos endereços de rede e de host (<network><host>).-->
 
