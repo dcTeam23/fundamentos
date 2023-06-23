@@ -163,7 +163,7 @@ Um dos protagonistas dessa história é o TCP/IP, o protocolo que acabou se torn
 Esses protocolos eram utilizados nas redes das empresas e, em seu auge, cada um deles tinha sua própria capacidade de estabelecer comunicação.-->
 
 ---
-<!-- ------- Slide 12: imagem uso de protocolo diferente (NETBEUI, o IPX/SPX e o AppleTalk) ------- -->
+<!-- ------- Slide 10: imagem uso de protocolo diferente (NETBEUI, o IPX/SPX e o AppleTalk) ------- -->
 
 <!-- backgroundImage: "linear-gradient(to bottom, #c5cdd9, #FFF)"-->
 
@@ -172,13 +172,13 @@ Esses protocolos eram utilizados nas redes das empresas e, em seu auge, cada um 
 ![w:100% protocolos](https://user-images.githubusercontent.com/61756665/248303222-ad546c70-4f69-4e4f-bbd0-46f8b9ae0ae6.png)
 
 ---
-<!-- ---------------------------- Slide 10 - Tópico: Criadores ---------------------------- -->
+<!-- ---------------------------- Slide 11 - Tópico: Criadores ---------------------------- -->
 ![bg h:900 w:1280 image-3](https://github.com/dcTeam23/fundamentos/assets/61756665/9428ca3b-7600-4c70-99b8-a9937a1fa050)
 
 <!-- à direita, Vinton Cerf . Matemático e Mestre em Tecnologia americano. Foi em 2005 vice-presidente da Google. Na época de sua contratação, o executivo-chefe da empresa, Eric Schmidt, chegou a dizer que Vinton Cerf era uma das pessoas mais importantes da história ainda vivas. Junto a Robert Kahn, é um dos criadores da Internet, tendo participado da criação dos protocolos TCP/IP, que são os alicerces da conexão à rede. Foi esse de óculos, Robert, quem desenvolveu o TCP e Vinton, o barbudo, que iniciou o desenvolvimento do IP para transmissão de informações pela Internet, que foi reconhecido com a publicação do artigo A Protocol for Packet Network Intercommunication.-->
 
 ---
-<!-- -------------------------- Slide 11 - Tópico: Curiosidade -------------------------- -->
+<!-- -------------------------- Slide 12 - Tópico: Curiosidade -------------------------- -->
 <!-- _class: invert
 _color: gray  -->
 <!-- backgroundImage:  black -->
@@ -204,7 +204,7 @@ MAS Vint Cerf criou a MANEIRA pela qual Tim Lee poderia mais tarde criar O 'W W 
 </div>
 
 ---
-<!-- ---------------------------- Slide 12 - Tópico: O que é o TCP/IP? ---------------------------- -->
+<!-- ---------------------------- Slide 13 - Tópico: O que é o TCP/IP? ---------------------------- -->
 <!-- backgroundImage: "linear-gradient(to bottom, #1a2938, #35495e ,#c5cdd9 )" 
 <!-- _class: leader -->
 <!-- _color: #c5cdd9 -->
@@ -230,7 +230,7 @@ MAS Vint Cerf criou a MANEIRA pela qual Tim Lee poderia mais tarde criar O 'W W 
 * ### **Comunicação eficiente** entre dispositivos e redes
 
 ---
-<!-- ---------------------------- Slide 13 - Tópico: O que é o IP? ---------------------------- -->
+<!-- ---------------------------- Slide 14 - Tópico: O que é o IP? ---------------------------- -->
 <!-- backgroundImage: "linear-gradient(to bottom,#c5cdd9, #35495e, #1a2938  )" 
 _class: invert-->
 <!-- _color: #FFF -->
@@ -255,7 +255,7 @@ Além disso, o IP define como os pacotes de dados devem ser fragmentados, encaps
 Sem o IP, não seria possível estabelecer a conectividade e a troca de informações que caracterizam a internet e as redes de computadores.-->
 
 ---
-<!-- ---------------------------- Slide 14 - Tópico: Finalidades do TCP ---------------------------- -->
+<!-- ---------------------------- Slide 15 - Tópico: Finalidades do TCP ---------------------------- -->
 <!-- _class: invert -->
 #### O TCP oferece várias funcionalidades essenciais para a comunicação eficiente e confiável na internet e em outras redes. Algumas das principais finalidades do TCP são:
 </br>
@@ -272,7 +272,7 @@ Sem o IP, não seria possível estabelecer a conectividade e a troca de informa�
 <!-- Estabelece uma conexão virtual entre remetentes e destinatários, permitindo a troca de dados. Ele também gerencia o encerramento dessa conexão de forma adequada e segura.-->
 
 ---
-<!-- -------------------------- Slide 15 - Tópico: Frase de Vint Cerf -------------------------- -->
+<!-- -------------------------- Slide 16 - Tópico: Frase de Vint Cerf -------------------------- -->
 <!-- _class: invert
 _color: gray  -->
 <!-- backgroundImage:  black -->
@@ -284,7 +284,7 @@ _color: gray  -->
 
 ---
 
-<!-- -------------------- Slide 16: Sistemas operacionais que utilizam o TCP/IP -------------------- -->
+<!-- -------------------- Slide 17: Sistemas operacionais que utilizam o TCP/IP -------------------- -->
 <!--_color: #c5cdd9-->
 backgroundImage: ![bg space](https://github.com/dcTeam23/fundamentos/assets/61756665/ac6b2249-3264-4291-a258-9c6cb8a4a74e) -->
 </br></br></br>
@@ -309,7 +309,7 @@ backgroundImage: ![bg space](https://github.com/dcTeam23/fundamentos/assets/6175
 </div>
 
 ---
-<!-- -------------------------- Slide 17 - Tópico: Arquitetura do TCP/IP -------------------------- -->
+<!-- -------------------------- Slide 18 - Tópico: Arquitetura do TCP/IP -------------------------- -->
 <!-- _class: +invert -->
 <!-- backgroundImage: #c5cdd9 -->
 <!-- _color: #35495e -->
@@ -341,9 +341,9 @@ backgroundImage: ![bg space](https://github.com/dcTeam23/fundamentos/assets/6175
 </div>
 
 ---
+<!------------------------------- Slide 19 - Mas como? (Pergunta com Emoji Pensativo)------------------------------->
 
-<!-- 
-backgroundImage: #101010
+<!-- backgroundImage: #101010
 _color: dark
 _class: invert -->
 </br>
@@ -355,7 +355,7 @@ _class: invert -->
 </br>
 
 ---
-<!-- ----------------------------- Slide 18 - Tópico: Endereçamento IP ----------------------------- -->
+<!-- ----------------------------- Slide 20 - Tópico: Endereçamento IP ----------------------------- -->
 <!-- _class: +invert -->
 <!-- backgroundImage: #c5cdd9 -->
 <!-- _color: #35495e -->
@@ -375,7 +375,7 @@ _class: invert -->
 <!--Gateway é um termo em inglês que significa portão ou portal, um sistema ou equipamento cuja função básica é estabelecer a comunicação entre múltiplos ambientes. Com ele, é possível fazer a conexão entre equipamentos localizados em redes diferentes e que comuniquem através de padrões distintos.-->
 
 ---
-<!-- --------------------------------- Slide 19 - Tópico: Conclusão --------------------------------- -->
+<!-- --------------------------------- Slide 21 - Tópico: Conclusão --------------------------------- -->
 <!-- backgroundImage: #c5cdd9 -->
 <!-- _color: #35495e -->
 
