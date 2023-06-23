@@ -20,6 +20,8 @@ style: |
 ---
 ## Nuvem Privada
 
+<!-- É um modelo de nuvem destinado a apenas uma empresa, onde as principais vantagens é a sua segurança e modularização de acordo com as necessidades da empresa e as desvantagem é a baixa escalabilidade e o custo elevado -->
+
 ![w:500 h:300 bg left](https://comoaprenderwindows.com.br/wp-content/uploads/2020/07/nuvemprivada.png)
 
 - Infraestrutura e serviços de nuvem dedicados a uma única organização.
@@ -30,6 +32,8 @@ style: |
 ---
 
 ## Nuvem Pública
+
+<!-- É um modelo de nuvem destinado a diferentes empresas, onde as principais vantagens é a sua alta escalabilidade e o baixo custo e as desvantagem é a segurança -->
 
 ![w:500 h:300 bg left](https://www.datarain.com.br/wp-content/uploads/2021/08/publicacloud.png)
 
@@ -48,6 +52,10 @@ style: |
 ---
 
 ## Nuvem Híbrida
+
+<!-- É um modelo onde se usam diferentes clouds de acordo com a necessidade do problema. A principal vantagem é a flexibilidade de solução de cada problema específico com a melhor ferramenta -->
+
+<!-- É um modelo de nuvem onde tem os dois benefícios de nuvem privada e pública, onde pode usar, por exemplo, segurança em dados mais sensíveis e escalabilidade e disponibilidade em outros dados necessários -->
 
 ![w:600 h:400 bg left](https://www.scurra.com.br/blog/wp-content/uploads/2017/08/cloud-hibryd-768x467.png)
 
