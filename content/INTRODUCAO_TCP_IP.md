@@ -169,7 +169,7 @@ Esses protocolos eram utilizados nas redes das empresas e, em seu auge, cada um 
 
 <!-- No entanto, à medida que a necessidade de interconexão e compartilhamento de recursos crescia, tornou-se evidente a necessidade de um protocolo comum que unificasse as redes. E assim, o TCP/IP emergiu como um vencedor claro-->
 
-![w:100%](protocolos.png)
+![w:100% protocolos](https://github.com/dcTeam23/fundamentos/assets/61756665/ad546c70-4f69-4e4f-bbd0-46f8b9ae0ae6)
 
 ---
 <!-- ---------------------------- Slide 10 - Tópico: Criadores ---------------------------- -->
