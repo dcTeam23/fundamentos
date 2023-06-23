@@ -23,6 +23,7 @@ Requisições e respostas HTTP são estruturadas da seguinte forma:
 A versão atual do protocolo HTTP é chamada de HTTP/2, divulgada em 2014 e tendo sido sua primeira revisão desde o protocolo HTTP/1.1, padronizado em 1997. Essa versão trouxe várias melhorias de segurança e desempenho, visando também a crescente utilização de smartphones na navegação pela internet.
 
 ## Métodos HTTP e segurança
+
 O protocolo HTTP define oito métodos de requisição (GET, POST, PUT, DELETE, HEAD, TRACE, OPTIONS e CONNECT) para indicar qual ação deve ser realizada no recurso especificado.
 
 Os métodos GET e POST, PUT e DELETE são os mais utilizados em aplicações web. Um servidor HTTP deve implementar, pelo menos, os métodos GET e HEAD para ser funcional.
@@ -34,6 +35,7 @@ Uma característica importante do protocolo HTTP que todo usuário deve se atent
 Essa camada transmite os dados de forma criptografada, além de permitir a verificação de autenticidade do servidor e do cliente por meio de certificados digitais. No entanto, isso nem sempre significa que o site em si é seguro, mas apenas que a conexão está protegida do acesso de terceiros.
 
 ## Definição:
+
 <dl>
 <dt id="get">
 <code>Get</code>
