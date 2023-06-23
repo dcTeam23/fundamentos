@@ -4,6 +4,7 @@
 ## Diagrama
 
 ### Explicação da Hierarquia DNS
+
 ```mermaid
 stateDiagram-v2
 state "Raiz" as ServidorRaiz1
