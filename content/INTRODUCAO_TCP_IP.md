@@ -235,7 +235,7 @@ MAS Vint Cerf criou a MANEIRA pela qual Tim Lee poderia mais tarde criar O 'W W 
 _class: invert-->
 <!-- _color: #FFF -->
 
-![bg left:50% h:600](network_cabling1.webp)
+![bg left:50% h:600 network_cabling1](https://github.com/dcTeam23/fundamentos/assets/61756665/57016b83-be0f-4da5-86f9-22a1898746cc)
 
 <center>
 <span style="color: #011121">
