@@ -35,6 +35,17 @@ Por exemplo, quando você digita  www.digitalcollege.com.br no seu navegador, o 
 - Domínios de segundo nível (exemplo.com) <!-- São servidores gerenciados por universidades e grandes empresas que por opção pode preferir montar seu próprio servidor DNS para abrigar seus registros e pegar registros de algum servidor de autoridade de algum servidor de serviço. -->
 
 ---
+
+
+![bg fit opacity:10% ](https://digitalcollege.com.br/wp-content/webp-express/webp-images/uploads/2022/05/logo-digital.png.webp)
+
+## Funcionamento do DNS
+
+![bg w:580](https://github.com/dcTeam23/fundamentos/assets/132242813/f84fef8a-dcf3-4aaf-9de4-7ee56b4957b0)
+
+
+---
+
 ![bg fit opacity:10% ](https://digitalcollege.com.br/wp-content/webp-express/webp-images/uploads/2022/05/logo-digital.png.webp)
 
 ## DNS para segurança de navegação

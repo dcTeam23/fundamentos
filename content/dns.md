@@ -38,13 +38,13 @@ state "pcdarecpcao" as MaquinaDesktop3
     ServidorSala2 --> MaquinaDesktop3
     
 state "Servidores-Raiz" as ServidorRaiz1
-state "Servidores de domínio de topo" as Altonivel1
+state "Servidores de domínio de topo (TLD)" as Altonivel1
 state "Servidores com autoridade" as DNSConAutoridade1
 state "Servidores com autoridade" as DNSConAutoridade2
-state "Servidor Principal do Site" as Site1
-state "Servidor Principal do Site" as Site2
-state "Servidor da Sede Aldeota" as ServidorRedeSede1
-state "Servidor da Sede Sul" as ServidorRedeSede2
+state "Servidor Principal do Site (SLD)" as Site1
+state "Servidor Principal do Site(SLD)" as Site2
+state "Servidor da Sede Aldeota (Subdomínio)" as ServidorRedeSede1
+state "Servidor da Sede Sul(Subdomínio)" as ServidorRedeSede2
 state "Router do 10 Andar" as ServidorRedeAndar1
 state "Router do 1 Andar" as ServidorRedeAndar2
 state "Wifi da Sala Larry Page" as ServidorSala1
