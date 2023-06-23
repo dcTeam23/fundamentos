@@ -41,7 +41,9 @@ style: |
 - Menor custo inicial e redução da necessidade de manutenção.
 
 ---
-![bg cover ](http://datamation.com/wp-content/uploads/2020/12/private-vs-public-cloud-computing_5fcea7aca19de.jpeg)
+
+## Qual nuvem seria melhor?
+![w:500 h:300 bg right](https://www.hlti.com.br/wp-content/uploads/2022/07/Nuvem-Privada-x-Nuvem-Publica-Qual-o-melhor-tipo-de-nuvem.png)
 
 ---
 
