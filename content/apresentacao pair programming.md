@@ -5,7 +5,9 @@ theme: uncover
 class: invert
 ---
 # Pair Programming
+
 ![w:200](https://distantjob.com/wp-content/uploads/2017/08/13th-Aug-DJ-Banner-Pair-Programming-Why-You-Should-Care-About-It-and-How-To-Do-It-Remotely-300x225.jpg)
+
 ## O que é Pair Programming?
 
 Pair Programming é uma técnica de programação em que duas pessoas trabalham em conjunto em um computador para desenvolver software. Um programador assume o papel de "piloto", que está no controle do teclado e mouse, enquanto o outro programador atua como "observador" ou "navegador".
