@@ -42,18 +42,18 @@ _class: lead
 - Linux (bash shell): [root @ myserver /] #
 
 ---
-# <span style="color:0198cc">Para que serve uma CLI?</span>
+# <span style="color:#0198cc">Para que serve uma CLI?</span>
 
 #### Uma Interface de Linha de Comando pode ter vários benefícios dependendo do profissional que a utiliza. Para começar vamos avaliar os usos e vantagens da CLI para administradores de sistemas e desenvolvedores de software.
 
 ---
-# <span style="color:0198cc">Do ponto de vista dos administradores de sistemas</span>
+# <span style="color:#0198cc">Do ponto de vista dos administradores de sistemas</span>
 #### A maioria das pessoas prefere uma interface de usuário gráfica a uma de linha de comando. No entanto, algumas operações podem ser concluídas mais rapidamente usando um teclado em vez de um mouse. 
 
 #### Portanto, as CLIs são frequentemente usadas por administradores de sistemas para tarefas comuns.
 
 ---
-# <span style="color:0198cc">Do ponto de vista dos administradores de sistemas</span>
+# <span style="color:#0198cc">Do ponto de vista dos administradores de sistemas</span>
 ##### Outro uso importante é que uma configuração pode ser alterada remotamente apenas executando alguns comandos no computador. Em outras palavras, sem a necessidade de estar fisicamente presente no mesmo local desse computador e fazer essa tarefa manualmente.
 
 ##### O uso da CLI reduz muito tempo e esforços dos administradores de sistema. Além disso, também garante que o risco de segurança possa ser rastreado e evitado mesmo em grandes estruturas organizacionais (e com o mínimo de trabalho humano!).
