@@ -1,4 +1,4 @@
-# O Inicio da Internet 
+# O Início da Internet 
 
 ### **O Mundo em Tensão**
 ---
@@ -7,6 +7,7 @@ maiores conflitos não armamentistas da
 história, a Guerra Fria. No início dos anos 60, as
 maiores potências, Estados Unidos e União das
 Repúblicas Socialistas Soviéticas.
+
 Essas grandes superpotências travaram um
 intenso conflito tecnológico e bélico, e a famosa
 corrida espacial, Os soviéticos saíram na frente
@@ -14,6 +15,7 @@ como o envio do primeiro satélite ao espaço,
 Sputnik 1, em 1957 e quatro anos depois, em
 1961, enviaram o primeiro homem ao espaço,
 em 12 de abril de 1961.
+
 No dia 30 de outubro de 1961, os soviéticos
 realizaram o teste da maior bomba já criada
 pelo homem, a Tsar Bomb. O físico Andrei
@@ -25,6 +27,7 @@ cidades de Hiroshima e Nagasaki, com efeitos
 destrutivos incalculáveis. O projeto então
 reduziu a potência do artefato pela metade,
 tendo em vista, portanto, 50 megatons.
+
 Os americanos responderam com o envio do
 primeiro homem à lua, o projeto Apollo 11, com
 a “corrida sendo vencida” pelos soviéticos,
@@ -34,6 +37,7 @@ Assim como os soviéticos, os americanos
 desenvolveram diversas armas, bombas
 atômicas e nucleares superiores às que foram
 lançadas nas cidades japonesas.
+
 O cenário de tensão, tendo como plano de
 fundo o alto investimento em tecnologia de
 ponta, testes com bombas de destruição em
