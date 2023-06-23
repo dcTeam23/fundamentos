@@ -24,7 +24,7 @@ style: |
 <!-- _paginate: false
 backgroundImage: Url(https://ip-check.info/wp-content/uploads/2022/04/tcpip-696x453.jpg.webp) -->
 
- -- -- -- -- - ![h:550](images/conversa.jpg)
+![bg conversa w:1000](https://github.com/dcTeam23/fundamentos/assets/61756665/fc7caafc-118a-4f2a-91fb-6ac06ab46503)
 
 <!--Olá pessoal, pra quem não me conhece,eu me chamo Janaína e vou apresentar uma introdução aos famosos Protocolo de Controle de Transmissão e Protocolo de Internet: TCP e IP.
 
