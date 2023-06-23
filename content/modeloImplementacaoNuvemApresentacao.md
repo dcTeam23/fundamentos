@@ -53,9 +53,7 @@ style: |
 
 ## Nuvem Híbrida
 
-<!-- É um modelo onde se usam diferentes clouds de acordo com a necessidade do problema. A principal vantagem é a flexibilidade de solução de cada problema específico com a melhor ferramenta -->
-
-<!-- É um modelo de nuvem onde tem os dois benefícios de nuvem privada e pública, onde pode usar, por exemplo, segurança em dados mais sensíveis e escalabilidade e disponibilidade em outros dados necessários -->
+<!-- É um modelo de nuvem onde se tem os dois benefícios de nuvem, privada e pública, onde pode usar, por exemplo, segurança em dados mais sensíveis e escalabilidade e disponibilidade em aplicações onde se tem essa demanda -->
 
 ![w:600 h:400 bg left](https://www.scurra.com.br/blog/wp-content/uploads/2017/08/cloud-hibryd-768x467.png)
 
@@ -77,6 +75,8 @@ style: |
 
 ---
 ## Nuvem Multicloud
+
+<!-- É um modelo onde se usam diferentes clouds de acordo com a necessidade do problema. A principal vantagem é a flexibilidade de solução de cada problema específico com a melhor ferramenta -->
 
 ![w:600 h:400 bg left](https://t9z6z8s3.rocketcdn.me/wp-content/uploads/2021/01/Multicloud.png)
 
