@@ -9,7 +9,7 @@ _class: lead
 ---
 
 
-<center><img src="fotos/CLI3.png" alt="Command Line Interface" width="650px"></center>
+<center><img src="https://github.com/dcTeam23/fundamentos/assets/135337339/f7f532dd-8b00-4962-940a-eaf52a994e23" alt="Command Line Interface" width="650px"></center>
 
 ---
 
