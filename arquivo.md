@@ -4,8 +4,18 @@ theme: gaia
 author: Rodrigo neto
 _class: lead
 paginate: true
-backgroundColor: #fff
+
 ---
+
+<style>
+    :root {
+        --color-background: #10403B;
+        --color-foreground: #ADD9D1;
+    }
+    h1 {
+        font-family: Helvetica;
+    }
+</style>
 
 # A PRIMEIRA MENSAGEM DE REDE
 <br>
