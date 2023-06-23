@@ -2,7 +2,7 @@
 
 ### **O Mundo em Tensão**
 ---
-#### O surgimento da internet deu-se em uma dos
+O surgimento da internet deu-se em uma dos
 maiores conflitos não armamentistas da
 história, a Guerra Fria. No início dos anos 60, as
 maiores potências, Estados Unidos e União das
