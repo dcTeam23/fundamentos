@@ -25,7 +25,8 @@ BackgroundImage: url('https://media.licdn.com/dms/image/C4E0DAQEG5kUbG3kzQw/lear
 
 # As 7 Camadas
 
-![bg right](image.png)
+![bg right](https://github.com/dcTeam23/fundamentos/assets/608731/9f83db27-16f0-46b1-902c-6ef0e6d4c2ca)
+
 
 ---
 
