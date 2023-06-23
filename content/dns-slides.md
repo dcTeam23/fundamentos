@@ -30,7 +30,7 @@ Por exemplo, quando você digita  www.digitalcollege.com.br no seu navegador, o 
 - Hierarquia de DNS 
 - Raiz: "." <!-- No topo da hierarquia estão os 13 servidores raiz. Um servidor-raiz (root name server) é um servidor de nome para a zona raiz do DNS (Domain Name System).  -->
 - Domínios de primeiro nível (TLDs) <!-- Cada domínio é formado por nomes separados por pontos. O nome mais à direita é chamado de domínio de topo. Exemplos de domínios de topo são .com, .org, .net, .edu, .inf, .gov. -->
-- Domínios de segundo nível (exemplo.com) <!--  -->
+- Domínios de segundo nível (exemplo.com) <!-- São servidores gerenciados por universidades e grandes empresas que por opção pode preferir montar seu próprio servidor DNS para abrigar seus registros e pegar registros de algum servidor de autoridade de algum servidor de serviço. -->
 
 ---
 ![bg fit opacity:10% ](https://digitalcollege.com.br/wp-content/webp-express/webp-images/uploads/2022/05/logo-digital.png.webp) 
