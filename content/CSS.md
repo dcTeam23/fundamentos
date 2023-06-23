@@ -2,10 +2,8 @@
 marp: true
 theme: default
 paginate: true
-
+author: : Jânio Lima
 ---
-
-
 
 <!-- _backgroundColor: orange -->
 <!-- _color: black -->
@@ -28,13 +26,11 @@ paginate: true
 
 ---
 
-
 ### Existem três maneiras principais de aplicar CSS a uma página HTML:
 
  ###### 1. Estilos embutidos: Você pode definir estilos diretamente no código  HTML usando a tag `<style>`. Os estilos são especificados dentro dessa tag, geralmente na seção `<head>` do documento HTML. Isso permite que você defina estilos específicos para um documento individual.
 ###### 2. Estilos internos: Você também pode incluir um arquivo CSS separado usando a tag `<link>`. Essa tag é colocada na seção `<head>` do documento HTML e faz referência ao arquivo CSS externo, permitindo que você defina estilos que se aplicam a várias páginas.
 ###### 3. Estilos externos: É possível escrever todo o código CSS em um arquivo separado com extensão `.css` e referenciá-lo usando a tag `<link>`. Essa abordagem é útil para manter o código CSS organizado e reutilizável em diferentes páginas.
-
 
 ---
 
@@ -43,9 +39,8 @@ paginate: true
 ###### Através da combinação do HTML para estrutura e conteúdo e do CSS para a apresentação visual, é possível criar páginas da web esteticamente agradáveis, responsivas e consistentes. O CSS desempenha um papel fundamental no design web moderno, permitindo uma personalização completa da aparência dos elementos de uma página...
 
 ---
+
 ![bg right:45%](computador.png)
-
-
 
 # Os fundamentos do CSS:
 
@@ -80,6 +75,7 @@ seletor {
 ###### 8. Box Model: O Box Model é um conceito fundamental do CSS que define como os elementos HTML são renderizados em caixas retangulares. Cada elemento é composto por margem, borda, preenchimento (padding) e conteúdo, e você pode controlar o tamanho e o espaçamento dessas partes usando propriedades CSS.
 
 ---
+
 ###### Vou fornecer um exemplo básico de um trabalho utilizando CSS. Neste exemplo, vamos criar uma página com um título, um parágrafo e um botão estilizados.
 ######  Primeiro, vamos criar um arquivo HTML chamado "trabalho.html" e adicionar o seguinte código:
 
@@ -96,7 +92,9 @@ seletor {
 </body>
 </html>
 ```
+
 ---
+
 ![bg left:20%](hello-world-destaque.jpg)
 
 ### Agora, vamos criar um arquivo CSS chamado "trabalho.css" e adicionar o seguinte código:
@@ -125,6 +123,7 @@ button {
   cursor: pointer;
 }
 ```
+
 ---
 
 Agora, abra o arquivo "trabalho.html" em um navegador e você verá o título, o parágrafo e o botão estilizados de acordo com as regras CSS definidas.
@@ -139,6 +138,4 @@ Neste exemplo, definimos as seguintes propriedades CSS:
 
 ![width:29cm height:14cm](<parede CSS.png>)
 ![bg ](https://fakeimg.pl)
-
-
 
