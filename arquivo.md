@@ -21,31 +21,14 @@ principalmente para projetos bélicos,
 espionagem, contra espionagem.
 
 ---
+<!--Como vimos que o mundo vivia em grande tensão, o uso dessas máquinas era destinado principalmente para projetos bélicos, espionagem, contra espionagem. Assim, houve uma necessidade de trafegar informações de grande segredo entre locais distantes e foi em um laboratório do Departamento de Defesa dos Estados Unidos que começaram a desenvolver a ARPANET (Advanced Research Projects Agency Network).-->
 
-
-<!--Como vimos que o mundo vivia em grande
-tensão, o uso dessas máquinas era destinado
-principalmente para projetos bélicos,
-espionagem, contra espionagem. Assim, houve
-uma necessidade de trafegar informações de
-grande segredo entre locais distantes e foi em
-um laboratório do Departamento de Defesa dos
-Estados Unidos que começaram a desenvolver
-a ARPANET (Advanced Research Projects
-Agency Network).-->
-
-
-
-
-
-![bg right](https://s3.amazonaws.com/s3.timetoast.com/public/uploads/photo/14706752/image/f0d55f31b273d8887c1536c34c5fe70b)
+![bg right:55% w:700 h:720](https://s3.amazonaws.com/s3.timetoast.com/public/uploads/photo/14706752/image/f0d55f31b273d8887c1536c34c5fe70b)
 
 # Arpanet
 
-O Departamento de Defesa dos
-Estados Unidos que começaram a desenvolver
-a ARPANET **(Advanced Research Projects
-Agency Network)**
+O Departamento de Defesa dos Estados Unidos que começaram a desenvolver a ARPANET 
+##### (Advanced Research Projects Agency Network)
 
 <!--A Advanced Research Projects Agency Network (acrônimo ARPANET; em português: Rede da Agência para Projetos de Pesquisa Avançada) foi uma rede de computadores construída em 1969 para transmissão de dados militares sigilosos e interligação dos departamentos de pesquisa nos Estados Unidos-->
 ---
