@@ -23,7 +23,7 @@ espionagem, contra espionagem.
 ---
 <!--Como vimos que o mundo vivia em grande tensão, o uso dessas máquinas era destinado principalmente para projetos bélicos, espionagem, contra espionagem. Assim, houve uma necessidade de trafegar informações de grande segredo entre locais distantes e foi em um laboratório do Departamento de Defesa dos Estados Unidos que começaram a desenvolver a ARPANET (Advanced Research Projects Agency Network).-->
 
-![bg right:55% w:700 h:720](https://s3.amazonaws.com/s3.timetoast.com/public/uploads/photo/14706752/image/f0d55f31b273d8887c1536c34c5fe70b)
+![bg right:50% w:700 h:720](https://s3.amazonaws.com/s3.timetoast.com/public/uploads/photo/14706752/image/f0d55f31b273d8887c1536c34c5fe70b)
 
 # Arpanet
 
@@ -39,3 +39,12 @@ O Departamento de Defesa dos Estados Unidos que começaram a desenvolver a ARPAN
 Só pôde ser publicada porque as pessoas envolvidas com a ARPANET na época (Prof. Kleinrock e seu aluno Charley Kleine que tentavam falar com Bill Duvall) registraram à mão suas atividades.
 
 <!--De qualquer forma, essa pequena curiosidade só pôde ser publicada porque as pessoas envolvidas com a ARPANET na época (Prof. Kleinrock e seu aluno Charley Kleine que tentavam falar com Bill Duvall) registraram à mão suas atividades. Essa mensagem foi enviada às 22h30 em 29/10/1969 e, caso você consiga entender tudo o que foi escrito no livro de registros da universidade norte-americana, é possível conferir as atividades de comunicação realizadas no log acima. O conteúdo, entretanto, foi especificado pela Universidade da Califórnia mais tarde.-->
+---
+
+# Conclusão
+
+A mensagem foi enviada às 22h30 em 29/10/1969
+
+
+
+![bg right](https://tse2.mm.bing.net/th?id=OIP._Usve-4nJS6QjW81oMgOUgAAAA&pid=Api&P=0&h=180)
