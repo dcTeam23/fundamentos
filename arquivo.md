@@ -10,6 +10,8 @@ color: black
  O estudante Charley Kline, da UCLA, digitou a palavra "LOGIN" e enviou-a para um computador no Instituto de Pesquisa de Stanford.
 
 ---
+<!--Em 29 de outubro de 1969, como parte do experimento ARPANET, a primeira mensagem de rede foi enviada. O estudante Charley Kline, da UCLA, digitou a palavra "LOGIN" e enviou-a para um computador no Instituto de Pesquisa de Stanford. Embora apenas as letras "L" e "O" tenham sido recebidas com sucesso antes de uma falha no sistema, esse evento histórico marcou o início da comunicação digital através de redes de computadores. A partir desse marco, as redes evoluíram para se tornarem a Internet, conectando bilhões de dispositivos e pessoas em todo o mundo.-->
+
 
 ![bg right](https://2.bp.blogspot.com/-FcTpiNn_B_k/VOq8Fk3H6_I/AAAAAAAAeaQ/IhmyuTqLWlQ/s1600/curiosidades-guerra-fria.jpg)
 
@@ -19,10 +21,6 @@ principalmente para projetos bélicos,
 espionagem, contra espionagem.
 
 ---
-
-
-<!--Em 29 de outubro de 1969, como parte do experimento ARPANET, a primeira mensagem de rede foi enviada. O estudante Charley Kline, da UCLA, digitou a palavra "LOGIN" e enviou-a para um computador no Instituto de Pesquisa de Stanford. Embora apenas as letras "L" e "O" tenham sido recebidas com sucesso antes de uma falha no sistema, esse evento histórico marcou o início da comunicação digital através de redes de computadores. A partir desse marco, as redes evoluíram para se tornarem a Internet, conectando bilhões de dispositivos e pessoas em todo o mundo.-->
-
 
 
 <!--Como vimos que o mundo vivia em grande
