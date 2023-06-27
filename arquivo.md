@@ -47,4 +47,4 @@ A mensagem foi enviada às 22h30 em 29/10/1969
 
 
 
-![bg right](https://tse2.mm.bing.net/th?id=OIP._Usve-4nJS6QjW81oMgOUgAAAA&pid=Api&P=0&h=180)
+![bg right:50% w:650 h:700](https://tse2.mm.bing.net/th?id=OIP._Usve-4nJS6QjW81oMgOUgAAAA&pid=Api&P=0&h=180)
