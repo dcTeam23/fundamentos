@@ -61,7 +61,7 @@ color: white
 # Elasticidade rápida
 <br>
 <p align="Center">
-<img src="https://globaldata.com.br/wp-content/uploads/2021/09/post_thumbnail-b8c741e14d34885da79255f6165b4042.jpeg" width="800">
+<img src="https://github.com/Gustavo-S-Nascimento/Post-its/assets/74427958/accf3232-e69b-4474-8e6e-4bc36298e75c" width="800">
 
 <!-- A Quarta característica é a elasticidade rápida. com os recursos sendo distribuidos pela a pool de recursos, a elasticidade rapida é como se fosse a capacidade de você poder expandir ou reduzir o tanto de recursos que você está demandando de forma fácil e rápida de acordo com sua carga de trabalho, claro ela fazendo isso automatico para você, se adaptando instantaneamente as suas necessidades para como está dito ter uma Elasticidade rápida. (Passa o Slide) -->
 
