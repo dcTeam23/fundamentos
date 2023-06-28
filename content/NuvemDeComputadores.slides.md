@@ -73,7 +73,7 @@ color: black
 
 ---
 
-# Elasticidade rápida
+# ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀Elasticidade rápida
 <br>
 <p align="Center">
 <img src="https://github.com/Gustavo-S-Nascimento/Post-its/assets/74427958/accf3232-e69b-4474-8e6e-4bc36298e75c" width="800">
@@ -83,10 +83,8 @@ color: black
 ---
 
 # Serviço medido
-<br>
-<p align="center">
-<img src="https://www.dltec.com.br/blog/wp-content/uploads/2023/04/cloud-net-blog.png" width="600">
-</p>
+
+![h:450 w:500 bg right](https://github.com/Gustavo-S-Nascimento/Post-its/assets/74427958/39ae0c67-f83d-4deb-9611-97f36f1e2c90)
 
 <!-- Por fim, temos o serviço medido. que é o proprio sistema vai monitorar e otimizar o seu uso de recursos para fornecer o maximo de informações detalhadas sobre a sua utilização, podendo assim permitir que haja um controle mais eficiente e transparente para os provedores e os usuarios da nuvem. (Passa o Slide) -->
 
