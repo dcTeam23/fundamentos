@@ -3,7 +3,7 @@
 
 <font size=4> De uma forma simples, a sigla significa Interface de Linha de Comando. Ele é um programa que permite que os usuários digitem comandos de texto dando instruções a um computador para fazer funções específicas.</font> 
 <br>
-<img src="https://github.com/dcTeam23/fundamentos/assets/135337339/114ee804-e431-48bf-adac-aef960333758" alt="Command Line Interface" width="650px">
+<img src="https://github.com/dcTeam23/fundamentos/assets/135337339/4b6f1eb6-1f96-4c55-90b3-4fbaf3ed199e" alt="Command Line Interface" width="650px">
 <br>
 
 #
