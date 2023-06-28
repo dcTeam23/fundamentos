@@ -3,7 +3,8 @@ marp: true
 theme: gaia
 author: Rodrigo neto
 paginate: true
-color: black
+color: white
+backgroundColor: 'black'
 ---
 # A Primeira Mensagem de Rede
 ![bg right](https://s2.glbimg.com/j3GOH_5tUrbd1l-1vz0P0Y2O9k0=/e.glbimg.com/og/ed/f/original/2019/10/29/arpanet.jpg)
@@ -22,6 +23,8 @@ espionagem, contra espionagem.
 
 ---
 <!--Como vimos que o mundo vivia em grande tensão, o uso dessas máquinas era destinado principalmente para projetos bélicos, espionagem, contra espionagem. Assim, houve uma necessidade de trafegar informações de grande segredo entre locais distantes e foi em um laboratório do Departamento de Defesa dos Estados Unidos que começaram a desenvolver a ARPANET (Advanced Research Projects Agency Network).-->
+
+
 
 ![bg right:50% w:700 h:720](https://s3.amazonaws.com/s3.timetoast.com/public/uploads/photo/14706752/image/f0d55f31b273d8887c1536c34c5fe70b)
 
