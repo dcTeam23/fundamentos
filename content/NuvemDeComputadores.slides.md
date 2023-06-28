@@ -11,7 +11,7 @@ color: black
 
 <p align="center">
 <br>
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRh4w5khqpjjN1ezo5hWuXb50JmT9V4JCvykpcIXxo7g19-h3I9xHVYB61F4pP4YMCnoX0&usqp=CAU" width="700">
+<img src="https://github.com/Gustavo-S-Nascimento/Post-its/assets/74427958/b4a4983b-a9f6-4667-af44-80e1585ff717" width="700">
 
 <!-- A Nuvem de computadores em resumo nada mais é do que um meio de você usar tudo que uma maquina pode oferecer seja ele armazenamento de dados e capacidade de processamento, sem a necessidade de ter um gerenciamento por sua parte ou seja você tem uma maquina que toda a parte bruta por assim dizer, o hardware não está ali, porém você consegue usar-la em sua total plenitude. -->
 
