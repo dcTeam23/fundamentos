@@ -94,15 +94,15 @@ color: black
 
 <center>
 
-![h:100 w:200 bg fit left: 20%](https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Google_2015_logo.svg/2560px-Google_2015_logo.svg.png)
+![h:200 w:300 bg fit 20%](https://github.com/Gustavo-S-Nascimento/Post-its/assets/74427958/09a1f18b-915c-42e1-bd94-579e08f91b21)
 
-![h:150 w:255 bg fit left: 20%](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Amazon_logo.svg/1200px-Amazon_logo.svg.png)
+![h:150 w:255 bg fit 20%](https://github.com/Gustavo-S-Nascimento/Post-its/assets/74427958/afa47a6f-f106-4020-b88b-582a907890fc)
 
-![h:150 w:150 bg fit left: 20%](https://www.microsoft.com/pt-br/microsoft-365/blog/wp-content/uploads/sites/51/2022/06/cropped-microsoft_logo_element.png)
+![h:150 w:150 bg fit 20%](https://www.microsoft.com/pt-br/microsoft-365/blog/wp-content/uploads/sites/51/2022/06/cropped-microsoft_logo_element.png)
 
-![h:150 w:200 bg fit left: 20%](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Oracle_Logo.svg/2560px-Oracle_Logo.svg.png)
+![h:350 w:200 bg fit 20%](https://github.com/Gustavo-S-Nascimento/Post-its/assets/74427958/8536483c-6db3-4413-b2d7-b776b0a3fd3b)
 
-![h:150 w:150 bg fit left: 20%](https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/IBM_logo.svg/2560px-IBM_logo.svg.png)
+![h:350 w:150 bg fit 20%](https://github.com/Gustavo-S-Nascimento/Post-its/assets/74427958/9977a1f8-8a44-47ef-8916-9902a8138671)
 </center>
 
 ---
