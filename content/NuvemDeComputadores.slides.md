@@ -42,7 +42,8 @@ color: black
 # Autoatendimento sob demanda
 <br>
 <p align="center">
-<img src="https://dtnetwork.com.br/wp-content/uploads/2021/05/computacao-em-nuvem-4.png" width="550" height="500">
+
+![w:500 h:550 bg right](https://github.com/Gustavo-S-Nascimento/Post-its/assets/74427958/0e749818-ae26-4499-aef5-1d801b635e91)
 
 <!-- O Autoatendimento sob demanda é os usuarios poder configurar e "pegar" recursos automaticamente, sem a necessidade de uma interveção humana direta no provedor, é ter o controle total de seus recursos sem precisar de alguem para lhe dar. A segunda caracteriscita é o (Passa o Slide)-->
 
