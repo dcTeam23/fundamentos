@@ -60,10 +60,14 @@ color: black
 
 ---
 
-# Pool de recursos
+![w:500 h:350 bg ](https://github.com/Gustavo-S-Nascimento/Post-its/assets/74427958/727671da-b3a5-4ef9-81ab-615433004676)
 <br>
-<p align="center">
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLYrRUVdN926GwiUQn8B8in6lM1aIhiKIyHi754dEuwdqu7PUfUS24PeUrS-BQUf1toBw&usqp=CAU" width="600">
+<br>
+<br>
+<br>
+<br>
+<br>
+<center><h1>Pool de recursos<h1></center>
 
 <!-- Em seguida, temos a pool de recursos. Que é, todos os recursos da maquina que está lá no provedor, são agrupados e compartilhados com varios outros usuarios, porém veja bem, apenas os recursos da maquina é compartilhado e não os dados, ai são distribuido dinamicamente de acordo com a demanda de cada usuario, o que permite ter uma utilização bem mais eficiente e mais limpa para não ficar tendo aqueles travamentos chatos quando você está utilizando. (Passa o Slide) -->
 
