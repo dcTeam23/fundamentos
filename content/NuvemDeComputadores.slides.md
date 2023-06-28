@@ -1,8 +1,8 @@
 ---
 marp: true
-backgroundImage: linear-gradient(to bottom, #67b8e3, #0288d1)
-paginate: true
-color: white
+backgroundImage: url(https://marketplace.canva.com/EAD2962NKnQ/2/0/1600w/canva-rainbow-gradient-pink-and-purple-virtual-background-_Tcjok-d9b4.jpg)
+paginate: false
+color: black
 ---
 
 
