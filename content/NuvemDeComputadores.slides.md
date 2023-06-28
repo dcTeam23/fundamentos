@@ -22,9 +22,18 @@ color: black
 ---
 # Características da Computação em Nuvem
 <br>
-<p align="center">
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-bwcJ-2RU6-ovWWvnujtqbTkaCvqNkLMz4A&usqp=CAU" width="500" height="300" alt="Logo da NIST">
-</p>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
+![w:450 h:350 bg](https://github.com/Gustavo-S-Nascimento/Post-its/assets/74427958/77e835c2-4d7b-4668-b44e-21dd01967c14)
 
 <!-- Definida pelo NIST (Instituto Nacional de Padrões e Tecnologia) que é uma agência do departamento de Comércico dos Estados Unidos que além de estabelecer as características essenciais da computação em nuvem, o NIST também desenvolve diretrizes e frameworks de seguranças cibernética para ajudar as empresas a protegerem seus dados na nuvem. e indo para a primeira caracteristica, temos (Passa o Slide) -->
 
