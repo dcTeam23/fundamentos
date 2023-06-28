@@ -106,11 +106,12 @@ color: black
 </center>
 
 ---
-
+<center>
 <h1>Conclusão</h1>
 <!-- e Esse cara da sombrancelha de carvão sou eu, caso alguem tenha se interessado e queira procurar mais a fundo, me chama no discord que eu tenho alguns artigos mais profundos sobre Nuvem de computadores, só tem uma desvantagem, são completamentes em inglês -->
 
-<p align="center">
-<img src="https://avatars.githubusercontent.com/u/74427958?v=4" alt="Discord" width="500">
-</p>
+![fit: 40%](https://avatars.githubusercontent.com/u/74427958?v=4)
+
 <h2>Discord: Gustavo'S<h/2>
+
+</center>
