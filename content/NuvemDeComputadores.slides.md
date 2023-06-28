@@ -52,7 +52,8 @@ color: black
 # Amplo acesso à rede
 <br>
 <p align="center">
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7NNIpKLSaCef8KrBq6LfqihruAA1NlGS-iQ&usqp=CAU" width="800">
+
+![w:600 h:450 bg left](https://github.com/Gustavo-S-Nascimento/Post-its/assets/74427958/487cfd39-8812-47d8-a857-5212d2c35d3f)
 
 <!-- Amplo acesso à rede. tendo todos os recursos da nuvem online na internet, você pode acessar por todos os tipos de maquinas, sejam elas Celulares, Tablets, Notebooks e entre outros. Ou seja lhe oferece tudo de maneira bastante conveniente e instantânea estando você aonde quer que esteja você poderá acessa-lo mesmo de outro lado do mundo. (Passa o Slide) -->
 
