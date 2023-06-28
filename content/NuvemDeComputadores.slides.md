@@ -91,21 +91,19 @@ color: black
 ---
 <!-- E a computação em nuvem tem sido impulsionada por empresas líderes no mercado. E algumas das primeiras empresas a adotarem essa abordagem foram o Google, Amazon, Microsoft, Oracle e IBM. Fornecendo uma ampla gama de serviços e soluções em nuvem para atender às necessidades das empresas e usuários finais.-->
 
->Google, Amazon, Microsoft, Oracle e IBM
-<p align="center">
-Abaixo estão os logos dessas empresas
 
-<p align="center">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Google_2015_logo.svg/2560px-Google_2015_logo.svg.png" width="200" height="100">
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Amazon_logo.svg/1200px-Amazon_logo.svg.png" width="200" height="100">
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <img src="https://www.microsoft.com/pt-br/microsoft-365/blog/wp-content/uploads/sites/51/2022/06/cropped-microsoft_logo_element.png" width="200" height="100">
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Oracle_Logo.svg/2560px-Oracle_Logo.svg.png" width="200" height="100">
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/IBM_logo.svg/2560px-IBM_logo.svg.png" width="200" height="100">
-</p>
+<center>
+
+![h:100 w:200 bg fit left: 20%](https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Google_2015_logo.svg/2560px-Google_2015_logo.svg.png)
+
+![h:150 w:255 bg fit left: 20%](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Amazon_logo.svg/1200px-Amazon_logo.svg.png)
+
+![h:150 w:150 bg fit left: 20%](https://www.microsoft.com/pt-br/microsoft-365/blog/wp-content/uploads/sites/51/2022/06/cropped-microsoft_logo_element.png)
+
+![h:150 w:200 bg fit left: 20%](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Oracle_Logo.svg/2560px-Oracle_Logo.svg.png)
+
+![h:150 w:150 bg fit left: 20%](https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/IBM_logo.svg/2560px-IBM_logo.svg.png)
+</center>
 
 ---
 
