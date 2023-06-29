@@ -1,5 +1,4 @@
-<!-- Conteúdo do PDF da Digital College -->
-# **DNS** ***(Domain name system)***
+# **DNS** ***(Domain name system)***
 
 ## Diagrama
 
