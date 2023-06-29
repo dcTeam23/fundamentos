@@ -59,7 +59,9 @@ As não patrocinadas não precisam de qualquer associação ou organização pat
 Já as gTLDs patrocinadas são aquelas que representam uma comunidade associada à extensão, como por exemplo: .edu, .gov, .mil, .aero, etc.
 -->
 
-- Domínios de segundo nível (exemplo.com) <!-- 
+- Domínios de segundo nível (exemplo.com)
+
+<!-- 
 São servidores gerenciados por universidades e grandes empresas que por opção pode preferir montar seu próprio servidor DNS para abrigar seus registros e pegar registros de algum servidor de autoridade de algum servidor de serviço. 
 -->
 
