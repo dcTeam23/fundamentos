@@ -79,8 +79,6 @@ São servidores gerenciados por universidades e grandes empresas que por opção
 
 - Filtragem de conteúdo: Bloqueio de sites indesejados
 <!--
-
-
 O DNS 1.1.1.1 precisou de pouco tempo para se tornar popular. A Cloudflare quer mais. Exatamente dois anos depois, a companhia decidiu lançar mais serviços do tipo, só que focados em segurança e no bloqueio de conteúdo adulto: os servidores de DNS 1.1.1.2 e 1.1.1.3, ambos gratuitos. 
 -->
 - Bloqueio de sites adultos: Restrição de acesso a conteúdo inadequado
