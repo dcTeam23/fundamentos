@@ -110,7 +110,7 @@ color: black
 <h1>Conclusão</h1>
 <!-- e Esse cara da sombrancelha de carvão sou eu, caso alguem tenha se interessado e queira procurar mais a fundo, me chama no discord que eu tenho alguns artigos mais profundos sobre Nuvem de computadores, só tem uma desvantagem, são completamentes em inglês -->
 
-![Discord](https://github.com/Gustavo-S-Nascimento/Post-its/assets/74427958/d1fa3694-fff8-4b51-b428-591751d06605)
+![Discord](https://avatars.githubusercontent.com/u/74427958?v=4)
 
 <h2>Discord: Gustavo'S<h/2>
 
