@@ -12,7 +12,7 @@ theme: uncover
 # Breve resumo sobre o que significa DataCenter
 
 <p align="middle">
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQQKcQ_pWaDi36doW5a2i3PSK9UNLhIIfoXA&usqp=CAU" width="5500px">
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQQKcQ_pWaDi36doW5a2i3PSK9UNLhIIfoXA&usqp=CAU" width="550px">
 </p>
 
 #### O que é e pra que serve?
