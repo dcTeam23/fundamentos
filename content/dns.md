@@ -78,6 +78,8 @@ O 1.1.1.1 é o resolvedor de DNS da Cloudflare, ficou popular rapidamente.  Exat
 - <http://pcdarecepcao.recepcao.1andar.aldeota.digitalcollege.com.br>
 - <http://pcdoabraao.larrypage.10andar.aldeota.digitalcollege.com.br>
 
+- <http://sul.digitalcollege.com.br>
+
 - <http://dados.gov.br>
 - <http://dev.dados.gov.br>
 - <http://orcamento.dados.gov.br>
