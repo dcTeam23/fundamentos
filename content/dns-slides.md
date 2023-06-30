@@ -20,8 +20,8 @@ style: {
 <!-- 
 Quase tudo na Internet começa com uma solicitação DNS. DNS é o diretório da Internet. Clique em um link, abra um aplicativo, envie um e-mail, e a primeira coisa que o dispositivo faz é perguntar ao diretório: Onde encontro isso?
 
-Um servidor DNS é como uma enorme lista telefonica ou um dicionário, que guarda o nome dos sites e informa para os computadores os números IP pertecentes aqueles nomes. 
-Por exemplo, quando você digita  www.digitalcollege.com.br no seu navegador, o DNS é responsável por encontrar o endereço IP correspondente a esse nome e direcionar a sua conexão para o servidor certo. Assim, você não precisa memorizar números complicados para acessar os sites que deseja.
+Um servidor DNS é como uma enorme lista telefônica ou um dicionário, que guarda o nome dos sites e informa para os computadores os números IP pertencentes aqueles nomes. 
+Por exemplo, quando você digita www.digitalcollege.com.br no seu navegador, o DNS é responsável por encontrar o endereço IP correspondente a esse nome e direcionar a sua conexão para o servidor certo. Assim, você não precisa memorizar números complicados para acessar os sites que deseja.
 -->
 - Significado: Sistema de Nomes de Domínio (Domain Name System)
 - Função principal: Traduzir nomes de domínio em endereços IP
@@ -40,7 +40,7 @@ O domínio de topo de código de país (ccTLD), é o domínio de topo na Interne
 -->
 - Raiz: "."
 - Domínios de primeiro nível (TLDs): **br.**
-  - ccTLD (TLD codigo de país): .br .ar .pt .tv
+  - ccTLD (TLD código de país): .br .ar .pt .tv
   - gTLD (TLD genéricos): .com .net .org / .mil .edu .gov
 - Subdomínios do ccTLD: **com.br**
   - .com .net .org .mil .edu .gov
@@ -50,7 +50,7 @@ O domínio de topo de código de país (ccTLD), é o domínio de topo na Interne
 
 ## Diagrama Funcionamento do DNS
 
-![bg 100 fit opacity:8%][digital]
+![bg 100 fit opacity:08%][digital]
 <!--
 Recursor de DNS — o bibliotecário solicitado a procurar um livro.
 
@@ -60,7 +60,7 @@ Nameserver TLD - Uma estante de livros específica em uma biblioteca.
 
 Servidor de DNS autoritativo — Um dicionário em uma estante de livros, no qual um nome específico pode ser traduzido em sua definição (IP).
 
-O nameserver autoritativo é a última parada na consulta de um servidor de DNS. Se tiver acesso ao registro solicitado, o nameserver autoritativo retornará o endereço IP do hostname solicitado de volta  ao recursor de DNS (o bibliotecário) que fez a solicitação inicial.
+O nameserver autoritativo é a última parada na consulta de um servidor de DNS. Se tiver acesso ao registro solicitado, o nameserver autoritativo retornará o endereço IP do hostname solicitado de volta ao recursor de DNS (o bibliotecário) que fez a solicitação inicial.
 -->
 
  FUNCIONAMENTO | HIERARQUIA |
