@@ -66,3 +66,68 @@ O 1.1.1.1 é o resolvedor de DNS da Cloudflare, ficou popular rapidamente.  Exat
 [HIERARQUIA]:  https://github.com/rodolfobertini/rodolfobertini/assets/132242813/b34003f5-473d-4438-a9d5-7132460728f3
 
 [FUNCIONAMENTO]: https://github.com/rodolfobertini/rodolfobertini/assets/132242813/b5c2f05d-834e-4f2b-a1e7-d468871be3d4
+
+---
+
+### Extra: Explicação sobre subdomínios
+
+```mermaid
+
+stateDiagram-v2
+state "Servidor Raiz" as ServidorRaiz1
+state "ccTLD" as Altonivel1
+state "gTLD" as DNSConAutoridade1
+state "gTLD" as DNSConAutoridade2
+state "Domínio" as Site1
+state "Domínio" as Site2
+state "Subdomínio" as ServidorRedeSede1
+state "Subdomínio" as ServidorRedeSede2
+state "Subdomínio do Subdomínio" as ServidorRedeAndar1
+state "Subdomínio do Subdomínio" as ServidorRedeAndar2
+state "Subdomínio do Subdomínio do Subdomínio" as ServidorSala1
+state "Subdomínio do Subdomínio do Subdomínio" as ServidorSala2
+state "Servidor/Estação" as MaquinaDesktop1
+state "Servidor/Estação"as MaquinaDesktop2
+state "Servidor/Estação" as MaquinaDesktop3
+state "Subdomínio: Servidor/Serviço" as MaquinaServidor1
+state "Subdomínio: Servidor/Serviço" as MaquinaServidor2
+state "Subdomínio: Servidor/Serviço" as MaquinaServidor3
+
+    ServidorRaiz1 --> Altonivel1
+    Altonivel1 --> DNSConAutoridade1
+    Altonivel1 --> DNSConAutoridade2
+    DNSConAutoridade1 --> Site1
+    DNSConAutoridade2 --> Site2
+    Site2   --> MaquinaServidor1
+    Site2   --> MaquinaServidor2
+    Site2   --> MaquinaServidor3    
+    Site1 --> ServidorRedeSede1
+    Site1 --> ServidorRedeSede2
+    ServidorRedeSede1 --> ServidorRedeAndar1
+    ServidorRedeSede1 --> ServidorRedeAndar2
+    ServidorRedeAndar1 -->  ServidorSala1
+    ServidorRedeAndar2 --> ServidorSala2
+    ServidorSala1 --> MaquinaDesktop1
+    ServidorSala1 --> MaquinaDesktop2
+    ServidorSala2 --> MaquinaDesktop3
+    
+state "Raiz" as ServidorRaiz1
+state "br" as Altonivel1
+state "com" as DNSConAutoridade1
+state "gov" as DNSConAutoridade2
+state "digitalcollege" as Site1
+state "dados" as Site2
+state "aldeota" as ServidorRedeSede1
+state "sul" as ServidorRedeSede2
+state "10andar" as ServidorRedeAndar1
+state "1andar" as ServidorRedeAndar2
+state "larrypage" as ServidorSala1
+state "recepcao" as ServidorSala2
+state "pcdoabraao" as MaquinaDesktop1
+state "pcdoaluno01"as MaquinaDesktop2
+state "pcdarecpcao" as MaquinaDesktop3
+state "wwww" as MaquinaServidor1
+state "admin" as MaquinaServidor2
+state "backup" as MaquinaServidor3
+
+```
