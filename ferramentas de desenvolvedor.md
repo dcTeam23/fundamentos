@@ -19,7 +19,7 @@ As funções mais importantes das DevTools consistem em :
 * Encontrar problemas de acessibilidade, desempenho, compatibilidade e segurança e utilizar o DevTools para corrigir os problemas encontrados.
 * Inspecionar, ajustar e alterar os estilos de elementos na página da Web
 
-## Inspetor : DOM Explorer e Editor CSS
+## O Inspetor :
 
 O devtools usualmente abre por padrão o inspetor, a ferramenta permite que você veja o resultado do HTML num site em execução, bem como o CSS aplicado en cada elemento na página. Ele também lhe mostra as mudanças efetuadas no HTML e CSS e os resultados são produzidos imediatamente, ao vivo, na janela do navegador.
 
