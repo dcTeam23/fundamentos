@@ -3,8 +3,8 @@ marp: true
 theme: gaia
 author: Rodrigo neto
 paginate: true
-color: white
-backgroundColor: 'black'
+color: black
+backgroundColor: 'white'
 ---
 # A Primeira Mensagem de Rede
 ![bg right](https://s2.glbimg.com/j3GOH_5tUrbd1l-1vz0P0Y2O9k0=/e.glbimg.com/og/ed/f/original/2019/10/29/arpanet.jpg)
