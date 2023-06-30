@@ -34,7 +34,7 @@ Uma característica importante do protocolo HTTP que todo usuário deve se atent
 
 Essa camada transmite os dados de forma criptografada, além de permitir a verificação de autenticidade do servidor e do cliente por meio de certificados digitais. No entanto, isso nem sempre significa que o site em si é seguro, mas apenas que a conexão está protegida do acesso de terceiros.
 
-## Definição:
+## Métodos:
 
 <dl>
 <dt id="get">
