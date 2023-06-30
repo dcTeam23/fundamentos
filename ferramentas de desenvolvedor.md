@@ -21,7 +21,7 @@ As funções mais importantes das DevTools consistem em :
 
 ## O Inspetor :
 
-O devtools usualmente abre por padrão o inspetor, a ferramenta permite que você veja o resultado do HTML num site em execução, bem como o CSS aplicado en cada elemento na página. Ele também lhe mostra as mudanças efetuadas no HTML e CSS e os resultados são produzidos imediatamente, ao vivo, na janela do navegador.
+O devtools usualmente abre por padrão o inspetor, a ferramenta permite que você veja o resultado do HTML num site em execução, bem como o CSS aplicado em cada elemento na página. Ele também lhe mostra as mudanças efetuadas no HTML e CSS e os resultados são produzidos imediatamente, ao vivo, na janela do navegador.
 
 ![Inspetor](https://courses.cs.washington.edu/courses/cse154/19su/resources/assets/debugging/img/edit-html-devtools.png)
 
