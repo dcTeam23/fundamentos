@@ -71,6 +71,18 @@ O 1.1.1.1 é o resolvedor de DNS da Cloudflare, ficou popular rapidamente.  Exat
 
 ### Extra: Explicação sobre subdomínios
 
+#### Exemplos de FQDN (Nome de Domínio Totalmente Qualificado)
+
+- <http://pcdoabraao.larrypage.10andar.aldeota.digitalcollege.com.br>
+- <http://pcdoaluno01.larrypage.10andar.aldeota.digitalcollege.com.br>
+- <http://pcdarecepcao.recepcao.1andar.aldeota.digitalcollege.com.br>
+- <http://pcdoabraao.larrypage.10andar.aldeota.digitalcollege.com.br>
+
+- <http://dados.gov.br>
+- <http://dev.dados.gov.br>
+- <http://orcamento.dados.gov.br>
+- <http://compras.dados.gov.br>
+
 ```mermaid
 
 stateDiagram-v2
@@ -126,8 +138,8 @@ state "recepcao" as ServidorSala2
 state "pcdoabraao" as MaquinaDesktop1
 state "pcdoaluno01"as MaquinaDesktop2
 state "pcdarecpcao" as MaquinaDesktop3
-state "wwww" as MaquinaServidor1
-state "admin" as MaquinaServidor2
-state "backup" as MaquinaServidor3
+state "dev" as MaquinaServidor1
+state "orcamento" as MaquinaServidor2
+state "compras" as MaquinaServidor3
 
 ```
