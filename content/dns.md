@@ -34,9 +34,9 @@ Por exemplo, quando você digita  <http://www.digitalcollege.com.br> no seu nave
 - Servidor de DNS autoritativo — Um dicionário em uma estante de livros, no qual um nome específico pode ser traduzido em sua definição (IP).
 
 O nameserver autoritativo é a última parada na consulta de um servidor de DNS. Se tiver acesso ao registro solicitado, o nameserver autoritativo retornará o endereço IP do hostname solicitado de volta  ao recursor de DNS (o bibliotecário) que fez a solicitação inicial.
--->
 
- FUNCIONAMENTO | HIERARQUIA 
+
+|  FUNCIONAMENTO | HIERARQUIA | 
 |:----:|:----:| 
 | ![FUNCIONAMENTO] | ![hierarquia] |
 
