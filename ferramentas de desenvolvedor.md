@@ -30,3 +30,5 @@ No proprio Google Chrome é possivel encontrar as ferramentas de desenvolvedor c
 Ao selecionar a opção de inspecionar, será aberta uma aba lateral a sua pagina selecionada mostrando as DevTools ao lado do site, sendo possivel examinar a estrutura, verificar a performance, e ser informado dos problemas de segurança e conexão do site.
 
 ![Site com Aba Lateral As DevTools](https://cdn.discordapp.com/attachments/1114280840843767848/1121731814801801278/image.png)
+
+Após a interface das DevTools ser aberta, é só começar trabalhar com as ferramentas disponibilizadas
