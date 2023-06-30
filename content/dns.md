@@ -69,9 +69,9 @@ O 1.1.1.1 é o resolvedor de DNS da Cloudflare, ficou popular rapidamente.  Exat
 
 ---
 
-### Extra: Explicação sobre subdomínios
+## Extra: Explicação sobre subdomínios
 
-#### Exemplos de FQDN (Nome de Domínio Totalmente Qualificado)
+### Exemplos de FQDN (Nome de Domínio Totalmente Qualificado)
 
 - <http://pcdoabraao.larrypage.10andar.aldeota.digitalcollege.com.br>
 - <http://pcdoaluno01.larrypage.10andar.aldeota.digitalcollege.com.br>
