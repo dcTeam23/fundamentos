@@ -1,0 +1,75 @@
+name: Pull Request Check
+on:
+  pull_request:
+    branches:
+      - main
+    types:
+      - opened
+      - reopened
+      - synchronize
+      - converted_to_draft
+      - ready_for_review
+    paths-ignore:
+      - '.github/**'
+    
+permissions:
+  pull-requests: write
+
+jobs:
+  get-gh-info:
+    name: Get Pull Request title 
+    runs-on: ubuntu-latest
+    env:
+      GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      PR_URL: ${{ github.event.pull_request.html_url }}
+    outputs:
+      pr-title: ${{ steps.pr-info.outputs.title }}
+      issue-title: ${{ steps.issue-info.outputs.title }}
+      id: ${{ steps.pr-info.outputs.id }}    
+    steps:
+      - name: Get PR INfo 
+        id: pr-info
+        run: |
+            PR_TITLE=$(gh pr view $PR_URL --json title --template {{.title}})
+            PR_ID=$(gh pr view $PR_URL --json id --template {{.id}})
+
+            echo ::set-output name=title::$PR_TITLE 
+            echo ::set-output name=id::$PR_ID
+      - name: Get Issue INfo 
+        id: issue-info
+        run: |
+            ISSUE_TITLE=$(gh issue view $PR_URL --json title --template {{.title}})
+            ISSUE_ID=$(gh issue view $PR_URL --json id --template {{.id}})
+
+            echo ::set-output name=title::$ISSUE_TITLE 
+            echo ::set-output name=id::$ISSUE_ID
+  check-pr:
+    name: Check Pull Request
+    runs-on: ubuntu-latest
+    needs: get-gh-info
+    steps:
+      - name: Check Pull 
+        id: check-pr
+        run: ${{needs.get-gh-info.outputs.pr-title}}
+
+  final-check:
+    runs-on: ubuntu-latest
+    needs: build
+    if: always()
+    steps:
+      - name: All tests ok
+        if: ${{ !(contains(needs.*.result, 'failure')) }}
+        run: exit 0
+      - name: Some tests failed
+        if: ${{ contains(needs.*.result, 'failure') }}
+        run: exit 1
+
+          
+    
+
+      
+
+
+
+      
+        
