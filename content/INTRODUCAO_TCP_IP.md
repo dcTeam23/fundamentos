@@ -1,8 +1,8 @@
 ---
 marp: true
 author: JanainaTeixeira
-header: 'Apresentação: Introdução ao TCP/IP'
-footer: 'Exercício Markdown - Janaina Tannus - Digital College - Turma FS23 Aldeota'
+header: 'Introdução ao TCP/IP'
+footer: ' dcTeam23 - Janaina Tannus'
 _class: invert
 paginate: true
 size: 16:9
@@ -11,22 +11,27 @@ style: |
     display: grid;
     grid-template-columns: repeat(2, minmax(0, 1fr));
     gap: 1rem;
-  }
+  }  
+
 ---
-<!-- -------------- Slide 1: Minha apresentação -------------- -->
+
+<!-- ---------------------------------  Slide 1: Minha apresentação -------------------------------- -->
 <!-- _paginate: false -->
 
-# <!--fit--> Intro sobre TCP/IP :rocket:
+## <!--fit--> Intro sobre TCP/IP  📧
 
-# <center><span style="color: grey"> By: </span> Jana Tannus </center>
-<center><span style="color:#1d2c3d"> https://github.com/jmtannus </span> </center>
+# <center><span style="color: grey"> By: </span> Jana Tannus</center>
+
+<center><span style="color:#1d2c3d"> https://github.com/jmtannus </span></center>
 
 ---
-<!-- -------------- Slide 2: Introdução ao TCP/IP - comunicando-se em redes -------------- -->
-<!-- _paginate: false
-backgroundImage: Url(https://ip-check.info/wp-content/uploads/2022/04/tcpip-696x453.jpg.webp) -->
 
-![bg conversa w:1000](https://github.com/dcTeam23/fundamentos/assets/61756665/fc7caafc-118a-4f2a-91fb-6ac06ab46503)
+<!-- ------------------------  Slide 2: Introdução ao TCP/IP - comunicando-se em redes ------------------------ -->
+<!-- 
+_paginate: false
+_backgroundImage: Url(https://ip-check.info/wp-content/uploads/2022/04/tcpip-696x453.jpg.webp) -->
+
+![bg conversa w:1250](https://github.com/dcTeam23/fundamentos/assets/61756665/fc7caafc-118a-4f2a-91fb-6ac06ab46503)
 
 <!--Olá pessoal, me chamo Janaína e vou apresentar uma introdução aos famosos Protocolo de Controle de Transmissão e Protocolo de Internet: TCP e IP.
 
@@ -35,9 +40,10 @@ Imagine uma sala cheia de pessoas conversando, cada uma com sua própria linguag
 ---
 
 <!-- --------------------------------- Slide 3: protocolo de comunicação -------------------------------- -->
-<!-- _class: invert
-_color: #c5cdd9  -->
-<!-- backgroundImage: black -->
+<!-- 
+_class: invert
+_color: #c5cdd9 
+_backgroundImage: black -->
 
 <!--O que é protocolo de comunicação?
 
@@ -54,11 +60,12 @@ _color: #c5cdd9  -->
 
 ---
 
-<!-- ----------------------------------- Slide 4: aspectos do protocolo ----------------------------------- -->
-<!-- backgroundImage: "linear-gradient(to bottom, #c5cdd9, #35495e)" 
+<!-- --------------------------------- Slide 4: aspectos do protocolo ----------------------------------- -->
+<!-- 
+backgroundImage: "linear-gradient(to bottom, #c5cdd9, #35495e)" 
 _color: black -->
 
-## <!--fit--> Esse protocolo define aspectos como:
+## <!--fit-->  Esse protocolo define aspectos como:
 
 <span style="color: white">
 
@@ -68,16 +75,18 @@ _color: black -->
 
 * ##  Os procedimentos de envio e recebimento
 
-* ##  Os mecanismos de detecção e correção de erros. 
+* ##  Os mecanismos de detecção e correção de erros.
 
 </span>
 
 ---
+
 <!-- --------------------------------- Slide 5: aspectos do protocolo --------------------------------- -->
 <!-- _color: dark -->
 
-<!--Ele é como um mediador que facilita a troca de informações, tornando possível a interconexão de computadores, servidores, dispositivos móveis e muito mais.Com ele podemos enviar e receber e-mails, acessar sites, fazer chamadas de vídeo, compartilhar arquivos e desfrutar de uma infinidade de serviços online. -->
-<!--Sem protocolos de comunicação padronizados, seria difícil, por exemplo, existir uma rede global como a Internet.-->
+<!--Ele é como um mediador que facilita a troca de informações, tornando possível a interconexão de computadores, servidores, dispositivos móveis e muito mais.Com ele podemos enviar e receber e-mails, acessar sites, fazer chamadas de vídeo, compartilhar arquivos e desfrutar de uma infinidade de serviços online.
+
+Sem protocolos de comunicação padronizados, seria difícil, por exemplo, existir uma rede global como a Internet.-->
 
 <center>
 
@@ -93,19 +102,25 @@ de forma **harmoniosa**. Eles são fundamentais para a **conectividade** e
 
 ---
 
-<!-- --------------- Slide 6: Base Invisível --------------- -->
-<!-- backgroundImage: "linear-gradient(to bottom,#c5cdd9, #FFF )"-->
+<!-- ---------------------------------  Slide 6: Base Invisível --------------------------------- -->
 
- ![bg left:33% h:330 rededados](https://github.com/dcTeam23/fundamentos/assets/61756665/511ca44a-1d18-4dc2-982a-22a0288c91de)
+<!-- 
+backgroundImage: "linear-gradient(to bottom,#c5cdd9, #FFF )"
+_header: ""
+_footer: "" -->
 
-#  Podemos dizer que o protocolo de comunicação
+![bg left:33% h:330 rededados](https://github.com/dcTeam23/fundamentos/assets/61756665/511ca44a-1d18-4dc2-982a-22a0288c91de)
+
+# Podemos dizer que o protocolo de comunicação
 
 ## <!--fit-->  é a base invisível
 
 ### que permite a comunicação entre sistemas, tornando possível a interconexão do mundo moderno.
 
 ---
-<!-- ------------------------ Slide 7: como padronizaram o protocolo ------------------------ -->
+
+<!-- --------------------------------- Slide 7: como padronizaram o protocolo --------------------------------- -->
+
 <!-- 
 backgroundImage: #101010
 _color: dark
@@ -116,43 +131,47 @@ _class: invert -->
 # <!-- fit--> Mas... como? :roll_eyes:
 
 ---
-<!-- ------------------------ Slide 8: Camadas do modelo OSI ------------------------ -->
+
+<!-- --------------------------------- Slide 8: Camadas do modelo OSI --------------------------------- -->
+
 <!-- backgroundImage: "linear-gradient(to bottom,#c5cdd9, #35495e )" 
-_color: black
-_class: lead -->
+_color: black-->
+
+</br>
 
 # <!--fit--> Camadas do modelo OSI:
 
 <div class="columns">
+
 <div>
 
 * **Aplicação** – Funções especializadas no nível do aplicativo <!--finalizando na tela, onde materializa tudo que é nossa camada de aplicação. Ex: e-mail, browser, FTP, Youtube)-->
 
-* **Apresentação** – Formatação de dados e conversão de caracteres e códigos. Ex: Compactador ZIP, algorítmo criptográfico. <!--tem que ter um codek,pra codificar a informação, sair de bits e bytes para imagem, cores e movimento-->
+* **Apresentação** – Formatação de dados e conversão de caracteres e códigos.  <!--Ex: Compactador ZIP, algorítmo criptográfico. tem que ter um codek,pra codificar a informação, sair de bits e bytes para imagem, cores e movimento-->
 
-* **Sessão** – Estabelecimento, gerenciamento e encerramento das sessões entre 2 hosts. Ex: computador para um servidor de destino. <!--tem que ter controle dentro dentro da aplicação, dentro do youtube tem que fazer um controle entre o servidor e o cliente do youtube--> 
+* **Sessão** – Estabelecimento, gerenciamento e encerramento das sessões entre 2 hosts.  <!--Ex: computador para um servidor de destino. Tem que ter controle dentro dentro da aplicação, dentro do youtube tem que fazer um controle entre o servidor e o cliente do youtube-->
 
-* **Transporte** – Meios e métodos de entrega de dados de ponta a ponta.No momento do download, segmenta a informação e transporta. <!--só que aí eu tenho que ter um controle dessa transmissão, quem faz é a camada de transporte-->
+* **Transporte** – Meios e métodos de entrega de dados de ponta a ponta.  <!--No momento do download, segmenta a informação e transporta. Só que aí tem que ter um controle dessa transmissão, quem faz é a camada de transporte-->
+
+</div>
+
+* **Rede** – Escolha da rota de pacotes através de uma ou mais redes. Cuida da conectividade. Ex: Ethernet <!--ai eu tenho que sair da rede local e chegar no meu computador, tem que ter um endereço IP que faça isso-->
+
+* **Data Link** – Detecção de erros introduzidos pelo meio de transmissão e formação do quadro. <!--depois essa luz é convertida num quadro de rede local-->
+
+* **Físico** – Transmissão de bits através do meio de transmissão. <!--Ex: Como faço para receber um vídeo? Através do modelo OSI: chega um pulso de luz na camada física-->
 
 </div>
 
-<div>
-
-* **Rede** – Escolha da rota de pacotes através de uma ou mais redes. Cuida da conectividade. Ex: Ethernet <!--ai eu tenho que sair da rede local e chegar no meu computador, tenho que ter um endereço IP que faça isso-->
-
-* **Data Link** – Detecção de erros introduzidos pelo meio de transmissão e formação do quadro. <!--depois essa luz é convertida num quadro de rede local -->
-
-* **Físico** – Transmissão de bits através do meio de transmissão. <!--Ex:Como faço para receber um vídeo? Através do modelo OSI: chega um pulso de luz na camada física-->
-
-</div>
 </div>
 
 ---
 
-<!-- --------------- Slide 9: PROTOCOLOS competindo pelo domínio --------------- -->
+<!-- ------------------------------- Slide 9: PROTOCOLOS competindo pelo domínio ------------------------------ -->
 <!-- _class: lead -->
 
 # <!--fit--> PROTOCOLOS
+
 ## <!--fit--> competindo pelo domínio
 
 <!--surgimento dos protocolos de comunicação-->
@@ -163,31 +182,38 @@ Um dos protagonistas dessa história é o TCP/IP, o protocolo que acabou se torn
 Esses protocolos eram utilizados nas redes das empresas e, em seu auge, cada um deles tinha sua própria capacidade de estabelecer comunicação.-->
 
 ---
-<!-- ------- Slide 10: imagem uso de protocolo diferente (NETBEUI, o IPX/SPX e o AppleTalk) ------- -->
 
-<!-- backgroundImage: "linear-gradient(to bottom, #c5cdd9, #FFF)"-->
+<!-- ------- Slide 10: imagem uso de protocolo diferente (NETBEUI, o IPX/SPX e o AppleTalk) ------- -->
+<!--
+backgroundImage: "linear-gradient(to bottom, #c5cdd9, #FFF)"-->
 
 <!-- No entanto, à medida que a necessidade de interconexão e compartilhamento de recursos crescia, tornou-se evidente a necessidade de um protocolo comum que unificasse as redes. E assim, o TCP/IP emergiu como um vencedor claro-->
 
 ![w:100% protocolos](https://user-images.githubusercontent.com/61756665/248303222-ad546c70-4f69-4e4f-bbd0-46f8b9ae0ae6.png)
 
 ---
-<!-- ---------------------------- Slide 11 - Tópico: Criadores ---------------------------- -->
+
+<!-- --------------------------------- Slide 11 - Tópico: Criadores --------------------------------- -->
+
 ![bg h:900 w:1280 image-3](https://github.com/dcTeam23/fundamentos/assets/61756665/9428ca3b-7600-4c70-99b8-a9937a1fa050)
 
 <!-- à direita, Vinton Cerf . Matemático e Mestre em Tecnologia americano. Foi em 2005 vice-presidente da Google. Na época de sua contratação, o executivo-chefe da empresa, Eric Schmidt, chegou a dizer que Vinton Cerf era uma das pessoas mais importantes da história ainda vivas. Junto a Robert Kahn, é um dos criadores da Internet, tendo participado da criação dos protocolos TCP/IP, que são os alicerces da conexão à rede. Foi esse de óculos, Robert, quem desenvolveu o TCP e Vinton, o barbudo, que iniciou o desenvolvimento do IP para transmissão de informações pela Internet, que foi reconhecido com a publicação do artigo A Protocol for Packet Network Intercommunication.-->
 
 ---
-<!-- -------------------------- Slide 12 - Tópico: Curiosidade -------------------------- -->
-<!-- _class: invert
-_color: gray  -->
-<!-- backgroundImage:  black -->
+<!-- --------------------------------- Slide 12 - Tópico: Curiosidade --------------------------------- -->
+<!--
+_class: invert
+_color: gray
+backgroundImage:  black 
+_footer: ""-->
 
 <!-- Hoje, quando pensamos no pai da internet, a maioria das pessoas pensa em Tim Berners Lee, o homem que criou a World Wide Web. ele é realmente o pai da internet moderna. 
 
 MAS Vint Cerf criou a MANEIRA pela qual Tim Lee poderia mais tarde criar O 'W W W' como a conhecemos hoje. 
 
-<!--Os protocolos TCP/IP foram importante para o funcionamento da Internet devido à sua capacidade de conectar redes heterogêneas, permitindo a comunicação entre diferentes sistemas operacionais e dispositivos, compartilhando dados entre eles de forma eficiente em todo o mundo. Ele foi desenvolvido ao longo de décadas, como resultado de pesquisas e colaborações entre cientistas, engenheiros e acadêmicos.-->
+Os protocolos TCP/IP foram importante para o funcionamento da Internet devido à sua capacidade de conectar redes heterogêneas, permitindo a comunicação entre diferentes sistemas operacionais e dispositivos, compartilhando dados entre eles de forma eficiente em todo o mundo. 
+
+Ele foi desenvolvido ao longo de décadas, como resultado de pesquisas e colaborações entre cientistas, engenheiros e acadêmicos.-->
 
 <div>
 <center>
@@ -204,36 +230,38 @@ MAS Vint Cerf criou a MANEIRA pela qual Tim Lee poderia mais tarde criar O 'W W 
 </div>
 
 ---
-<!-- ---------------------------- Slide 13 - Tópico: O que é o TCP/IP? ---------------------------- -->
-<!-- backgroundImage: "linear-gradient(to bottom, #1a2938, #35495e ,#c5cdd9 )" 
-<!-- _class: leader -->
-<!-- _color: #c5cdd9 -->
+
+<!-- --------------------------------- Slide 13 - Tópico: O que é o TCP/IP? --------------------------------- -->
+<!-- 
+backgroundImage: "linear-gradient(to bottom, #1a2938, #35495e ,#c5cdd9 )" 
+_class: leader
+_color: #c5cdd9 -->
 
 <!-- Com sua abordagem robusta, o TCP/IP assegura que a informação seja transmitida de maneira confiável, segura e padronizada, garantindo uma comunicação eficiente entre dispositivos e redes.-->
 
-![bg right:45% w:400 internet1](https://github.com/dcTeam23/fundamentos/assets/61756665/c702733c-9648-4596-96bd-a808513551fa)
+![bg right:50% w:500 internet1](https://github.com/dcTeam23/fundamentos/assets/61756665/c702733c-9648-4596-96bd-a808513551fa)
 
 <center><span style="color: #011121">
 
-# TCP:: Transmission Control Protocol
+# TCP :: Transmission Control Protocol
 
-</span> 
-
-</center>
+</span></center>
 
 <!--Garante a Transmissão Confiável e Padronizada dos Dados: Ele é responsável por estabelecer uma conexão virtual entre remetentes e destinatários, dividir os dados em pacotes e controlar o fluxo de transmissão, sem que os dados sejam corrompidos ou alterados.-->
 
-* ### Conjunto de protocolos para a **comunicação em redes**
+* ## Conjunto de protocolos para a **comunicação em redes**
 
 * ### **Segurança** na transmissão da informação
 
 * ### **Comunicação eficiente** entre dispositivos e redes
 
 ---
-<!-- ---------------------------- Slide 14 - Tópico: O que é o IP? ---------------------------- -->
-<!-- backgroundImage: "linear-gradient(to bottom,#c5cdd9, #35495e, #1a2938  )" 
-_class: invert-->
-<!-- _color: #FFF -->
+
+<!-- --------------------------------- Slide 14 - Tópico: O que é o IP? --------------------------------- -->
+<!-- 
+backgroundImage: "linear-gradient(to bottom,#c5cdd9, #35495e, #1a2938 )" 
+_class: invert
+_color: #FFF -->
 
 ![bg left:50% h:600 network_cabling1](https://github.com/dcTeam23/fundamentos/assets/61756665/57016b83-be0f-4da5-86f9-22a1898746cc)
 
@@ -242,8 +270,7 @@ _class: invert-->
 
 # IP :: Internet Protocol
 
-</span> 
-
+</span>
 </center>
 
 Fornece **endereçamento e identificação** para cada dispositivo conectado à rede, permitindo que os pacotes de dados sejam corretamente encaminhados entre remetentes e destinatários garantindo a comunicação eficiente entre eles.
@@ -255,9 +282,12 @@ Além disso, o IP define como os pacotes de dados devem ser fragmentados, encaps
 Sem o IP, não seria possível estabelecer a conectividade e a troca de informações que caracterizam a internet e as redes de computadores.-->
 
 ---
-<!-- ---------------------------- Slide 15 - Tópico: Finalidades do TCP ---------------------------- -->
+
+<!-- --------------------------------- Slide 15 - Tópico: Finalidades do TCP --------------------------------- -->
 <!-- _class: invert -->
-#### O TCP oferece várias funcionalidades essenciais para a comunicação eficiente e confiável na internet e em outras redes. Algumas das principais finalidades do TCP são:
+
+## O TCP oferece várias funcionalidades essenciais para a comunicação eficiente e confiável na internet e em outras redes. Algumas das principais finalidades do TCP são:
+
 </br>
 
 * Confiabilidade
@@ -272,25 +302,31 @@ Sem o IP, não seria possível estabelecer a conectividade e a troca de informa�
 <!-- Estabelece uma conexão virtual entre remetentes e destinatários, permitindo a troca de dados. Ele também gerencia o encerramento dessa conexão de forma adequada e segura.-->
 
 ---
-<!-- -------------------------- Slide 16 - Tópico: Frase de Vint Cerf -------------------------- -->
+<!-- --------------------------------- Slide 16 - Tópico: Frase de Vint Cerf --------------------------------- -->
 <!-- _class: invert
-_color: gray  -->
-<!-- backgroundImage:  black -->
+_color: gray
+_backgroundImage:  black -->
 
 ![bg 80% image-5](https://github.com/dcTeam23/fundamentos/assets/61756665/75515c71-819f-4f0c-94b7-467d2d2ac5b2)
 
 <!-- "The internet we experience today has exceeded all my initial estimations." : "A internet que experimentamos hoje superou todas as minhas estimativas iniciais"
-À medida que a popularização da Internet crescia, o TCP/IP se consolidou como o protocolo padrão, impulsionando a expansão da rede mundial de computadores. Ele foi adotado por organizações, empresas e governos ao redor do mundo, criando um ambiente de conectividade sem precedentes. -->
+
+À medida que a popularização da Internet crescia, o TCP/IP se consolidou como o protocolo padrão, impulsionando a expansão da rede mundial de computadores. 
+
+Ele foi adotado por organizações, empresas e governos ao redor do mundo, criando um ambiente de conectividade sem precedentes. -->
 
 ---
 
-<!-- -------------------- Slide 17: Sistemas operacionais que utilizam o TCP/IP -------------------- -->
+<!-- -------------------------- Slide 17: Sistemas operacionais que utilizam o TCP/IP -------------------------- -->
 <!--_color: #c5cdd9-->
+
 backgroundImage: ![bg space](https://github.com/dcTeam23/fundamentos/assets/61756665/ac6b2249-3264-4291-a258-9c6cb8a4a74e) -->
 </br></br></br>
 
 ## <!--fit--> *Conectividade de Rede*
+
 # <!--fit-->  nos Principais Sistemas Operacionais
+
 <div class="columns">
 <div>
 
@@ -299,7 +335,7 @@ backgroundImage: ![bg space](https://github.com/dcTeam23/fundamentos/assets/6175
 </div>
 <div>
 
-* ## Linux **(sistema operacional de código aberto)**
+* ## Linux **(Sistema operacional de código aberto)**
 <!-- Linux, utilizado em servidores, dispositivos embarcados e muitos outros dispositivos-->
 
 * # Outros Sistemas **(Unix, Android e iOS)**
@@ -309,12 +345,15 @@ backgroundImage: ![bg space](https://github.com/dcTeam23/fundamentos/assets/6175
 </div>
 
 ---
-<!-- -------------------------- Slide 18 - Tópico: Arquitetura do TCP/IP -------------------------- -->
-<!-- _class: +invert -->
-<!-- backgroundImage: #c5cdd9 -->
-<!-- _color: #35495e -->
 
-<!--Comparado com o modelo OSI (modelo de referência, teórico) já sitado anteriormente, você pode ver como as 4 camadas TCP/IP (modelo prático) e suas funções estão relacionadas:-->
+<!-- -------------------------------- Slide 18 - Tópico: Arquitetura do TCP/IP -------------------------------- -->
+<!-- 
+_class: +invert
+backgroundImage: #c5cdd9
+_color: #35495e 
+_footer: ""-->
+
+<!--Comparado com o modelo OSI (modelo de referência, teórico) já citado anteriormente, você pode ver como as 4 camadas TCP/IP (modelo prático) e suas funções estão relacionadas:-->
 
 ![bg left:35% w:450](https://www.datarain.com.br/wp-content/uploads/2020/08/modelo-TCP-IP.png)
 
@@ -326,39 +365,44 @@ backgroundImage: ![bg space](https://github.com/dcTeam23/fundamentos/assets/6175
 
 <div>
 
-* ### Aplicação **(Camada 4)** Ex: HTTP, SSH, SMTP, DNS, SNMP  <!-- engloba as camadas de aplicação, apresentação e sessão -->
+* ### Aplicação **(Camada 4)** </br> Ex: HTTP, SSH, SMTP, DNS, SNMP  <!-- engloba as camadas de aplicação, apresentação e sessão -->
 
-* ### Transporte **(Camada 3)** Ex: TCP e UDP <!-- vira uma coisa só -->
+* ### Transporte **(Camada 3)** </br> Ex: TCP e UDP <!-- vira uma coisa só -->
 
 </div>
 <div>
 
-* ### Internet ou Rede **(Camada 2)** Ex: IP e ICMP <!-- vira uma coisa só -->
+* ### Internet ou Rede **(Camada 2)** </br> Ex: IP e ICMP <!-- vira uma coisa só -->
 
-* ### Network Acess **(Camada 1)** Ex: Ethernet, Wi-Fi, Bluetooth <!-- engloba as camadas de data link e físico -->
+* ### Network Acess **(Camada 1)** </br> Ex: Ethernet, Wi-Fi, Bluetooth <!-- engloba as camadas de data link e físico -->
 
 </div>
 </div>
 
 ---
-<!------------------------------- Slide 19 - Mas como? (Pergunta com Emoji Pensativo)------------------------------->
+<!-- --------------------------- Slide 19 - Mas como? (Pergunta com Emoji Pensativo) --------------------------- -->
 
 <!-- backgroundImage: #101010
 _color: dark
 _class: invert -->
 </br>
 
-# <!-- fit-->Mas... Como são utilizados para 
+# <!-- fit-->Mas... Como são utilizados para
+
 # <!-- fit-->*identificar* e *localizar*
+
 # <!-- fit--> dispositivos na rede? :thinking:
 
 </br>
 
 ---
-<!-- ----------------------------- Slide 20 - Tópico: Endereçamento IP ----------------------------- -->
-<!-- _class: +invert -->
-<!-- backgroundImage: #c5cdd9 -->
-<!-- _color: #35495e -->
+
+<!-- --------------------------------- Slide 20 - Tópico: Endereçamento IP --------------------------------- -->
+<!--
+_class: +invert
+backgroundImage: #c5cdd9
+_color: #35495e 
+_footer: ""-->
 
 ![bg right:40% w:480 enderecoIP](https://github.com/dcTeam23/fundamentos/assets/61756665/795a83fb-6de7-43af-bfb3-a129883b8b8d)
 
@@ -376,29 +420,37 @@ _class: invert -->
 
 ---
 <!-- --------------------------------- Slide 21 - Tópico: Conclusão --------------------------------- -->
-<!-- backgroundImage: #c5cdd9 -->
-<!-- _color: #35495e -->
+<!--
+backgroundImage: #c5cdd9
+_color: #35495e 
+_footer: ""-->
 
 ![bg left:38% w:850 78029121434_crop](https://github.com/dcTeam23/fundamentos/assets/61756665/b0c19f6a-9859-41af-a1cd-9ddf4b052fba)
 
 # Hoje, o TCP/IP é o alicerce da comunicação na Internet e em muitas outras redes. 
+
 ## É ele que permite que nossos dispositivos se conectem, troquem mensagens, acessem informações, realizem transações e nos ajudem a explorar o vasto mundo online.
 
-<!-- A história dos protocolos de comunicação é uma prova do poder da inovação e da busca por uma linguagem comum que transcende fronteiras e diferenças. A evolução desses protocolos nos conduziu a um futuro interconectado, onde a comunicação é instantânea e o compartilhamento de conhecimento é ilimitado.
+<!-- A história dos protocolos de comunicação é uma prova do poder da inovação e da busca por uma linguagem comum que transcende fronteiras e diferenças. 
 
-Nesta jornada pelo passado, podemos apreciar o impacto transformador dos protocolos de comunicação e a maneira como eles moldaram o mundo em que vivemos hoje. E enquanto continuamos avançando em direção ao desconhecido, podemos olhar para trás e agradecer aos pioneiros que nos trouxeram até aqui, conectando pessoas, ideias e possibilidades.-->
+A evolução desses protocolos nos conduziu a um futuro interconectado, onde a comunicação é instantânea e o compartilhamento de conhecimento é ilimitado.
+
+Nesta jornada pelo passado, podemos apreciar o impacto transformador dos protocolos de comunicação e a maneira como eles moldaram o mundo em que vivemos hoje. 
+
+E enquanto continuamos avançando em direção ao desconhecido, podemos olhar para trás e agradecer aos pioneiros que nos trouxeram até aqui, conectando pessoas, ideias e possibilidades.-->
 
 ---
 
-<!-- -------------------------- Slide 22- Tópico: Perguntas e discussões ------------------------- -->
+<!----------------------------------- Slide 22- Tópico: Perguntas e discussões--------------------------------- -->
 <!-- _class: invert -->
+
 <center>
 
 ## <!--fit--> :woman_shrugging: <span style="color: #FFF">  Perguntas?  </span> :man_shrugging:
 
-# Obrigada pela atenção!
+## Obrigada pela atenção!
 
-## Um ótimo dia pra todos!
+<center><span style="color:#1d2c3d"> Um ótimo dia pra todos! </span></center>
 
 # 🌻
 
