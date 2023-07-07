@@ -126,13 +126,13 @@ _class: lead -->
 <div class="columns">
 <div>
 
-* **Aplicação** – Funções especializadas no nível do aplicativo <!--finalizando na tela, onde materializa tudo que é nossa camada de aplicação.EX: e-mail, browser, FTP, Youtube)
+* **Aplicação** – Funções especializadas no nível do aplicativo <!--finalizando na tela, onde materializa tudo que é nossa camada de aplicação. Ex: e-mail, browser, FTP, Youtube)-->
 
-* **Apresentação** – Formatação de dados e conversão de caracteres e códigos. Ex: Compactador ZIP, algorítmo criptográfico. <!--tem que ter um codek,pra codificar a informação, sair de bits e bytes para imagem, cores e movimento -->
+* **Apresentação** – Formatação de dados e conversão de caracteres e códigos. Ex: Compactador ZIP, algorítmo criptográfico. <!--tem que ter um codek,pra codificar a informação, sair de bits e bytes para imagem, cores e movimento-->
 
-* **Sessão** – Estabelecimento, gerenciamento e encerramento das sessões entre 2 hosts. Ex: computador para um servidor de destino <!-- tem que ter controle dentro dentro da aplicação, dentro do youtube tem que fazer um controle entre o servidor e o cliente do youtube,  
+* **Sessão** – Estabelecimento, gerenciamento e encerramento das sessões entre 2 hosts. Ex: computador para um servidor de destino. <!--tem que ter controle dentro dentro da aplicação, dentro do youtube tem que fazer um controle entre o servidor e o cliente do youtube--> 
 
-* **Transporte** – Meios e métodos de entrega de dados de ponta a ponta.No momento do download, segmenta a informação e transporta. <!--só que aí eu tenho que ter um controle dessa transmissão, quem faz é a camada de transporte -->
+* **Transporte** – Meios e métodos de entrega de dados de ponta a ponta.No momento do download, segmenta a informação e transporta. <!--só que aí eu tenho que ter um controle dessa transmissão, quem faz é a camada de transporte-->
 
 </div>
 
@@ -289,8 +289,8 @@ _color: gray  -->
 backgroundImage: ![bg space](https://github.com/dcTeam23/fundamentos/assets/61756665/ac6b2249-3264-4291-a258-9c6cb8a4a74e) -->
 </br></br></br>
 
-## <!--fit---> *Conectividade de Rede*
-# <!--fit--->  nos Principais Sistemas Operacionais
+## <!--fit--> *Conectividade de Rede*
+# <!--fit-->  nos Principais Sistemas Operacionais
 <div class="columns">
 <div>
 
@@ -333,9 +333,9 @@ backgroundImage: ![bg space](https://github.com/dcTeam23/fundamentos/assets/6175
 </div>
 <div>
 
-* ### Internet ou Rede **(Camada 2)** IP e ICMP <!-- vira uma coisa só -->
+* ### Internet ou Rede **(Camada 2)** Ex: IP e ICMP <!-- vira uma coisa só -->
 
-* ### Network Acess **(Camada 1)** Ethernet, Wi-Fi, Bluetooth <!-- engloba as camadas de data link e físico -->
+* ### Network Acess **(Camada 1)** Ex: Ethernet, Wi-Fi, Bluetooth <!-- engloba as camadas de data link e físico -->
 
 </div>
 </div>
