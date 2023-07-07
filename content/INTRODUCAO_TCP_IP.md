@@ -28,7 +28,7 @@ backgroundImage: Url(https://ip-check.info/wp-content/uploads/2022/04/tcpip-696x
 
 ![bg conversa w:1000](https://github.com/dcTeam23/fundamentos/assets/61756665/fc7caafc-118a-4f2a-91fb-6ac06ab46503)
 
-<!--Olá pessoal, pra quem não me conhece,eu me chamo Janaína e vou apresentar uma introdução aos famosos Protocolo de Controle de Transmissão e Protocolo de Internet: TCP e IP.
+<!--Olá pessoal, me chamo Janaína e vou apresentar uma introdução aos famosos Protocolo de Controle de Transmissão e Protocolo de Internet: TCP e IP.
 
 Imagine uma sala cheia de pessoas conversando, cada uma com sua própria linguagem e forma de se comunicar. Agora, pense em como seria difícil para elas se entenderem e trocarem informações de maneira eficiente. É nesse momento que entra em cena o protocolo de comunicação.-->
 
@@ -41,7 +41,7 @@ _color: #c5cdd9  -->
 
 <!--O que é protocolo de comunicação?
 
-É como se fosse uma linguagem comum que todas as pessoas dessa sala deveriam falar para garantir que a informação seja transmitida corretamente.-->
+É como se fosse uma linguagem comum que todas as pessoas dessa sala deveriam falar para garantir que a informação seja transmitida corretamente,de maneira confiável, segura e padronizada.-->
 # <!--fit--> Protocolo de Comunicação
 
 </br>
@@ -57,8 +57,6 @@ _color: #c5cdd9  -->
 <!-- ----------------------------------- Slide 4: aspectos do protocolo ----------------------------------- -->
 <!-- backgroundImage: "linear-gradient(to bottom, #c5cdd9, #35495e)" 
 _color: black -->
-
-<!--Ele garante que a informação seja transmitida de maneira confiável, segura e padronizada.-->
 
 ## <!--fit--> Esse protocolo define aspectos como:
 
@@ -128,23 +126,23 @@ _class: lead -->
 <div class="columns">
 <div>
 
-* **Aplicativo** – funções especializadas no nível do aplicativo
+* **Aplicação** – Funções especializadas no nível do aplicativo <!--finalizando na tela, onde materializa tudo que é nossa camada de aplicação.EX: e-mail, browser, FTP, Youtube)
 
-* **Apresentação** – formatação de dados e conversão de caracteres e códigos
+* **Apresentação** – Formatação de dados e conversão de caracteres e códigos. Ex: Compactador ZIP, algorítmo criptográfico. <!--tem que ter um codek,pra codificar a informação, sair de bits e bytes para imagem, cores e movimento -->
 
-* **Sessão** – Negociação e estabelecimento de conexão com outro nó
+* **Sessão** – Estabelecimento, gerenciamento e encerramento das sessões entre 2 hosts. Ex: computador para um servidor de destino <!-- tem que ter controle dentro dentro da aplicação, dentro do youtube tem que fazer um controle entre o servidor e o cliente do youtube,  
 
-* **Transporte** – Meios e métodos de entrega de dados de ponta a ponta
+* **Transporte** – Meios e métodos de entrega de dados de ponta a ponta.No momento do download, segmenta a informação e transporta. <!--só que aí eu tenho que ter um controle dessa transmissão, quem faz é a camada de transporte -->
 
 </div>
 
 <div>
 
-* **Rede** – Roteamento de pacotes através de uma ou mais redes.
+* **Rede** – Escolha da rota de pacotes através de uma ou mais redes. Cuida da conectividade. Ex: Ethernet <!--ai eu tenho que sair da rede local e chegar no meu computador, tenho que ter um endereço IP que faça isso-->
 
-* **Link**  – Detecção e correção de erros introduzidos pelo meio de transmissão
+* **Data Link** – Detecção de erros introduzidos pelo meio de transmissão e formação do quadro. <!--depois essa luz é convertida num quadro de rede local -->
 
-* **Físico** – Transmissão de bits através do meio de transmissão.
+* **Físico** – Transmissão de bits através do meio de transmissão. <!--Ex:Como faço para receber um vídeo? Através do modelo OSI: chega um pulso de luz na camada física-->
 
 </div>
 </div>
@@ -316,7 +314,7 @@ backgroundImage: ![bg space](https://github.com/dcTeam23/fundamentos/assets/6175
 <!-- backgroundImage: #c5cdd9 -->
 <!-- _color: #35495e -->
 
-<!--Comparado com o modelo OSI já sitado anteriormente, você pode ver como as 4 camadas TCP/IP e suas funções estão relacionadas:-->
+<!--Comparado com o modelo OSI (modelo de referência, teórico) já sitado anteriormente, você pode ver como as 4 camadas TCP/IP (modelo prático) e suas funções estão relacionadas:-->
 
 ![bg left:35% w:450](https://www.datarain.com.br/wp-content/uploads/2020/08/modelo-TCP-IP.png)
 
@@ -328,16 +326,16 @@ backgroundImage: ![bg space](https://github.com/dcTeam23/fundamentos/assets/6175
 
 <div>
 
-* ### Aplicação **(Camada 4)**
+* ### Aplicação **(Camada 4)** Ex: HTTP, SSH, SMTP, DNS, SNMP  <!-- engloba as camadas de aplicação, apresentação e sessão -->
 
-* ### Transporte **(Camada 3)**
+* ### Transporte **(Camada 3)** Ex: TCP e UDP <!-- vira uma coisa só -->
 
 </div>
 <div>
 
-* ### Internet ou Rede **(Camada 2)**
+* ### Internet ou Rede **(Camada 2)** IP e ICMP <!-- vira uma coisa só -->
 
-* ### Link ou Físico **(Camada 1)**
+* ### Network Acess **(Camada 1)** Ethernet, Wi-Fi, Bluetooth <!-- engloba as camadas de data link e físico -->
 
 </div>
 </div>
