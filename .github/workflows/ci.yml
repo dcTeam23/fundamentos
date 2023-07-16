@@ -9,6 +9,9 @@ on:
       - synchronize
       - converted_to_draft
       - ready_for_review
+    paths:
+      - '*.md'
+      
     paths-ignore:
       - '.github/**'
     
@@ -27,6 +30,12 @@ jobs:
       issue-title: ${{ steps.issue-info.outputs.title }}
       id: ${{ steps.pr-info.outputs.id }}    
     steps:
+      - name: Checkout to repository
+        uses: actions/checkout@v2
+        with:
+          fetch-depth: 0
+          ref: ${{ github.event.pull_request.head.ref }}
+
       - name: Get PR INfo 
         id: pr-info
         run: |
@@ -51,6 +60,9 @@ jobs:
       - name: Check Pull 
         id: check-pr
         run: ${{needs.get-gh-info.outputs.pr-title}}
+
+  
+
 
   final-check:
     runs-on: ubuntu-latest
